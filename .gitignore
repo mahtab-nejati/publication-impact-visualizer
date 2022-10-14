@@ -1,2 +1,3 @@
 data/*.json
+!data/0EWw1z8AAAAJ.json
 *DS_Store
