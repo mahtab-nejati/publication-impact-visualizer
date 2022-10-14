@@ -14,7 +14,8 @@ from bokeh.models import (HoverTool, FileInput, Slider,
                           DataTable, TableColumn)
 from processor import process_data
 
-SCRAPER_LINK = 'hoho'
+SCRAPER_LINK = 'https://github.com/mahtab-nejati/google-scholar-scraper'
+REPO_LINK = 'https://github.com/mahtab-nejati/publication-impact-visualizer'
 AUTHORID = ''
 AUTHORNAME = ''
 DATA = {}
@@ -34,10 +35,12 @@ with open('./data/0EWw1z8AAAAJ.json', 'rb') as f:
 process_data(DATA, TIMESPAN, EARLIEST, LATEST, PROPER_YEARS)
 
 
-header = """
+header = f"""
     <h1>CS848: The art and science of empirical computer science</h1>
     <h3>The Visualization Project</h3>
-    <h4>By Mattie Nejati</h4>
+    <h4>By Mattie Nejati,
+        <span>Code available <a target='code' href='{REPO_LINK}'>on GitHub</a></span>
+    </h4>
 """
 header = Div(text=header, sizing_mode='stretch_width')
 
