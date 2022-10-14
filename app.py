@@ -1,9 +1,7 @@
-from decimal import ROUND_HALF_DOWN
 import io
 import base64
 import json
 from datetime import date
-from turtle import title, width
 from bokeh.io import curdoc
 from bokeh.plotting import figure
 from bokeh.layouts import column, row
