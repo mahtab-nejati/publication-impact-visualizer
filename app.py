@@ -177,6 +177,6 @@ table = DataTable(source=author_source, columns=cols,
 summary = column(summary_title, table)
 
 # curdoc().theme = 'dark_minimal'
+curdoc().title = "CS848 Visualization Project"
 curdoc().add_root(
     row(column(children=[header, row([column([instructions, inputs, summary]), plot])], sizing_mode='stretch_width')))
-curdoc().title = "CS848 Visualization Project"
