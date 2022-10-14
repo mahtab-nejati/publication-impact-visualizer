@@ -5,3 +5,5 @@ The course is instructed by [_Prof. Jimmy Lin_](https://cs.uwaterloo.ca/~jimmyli
 
 The visualization implements an interactive version of Figure 1.5.1 from the book ["**The Scinece of Science**"](https://www.dashunwang.com/book/the-science-of-science).
 It is deployed on Heroku. Feel free to access the tool through [this link](https://impactvis.herokuapp.com/app).
+
+The input data must be formatted similar to the output of scraper at [this repository](https://github.com/mahtab-nejati/google-scholar-scraper).
