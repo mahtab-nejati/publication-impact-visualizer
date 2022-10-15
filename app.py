@@ -164,7 +164,8 @@ author_source = ColumnDataSource()
 plot = figure(title=f'The number of citations after {TIMESPAN} years of publication (C{TIMESPAN})',
               x_axis_label=f'Publication Year{"" if PROPER_YEARS else " over Author Career"}',
               y_axis_label=f'C{TIMESPAN}',
-              sizing_mode='stretch_width')
+              sizing_mode='stretch_width',
+              tools='box_zoom,pan,wheel_zoom,xwheel_pan,ywheel_pan,reset,save')
 
 plot_lines = plot.vbar(x='view_year',
                        top='max_citations_in_timespan', source=lines_source,
