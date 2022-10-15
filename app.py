@@ -1,3 +1,4 @@
+from cgitb import text
 import io
 import base64
 import json
@@ -7,9 +8,10 @@ from bokeh.plotting import figure
 from bokeh.layouts import column, row
 from bokeh.models import (HoverTool, FileInput, Slider,
                           RangeSlider, CheckboxGroup,
-                          Dropdown, Div,
+                          Select, Div,
                           ColumnDataSource,
                           DataTable, TableColumn)
+from pandas import options
 from processor import process_data
 
 SCRAPER_LINK = 'https://github.com/mahtab-nejati/google-scholar-scraper'
@@ -21,17 +23,18 @@ EARLIEST = 1970
 LATEST = date.today().year
 TIMESPAN = 3
 PROPER_YEARS = True
+SAMPLE_AUTHORS = {'Choose one': '',
+                  'Jimmy Lin': '0EWw1z8AAAAJ',
+                  #   'Some Other Guy': 'kukA0LcAAAAJ',  # TODO: Fix name
+                  'Geoffrey Hinton': 'JicYPdAAAAAJ',
+                  'Yann LeCun': 'WLN3QrAAAAAJ',
+                  'Charles L. A. Clarke': 'TkVleDIAAAAJ',
+                  'Shane McIntosh': 'FxUqGoUAAAAJ',
+                  'Jian Zhao': '5v0elikAAAAJ'}
 
 AUTHOR = []
 DOTS = []
 LINES = []
-
-
-with open('./data/0EWw1z8AAAAJ.json', 'rb') as f:
-    DATA = json.load(f)
-
-process_data(DATA, TIMESPAN, EARLIEST, LATEST, PROPER_YEARS)
-
 
 header = f"""
     <h1>CS848: The art and science of empirical computer science</h1>
@@ -44,24 +47,31 @@ header = Div(text=header, sizing_mode='stretch_width')
 
 instructions = f"""
     <h2>Instructions:</h2>
-    <ol>
-        <li>Scrape the data for your author of interest using the scraper <a target='scraper' href="{SCRAPER_LINK}">at this link</a>.</li>
-        <li>Upload the .json file to the file input field below.</li>
-        <li>Use the sliders and checkbox below to tweak your visualizaiton.</li>
-    </ol>
+    <div>
+        <h3>To visualize data from a sample author:</h3>
+        <ol>
+            <li>Select a sample author form the dropdown.</li>
+            <li>Use the sliders and checkbox below to tweak your visualizaiton.</li>
+        </ol>
+    </div>
+    <div>
+        <h3>To visualize data from your selected author:</h3>
+        <ol>
+            <li>Scrape the data for your author of interest using the scraper <a target='scraper' href="{SCRAPER_LINK}">at this link</a>.</li>
+            <li>Upload the .json file to the file input field below.</li>
+            <li>Use the sliders and checkbox below to tweak your visualizaiton.</li>
+        </ol>
+    </div>
 """
 instructions = Div(text=instructions, sizing_mode='scale_both')
 
 
-def upload_data(attr, old, new):
-    decoded = base64.b64decode(new)
-    f = io.BytesIO(decoded)
-    global DATA, AUTHORID, AUTHORNAME, AUTHOR, DOTS, LINES
-    DATA = json.load(f)
-    AUTHORID = DATA['authorID']
-    AUTHORNAME = DATA['name']
-    # with open(f'./data/{AUTHORID}.json', 'w') as of:
-    #     json.dump(DATA, of)
+def update_visualization():
+    global AUTHORNAME, AUTHOR, DOTS, LINES
+    if DATA:
+        AUTHORNAME = DATA['name']
+    else:
+        AUTHORNAME = ''
     AUTHOR, DOTS, LINES = process_data(
         DATA, TIMESPAN, EARLIEST, LATEST, PROPER_YEARS)
     author_source.data = ColumnDataSource.from_df(AUTHOR)
@@ -70,68 +80,78 @@ def upload_data(attr, old, new):
     plot.title.text = f'The number of citations after {TIMESPAN} years of publication (C{TIMESPAN}){" (Author: "+AUTHORNAME+")" if AUTHORNAME else ""}'
 
 
+def visualize_sample(attr, old, new):
+    global DATA, AUTHORID
+    AUTHORID = SAMPLE_AUTHORS[new]
+    if AUTHORID:
+        with open(f'./data/{AUTHORID}.json', 'r') as of:
+            DATA = json.load(of)
+    else:
+        DATA = {}
+    update_visualization()
+
+
+def upload_data(attr, old, new):
+    decoded = base64.b64decode(new)
+    f = io.BytesIO(decoded)
+    global DATA, AUTHORID
+    DATA = json.load(f)
+    AUTHORID = DATA['authorID']
+    update_visualization()
+
+
 def update_range(attr, old, new):
-    global EARLIEST, LATEST, AUTHOR, DOTS, LINES
+    global EARLIEST, LATEST
     EARLIEST, LATEST = new
-    AUTHOR, DOTS, LINES = process_data(
-        DATA, TIMESPAN, EARLIEST, LATEST, PROPER_YEARS)
-    dots_source.data = ColumnDataSource.from_df(DOTS)
-    lines_source.data = ColumnDataSource.from_df(LINES)
+    update_visualization()
 
 
 def update_timespan(attr, old, new):
-    global TIMESPAN, AUTHOR, DOTS, LINES
+    global TIMESPAN
     TIMESPAN = new
-    AUTHOR, DOTS, LINES = process_data(
-        DATA, TIMESPAN, EARLIEST, LATEST, PROPER_YEARS)
-    dots_source.data = ColumnDataSource.from_df(DOTS)
-    lines_source.data = ColumnDataSource.from_df(LINES)
-    plot.title.text = f'The number of citations after {TIMESPAN} years of publication (C{TIMESPAN}){" (Author: "+AUTHORNAME+")" if AUTHORNAME else ""}'
+    update_visualization()
     plot.tools[-1].tooltips = [('Year', '@year'),
-                               (f'C{TIMESPAN}', '@citations'),
+                               (f'C{TIMESPAN}', '@citations_in_timespan'),
                                ('Count', '@papers_count'),
-                               ('Papers', '@tooltip{safe}')]
+                               ('Papers', '@tooltip_text{safe}')]
 
 
 def update_xticks(attr, old, new):
     global PROPER_YEARS, DOTS, LINES
     PROPER_YEARS = len(new) > 0
-    if DATA:
-        if PROPER_YEARS:
-            DOTS['view_year'] = DOTS.year
-            LINES['view_year'] = LINES.year
-        else:
-            DOTS['view_year'] = DOTS.career_year
-            LINES['view_year'] = LINES.career_year
-        dots_source.data = ColumnDataSource.from_df(DOTS)
-        lines_source.data = ColumnDataSource.from_df(LINES)
+    update_visualization()
     plot.xaxis.axis_label = f'Publication Year{"" if PROPER_YEARS else " over Author Career"}'
-    pass
 
 
+sample_data_select = Select(title="Select sample data",
+                            value='Choose one',
+                            options=list(SAMPLE_AUTHORS.keys()))
+sample_data_select.on_change('value', visualize_sample)
+
+data_file_title = Div(text="Upload your data file")
 data_file_input = FileInput(accept=".json")
 data_file_input.on_change('value', upload_data)
+data_file = column(data_file_title, data_file_input)
 
 
-years_range_slider = RangeSlider(
-    title="Papers published between (years)",
-    start=EARLIEST,
-    end=LATEST,
-    step=1,
-    value=(EARLIEST, LATEST),
-)
-years_range_slider.on_change('value', update_range)
+years_range_slider = RangeSlider(title="Papers published between (years)",
+                                 start=EARLIEST,
+                                 end=LATEST,
+                                 step=1,
+                                 value=(EARLIEST, LATEST))
+years_range_slider.on_change('value_throttled', update_range)
 
 timespan_slider = Slider(start=1, end=20, value=TIMESPAN,
                          step=1, title="Citation timespan (years)")
-timespan_slider.on_change('value', update_timespan)
+timespan_slider.on_change('value_throttled', update_timespan)
 
 proper_year_checkbox = CheckboxGroup(
     labels=['X ticks in proper year of publication'], active=[0])
 proper_year_checkbox.on_change('active', update_xticks)
 
 
-inputs = column(data_file_input,
+inputs = column(row(sample_data_select,
+                    data_file),
                 years_range_slider,
                 timespan_slider,
                 proper_year_checkbox)

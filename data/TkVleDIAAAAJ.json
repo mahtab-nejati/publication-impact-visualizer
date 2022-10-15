@@ -1,0 +1,5746 @@
+{
+  "authorID": "TkVleDIAAAAJ",
+  "name": "Charles L. A. Clarke",
+  "image_link": null,
+  "interests": ["Information Retrieval", "Web Search", "Text Mining"],
+  "citations": 10905,
+  "hindex": 49,
+  "i10index": 138,
+  "citation_histogram": [
+    ["1998", "40"],
+    ["1999", "64"],
+    ["2000", "63"],
+    ["2001", "81"],
+    ["2002", "139"],
+    ["2003", "177"],
+    ["2004", "221"],
+    ["2005", "220"],
+    ["2006", "294"],
+    ["2007", "375"],
+    ["2008", "392"],
+    ["2009", "452"],
+    ["2010", "499"],
+    ["2011", "677"],
+    ["2012", "645"],
+    ["2013", "765"],
+    ["2014", "697"],
+    ["2015", "653"],
+    ["2016", "737"],
+    ["2017", "703"],
+    ["2018", "614"],
+    ["2019", "548"],
+    ["2020", "570"],
+    ["2021", "605"],
+    ["2022", "429"]
+  ],
+  "coauthors": [
+    ["wFuZKaUAAAAJ", "Gordon V. Cormack"],
+    ["BgiGGQQAAAAJ", "Mark D. Smucker"],
+    ["2Q3opAIAAAAJ", "Azin Ashkan"],
+    ["iUSoWjUAAAAJ", "Egidio Terra"],
+    ["TcFyZgcAAAAJ", "Ian Soboroff"],
+    ["NXNZbEsAAAAJ", "Nick Craswell"],
+    ["bWlQ2uEAAAAJ", "Jaap Kamps"],
+    ["_JIAAAAJ", "Olga Vechtomova"],
+    ["3BX3vWcAAAAJ", "Eugene Agichtein"],
+    ["0EWw1z8AAAAJ", "Jimmy Lin"],
+    ["Bfs9j20AAAAJ", "Ellen Voorhees"],
+    ["X1DJkzEAAAAJ", "Luchen Tan"],
+    ["NsAvaPAAAAAJ", "Adam Roegiest"],
+    ["rLkAAAAJ", "K Itakura"],
+    ["0pPzV2wAAAAJ", "Luanne (Freund) Sinnamon"],
+    ["IBjMKHQAAAAJ", "Craig Macdonald"],
+    ["oK5QAAAAJ", "Qi Guo"],
+    ["OFlBSEEAAAAJ", "J. Shane Culpepper"],
+    ["FXCxK6sAAAAJ", "Carolyn Lamb"],
+    ["BlAgafwAAAAJ", "Susan Elliott Sim"],
+    ["x8dED5cAAAAJ", "Susan Dumais"],
+    ["AIncPrIAAAAJ", "Paul N. Bennett"],
+    ["ZrlJD9AAAAAJ", "Julia Kiseleva"],
+    ["WcAAAAAJ", "Paul Thomas"],
+    ["tahpxEYAAAAJ", "Craig S. Kaplan"],
+    ["LdGogroAAAAJ", "Celine Latulipe"],
+    ["HmqvvQkAAAAJ", "Mark Sanderson"],
+    ["7GiUcaEAAAAJ", "Amira Ghenai"],
+    ["q__pgY9AkUQJ", "Kevyn Collins-Thompson"],
+    ["U69fiZMAAAAJ", "Ryen W. White"],
+    ["6JEtPPkAAAAJ", "Seyyed Hadi Hashemi"],
+    ["o7cz97l31z8J", "Jussi Karlgren"],
+    ["vi56gz4AAAAJ", "Tetsuya Sakai"],
+    ["rKQMXOEAAAAJ", "Iadh Ounis"],
+    ["ocmAN4YAAAAJ", "Emine Yilmaz"],
+    ["kmVxlf0AAAAJ", "Elaine Toms"],
+    ["0K0G50IAAAAJ", "Nicholas Belkin"],
+    ["bLGeg0AAAAJ", "James Allan"],
+    ["Un5KXJ4AAAAJ", "Jamie Callan"],
+    ["R_1o4RIAAAAJ", "Negar Arabzadeh"],
+    ["YiiS_hUAAAAJ", "Andrew Trotman"],
+    ["212SLn0AAAAJ", "Fernando Diaz"],
+    ["qOLjlqsAAAAJ", "Falk Scholer"],
+    ["Mtt1ewoAAAAJ", "Maura R. Grossman"],
+    ["A0AAAAJ", "Haotian Zhang"],
+    ["shJFscsAAAAJ", "Denis Savenkov"],
+    ["IKVCQG8AAAAJ", "noriko kando"],
+    ["JX5VMAkAAAAJ", "Alejandro Lopez-Ortiz"],
+    ["oxmZsFcAAAAJ", "Roberto Konow"],
+    ["_fx52FkAAAAJ", "Gonzalo Navarro"],
+    ["Yz35RSYAAAAJ", "Flora Salim"],
+    ["ZZl7bW8AAAAJ", "Yongli Ren"],
+    ["3jQ1Zh4AAAAJ", "Joel Mackenzie"],
+    ["Kmt375YAAAAJ", "Roi Blanco"],
+    ["dRqoj80AAAAJ", "Matt Crane"],
+    ["r3xSME0AAAAJ", "Alistair Moffat"],
+    ["Il5MluEAAAAJ", "John A. Akinyemi, PhD"],
+    ["baPIAAAAJ", "ChengXiang Zhai"],
+    ["spRnaQAAAAJ", "Javed Aslam"],
+    ["YCU2cT0AAAAJ", "Vanessa Murdock"],
+    ["GYsAAAAJ", "Hugh E Williams"],
+    ["0lic4McAAAAJ", "Donna Harman"],
+    ["Ww8A0yAAAAAJ", "Martin Tomko"],
+    ["I9mDeiYAAAAJ", "Jeffrey Chan"],
+    ["hwAAAAJ", "Eric Ringger"],
+    ["NoBlw7EAAAAJ", "Andrea Bunt"],
+    ["hTH3h8AAAAAJ", "Ben Lafreniere"],
+    ["U1VhAAQAAAAJ", "Michael Terry"],
+    ["V6lEDMEAAAAJ", "Gaurav Baruah"],
+    ["wAr9G5sAAAAJ", "Mounia Lalmas"],
+    ["3sjbpokAAAAJ", "Dyaa Albakour"],
+    ["al7zULkAAAAJ", "Veli Bicer"],
+    ["wb2Ll78AAAAJ", "Silviu Cucerzan"],
+    ["XI2CP68AAAAJ", "Idan Szpektor"],
+    ["x483lssAAAAJ", "Johanne R. Trippas"],
+    ["jJ8BLgsAAAAJ", "Li Xiong"],
+    ["nafo_HAAAAAJ", "Grace Hui Yang"],
+    ["87fGQ0AAAAAJ", "Simson Garfinkel"],
+    ["Vh2AUh4AAAAJ", "Zeynep Akkalyoncu"],
+    ["KoAAAAJ", "David Mason"],
+    ["OOssnq8AAAAJ", "Edith Law"],
+    ["aEVHhC8AAAAJ", "Guido Zuccon"],
+    ["QV3v_8kAAAAJ", "Maria Maistro"],
+    ["wIE1tY4AAAAJ", "Jun Wang"],
+    ["8W8gwisAAAAJ", "Hideo Joho"],
+    ["YJuN_H8AAAAJ", "Gareth J. F. Jones"],
+    ["LI8JbiIAAAAJ", "David Carmel"],
+    ["_wX4sFYAAAAJ", "Praveen Paritosh"],
+    ["3ctKkysAAAAJ", "Douglas W. Oard"],
+    ["0HybxV4AAAAJ", "Evangelos Kanoulas"],
+    ["i3qQYn0AAAAJ", "Paul B. Kantor"],
+    ["AVDkgFIAAAAJ", "Maarten de Rijke"],
+    ["ArV74ZMAAAAJ", "W. Bruce Croft"],
+    ["7YfAN68AAAAJ", "Alexandra (Sasha) Vtyurina"],
+    ["p53Ht7UAAAAJ", "Norbert Fuhr"],
+    ["w9YiYrsAAAAJ", "Wessel Kraaij"],
+    ["u9Y32vsAAAAJ", "Roeland Ordelman"]
+  ],
+  "publications": [
+    {
+      "title": "Novelty and diversity in information retrieval evaluation",
+      "link": null,
+      "year": 2008,
+      "cited_by": 1133,
+      "authors": [
+        "Charles LA Clarke",
+        "Maheedhar Kolla",
+        "Gordon V Cormack",
+        "Olga Vechtomova",
+        "Azin Ashkan",
+        "Stefan B\u00fcttcher",
+        "Ian MacKinnon"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2008, 4],
+        [2009, 37],
+        [2010, 61],
+        [2011, 108],
+        [2012, 92],
+        [2013, 100],
+        [2014, 97],
+        [2015, 100],
+        [2016, 107],
+        [2017, 91],
+        [2018, 81],
+        [2019, 80],
+        [2020, 63],
+        [2021, 64],
+        [2022, 36]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Information retrieval: Implementing and evaluating search engines",
+      "link": null,
+      "year": 2016,
+      "cited_by": 704,
+      "authors": ["Stefan Buttcher", "Charles LA Clarke", "Gordon V Cormack"],
+      "description": null,
+      "citation_histogram": [
+        [2010, 8],
+        [2011, 32],
+        [2012, 63],
+        [2013, 65],
+        [2014, 65],
+        [2015, 67],
+        [2016, 64],
+        [2017, 74],
+        [2018, 75],
+        [2019, 56],
+        [2020, 49],
+        [2021, 37],
+        [2022, 34]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Overview of the TREC 2009 web track",
+      "link": null,
+      "year": 2009,
+      "cited_by": 590,
+      "authors": ["Charles L Clarke", "Nick Craswell", "Ian Soboroff"],
+      "description": null,
+      "citation_histogram": [
+        [2009, 3],
+        [2010, 39],
+        [2011, 65],
+        [2012, 71],
+        [2013, 79],
+        [2014, 58],
+        [2015, 39],
+        [2016, 44],
+        [2017, 24],
+        [2018, 33],
+        [2019, 21],
+        [2020, 35],
+        [2021, 40],
+        [2022, 33]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Efficient and effective spam filtering and re-ranking for large web datasets",
+      "link": null,
+      "year": 2011,
+      "cited_by": 386,
+      "authors": ["Gordon V Cormack", "Mark D Smucker", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2010, 13],
+        [2011, 39],
+        [2012, 38],
+        [2013, 53],
+        [2014, 35],
+        [2015, 30],
+        [2016, 41],
+        [2017, 25],
+        [2018, 19],
+        [2019, 24],
+        [2020, 23],
+        [2021, 30],
+        [2022, 11]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Reciprocal rank fusion outperforms condorcet and individual rank learning methods",
+      "link": null,
+      "year": 2009,
+      "cited_by": 376,
+      "authors": ["Gordon V Cormack", "Charles LA Clarke", "Stefan Buettcher"],
+      "description": null,
+      "citation_histogram": [
+        [2009, 2],
+        [2010, 4],
+        [2011, 9],
+        [2012, 12],
+        [2013, 24],
+        [2014, 26],
+        [2015, 31],
+        [2016, 27],
+        [2017, 27],
+        [2018, 32],
+        [2019, 49],
+        [2020, 45],
+        [2021, 48],
+        [2022, 37]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Exploiting redundancy in question answering",
+      "link": null,
+      "year": 2001,
+      "cited_by": 324,
+      "authors": ["Charles LA Clarke", "Gordon V Cormack", "Thomas R Lynam"],
+      "description": null,
+      "citation_histogram": [
+        [2000, 1],
+        [2001, 1],
+        [2002, 19],
+        [2003, 29],
+        [2004, 28],
+        [2005, 22],
+        [2006, 21],
+        [2007, 33],
+        [2008, 25],
+        [2009, 28],
+        [2010, 15],
+        [2011, 15],
+        [2012, 15],
+        [2013, 10],
+        [2014, 14],
+        [2015, 6],
+        [2016, 6],
+        [2017, 10],
+        [2018, 1],
+        [2019, 5],
+        [2020, 3],
+        [2021, 5],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Efficient construction of large test collections",
+      "link": null,
+      "year": 1998,
+      "cited_by": 285,
+      "authors": [
+        "Gordon V Cormack",
+        "Christopher R Palmer",
+        "Charles LA Clarke"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [1998, 1],
+        [1999, 1],
+        [2000, 3],
+        [2001, 7],
+        [2002, 6],
+        [2003, 8],
+        [2004, 14],
+        [2005, 17],
+        [2006, 17],
+        [2007, 24],
+        [2008, 13],
+        [2009, 12],
+        [2010, 16],
+        [2011, 14],
+        [2012, 6],
+        [2013, 14],
+        [2014, 14],
+        [2015, 8],
+        [2016, 17],
+        [2017, 15],
+        [2018, 15],
+        [2019, 14],
+        [2020, 12],
+        [2021, 10],
+        [2022, 6]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Frequency estimates for statistical word similarity measures",
+      "link": null,
+      "year": 2003,
+      "cited_by": 284,
+      "authors": ["Egidio L Terra", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2003, 2],
+        [2004, 16],
+        [2005, 17],
+        [2006, 21],
+        [2007, 19],
+        [2008, 16],
+        [2009, 17],
+        [2010, 17],
+        [2011, 16],
+        [2012, 19],
+        [2013, 26],
+        [2014, 22],
+        [2015, 14],
+        [2016, 13],
+        [2017, 10],
+        [2018, 12],
+        [2019, 12],
+        [2020, 5],
+        [2021, 3],
+        [2022, 4]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Relevance ranking for one to three term queries",
+      "link": null,
+      "year": 2000,
+      "cited_by": 281,
+      "authors": [
+        "Charles LA Clarke",
+        "Gordon V Cormack",
+        "Elizabeth A Tudhope"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [1999, 8],
+        [2000, 7],
+        [2001, 7],
+        [2002, 14],
+        [2003, 9],
+        [2004, 13],
+        [2005, 17],
+        [2006, 14],
+        [2007, 12],
+        [2008, 19],
+        [2009, 16],
+        [2010, 19],
+        [2011, 12],
+        [2012, 13],
+        [2013, 14],
+        [2014, 14],
+        [2015, 7],
+        [2016, 7],
+        [2017, 15],
+        [2018, 6],
+        [2019, 11],
+        [2020, 6],
+        [2021, 5],
+        [2022, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "An algebra for structured text search and a framework for its implementation",
+      "link": null,
+      "year": 1995,
+      "cited_by": 260,
+      "authors": [
+        "Charles LA Clarke",
+        "Gordon V.  Cormack",
+        "Forbes J.  Burkowski"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [1994, 2],
+        [1995, 9],
+        [1996, 5],
+        [1997, 10],
+        [1998, 15],
+        [1999, 16],
+        [2000, 11],
+        [2001, 13],
+        [2002, 14],
+        [2003, 12],
+        [2004, 30],
+        [2005, 15],
+        [2006, 16],
+        [2007, 10],
+        [2008, 17],
+        [2009, 8],
+        [2010, 10],
+        [2011, 7],
+        [2012, 7],
+        [2013, 2],
+        [2014, 4],
+        [2015, 4],
+        [2016, 4],
+        [2017, 5],
+        [2018, 3],
+        [2019, 2],
+        [2020, 1],
+        [2021, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Term proximity scoring for ad-hoc retrieval on very large text collections",
+      "link": null,
+      "year": 2006,
+      "cited_by": 231,
+      "authors": ["Stefan B\u00fcttcher", "Charles LA Clarke", "Brad Lushman"],
+      "description": null,
+      "citation_histogram": [
+        [2005, 1],
+        [2006, 2],
+        [2007, 13],
+        [2008, 20],
+        [2009, 21],
+        [2010, 20],
+        [2011, 22],
+        [2012, 21],
+        [2013, 18],
+        [2014, 22],
+        [2015, 11],
+        [2016, 13],
+        [2017, 9],
+        [2018, 9],
+        [2019, 11],
+        [2020, 12],
+        [2021, 2],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Time-based calibration of effectiveness measures",
+      "link": null,
+      "year": 2012,
+      "cited_by": 216,
+      "authors": ["Mark D Smucker", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2012, 10],
+        [2013, 28],
+        [2014, 27],
+        [2015, 19],
+        [2016, 30],
+        [2017, 33],
+        [2018, 18],
+        [2019, 10],
+        [2020, 14],
+        [2021, 15],
+        [2022, 10]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Overview of the TREC 2004 Terabyte Track.",
+      "link": null,
+      "year": 2004,
+      "cited_by": 180,
+      "authors": ["Charles LA Clarke", "Nick Craswell", "Ian Soboroff"],
+      "description": null,
+      "citation_histogram": [
+        [2005, 9],
+        [2006, 17],
+        [2007, 20],
+        [2008, 14],
+        [2009, 10],
+        [2010, 14],
+        [2011, 9],
+        [2012, 10],
+        [2013, 6],
+        [2014, 4],
+        [2015, 7],
+        [2016, 8],
+        [2017, 10],
+        [2018, 9],
+        [2019, 8],
+        [2020, 7],
+        [2021, 9],
+        [2022, 8]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The influence of caption features on clickthrough patterns in web search",
+      "link": null,
+      "year": 2007,
+      "cited_by": 168,
+      "authors": [
+        "Charles LA Clarke",
+        "Eugene Agichtein",
+        "Susan Dumais",
+        "Ryen W White"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2008, 13],
+        [2009, 14],
+        [2010, 11],
+        [2011, 20],
+        [2012, 9],
+        [2013, 16],
+        [2014, 13],
+        [2015, 12],
+        [2016, 13],
+        [2017, 7],
+        [2018, 6],
+        [2019, 7],
+        [2020, 9],
+        [2021, 4],
+        [2022, 8]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Question Answering by Passage Selection (MultiText Experiments for TREC-9).",
+      "link": null,
+      "year": 2000,
+      "cited_by": 163,
+      "authors": [
+        "Charles LA Clarke",
+        "Gordon V Cormack",
+        "Derek IE Kisman",
+        "Thomas R Lynam"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2000, 1],
+        [2001, 14],
+        [2002, 20],
+        [2003, 17],
+        [2004, 11],
+        [2005, 6],
+        [2006, 11],
+        [2007, 15],
+        [2008, 12],
+        [2009, 9],
+        [2010, 10],
+        [2011, 2],
+        [2012, 9],
+        [2013, 5],
+        [2014, 1],
+        [2015, 7],
+        [2016, 4],
+        [2017, 4],
+        [2018, 2],
+        [2019, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "TREC 2014 web track overview",
+      "link": null,
+      "year": 2015,
+      "cited_by": 156,
+      "authors": [
+        "Kevyn Collins-Thompson",
+        "Craig Macdonald",
+        "Paul Bennett",
+        "Fernando Diaz",
+        "Ellen M Voorhees"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2014, 3],
+        [2015, 18],
+        [2016, 26],
+        [2017, 18],
+        [2018, 30],
+        [2019, 14],
+        [2020, 12],
+        [2021, 19],
+        [2022, 12]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Archetypal source code searches: A survey of software developers and maintainers",
+      "link": null,
+      "year": 1998,
+      "cited_by": 147,
+      "authors": ["Susan Elliott Sim", "Charles LA Clarke", "Richard C Holt"],
+      "description": null,
+      "citation_histogram": [
+        [1998, 3],
+        [1999, 3],
+        [2000, 2],
+        [2001, 2],
+        [2002, 8],
+        [2003, 5],
+        [2004, 4],
+        [2005, 3],
+        [2006, 7],
+        [2007, 8],
+        [2008, 3],
+        [2009, 5],
+        [2010, 7],
+        [2011, 15],
+        [2012, 6],
+        [2013, 14],
+        [2014, 8],
+        [2015, 7],
+        [2016, 7],
+        [2017, 7],
+        [2018, 6],
+        [2019, 7],
+        [2020, 3],
+        [2021, 3],
+        [2022, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "An effectiveness measure for ambiguous and underspecified queries",
+      "link": null,
+      "year": 2009,
+      "cited_by": 145,
+      "authors": ["Charles LA Clarke", "Maheedhar Kolla", "Olga Vechtomova"],
+      "description": null,
+      "citation_histogram": [
+        [2009, 2],
+        [2010, 11],
+        [2011, 15],
+        [2012, 11],
+        [2013, 20],
+        [2014, 20],
+        [2015, 11],
+        [2016, 10],
+        [2017, 9],
+        [2018, 9],
+        [2019, 2],
+        [2020, 9],
+        [2021, 8],
+        [2022, 6]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A comparative analysis of cascade measures for novelty and diversity",
+      "link": null,
+      "year": 2011,
+      "cited_by": 144,
+      "authors": [
+        "Charles LA Clarke",
+        "Nick Craswell",
+        "Ian Soboroff",
+        "Azin Ashkan"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2010, 1],
+        [2011, 13],
+        [2012, 24],
+        [2013, 30],
+        [2014, 12],
+        [2015, 13],
+        [2016, 10],
+        [2017, 10],
+        [2018, 6],
+        [2019, 7],
+        [2020, 6],
+        [2021, 9],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Overview of the TREC 2013 contextual suggestion track",
+      "link": null,
+      "year": 2013,
+      "cited_by": 125,
+      "authors": [
+        "Adriel Dean-Hall",
+        "Charles L Clarke",
+        "Jaap Kamps",
+        "Paul Thomas",
+        "Nicole Simone",
+        "Ellen Voorhees"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2012, 1],
+        [2013, 6],
+        [2014, 25],
+        [2015, 20],
+        [2016, 27],
+        [2017, 15],
+        [2018, 13],
+        [2019, 5],
+        [2020, 1],
+        [2021, 9],
+        [2022, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Reliable information retrieval evaluation with incomplete and biased judgements",
+      "link": null,
+      "year": 2007,
+      "cited_by": 119,
+      "authors": [
+        "Stefan B\u00fcttcher",
+        "Charles LA Clarke",
+        "Peter CK Yeung",
+        "Ian Soboroff"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2007, 3],
+        [2008, 8],
+        [2009, 5],
+        [2010, 8],
+        [2011, 5],
+        [2012, 6],
+        [2013, 15],
+        [2014, 9],
+        [2015, 10],
+        [2016, 10],
+        [2017, 13],
+        [2018, 4],
+        [2019, 7],
+        [2020, 7],
+        [2021, 4],
+        [2022, 5]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Classifying and characterizing query intent",
+      "link": null,
+      "year": 2009,
+      "cited_by": 114,
+      "authors": [
+        "Azin Ashkan",
+        "Charles LA Clarke",
+        "Eugene Agichtein",
+        "Qi Guo"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2009, 3],
+        [2010, 3],
+        [2011, 8],
+        [2012, 14],
+        [2013, 13],
+        [2014, 13],
+        [2015, 12],
+        [2016, 12],
+        [2017, 5],
+        [2018, 9],
+        [2019, 6],
+        [2020, 9],
+        [2021, 4],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A document-centric approach to static index pruning in text retrieval systems",
+      "link": null,
+      "year": 2006,
+      "cited_by": 113,
+      "authors": ["Stefan B\u00fcttcher", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2006, 1],
+        [2007, 7],
+        [2008, 14],
+        [2009, 17],
+        [2010, 13],
+        [2011, 8],
+        [2012, 14],
+        [2013, 12],
+        [2014, 3],
+        [2015, 5],
+        [2016, 5],
+        [2017, 3],
+        [2018, 2],
+        [2019, 1],
+        [2020, 4],
+        [2021, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Shortest Substring Ranking (MultiText Experiments for TREC-4).",
+      "link": null,
+      "year": 1995,
+      "cited_by": 107,
+      "authors": [
+        "Charles LA Clarke",
+        "Gordon V Cormack",
+        "Forbes J Burkowski"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [1996, 4],
+        [1997, 1],
+        [1998, 4],
+        [1999, 9],
+        [2000, 4],
+        [2001, 2],
+        [2002, 6],
+        [2003, 8],
+        [2004, 4],
+        [2005, 4],
+        [2006, 1],
+        [2007, 7],
+        [2008, 4],
+        [2009, 9],
+        [2010, 7],
+        [2011, 6],
+        [2012, 9],
+        [2013, 4],
+        [2014, 4],
+        [2015, 4],
+        [2016, 2],
+        [2017, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Exploring conversational search with humans, assistants, and wizards",
+      "link": null,
+      "year": 2017,
+      "cited_by": 106,
+      "authors": [
+        "Alexandra Vtyurina",
+        "Denis Savenkov",
+        "Eugene Agichtein",
+        "Charles LA Clarke"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2017, 1],
+        [2018, 10],
+        [2019, 11],
+        [2020, 33],
+        [2021, 26],
+        [2022, 25]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Web Reinforced Question Answering (MultiTest Experiments for TREC 2001).",
+      "link": null,
+      "year": 2001,
+      "cited_by": 94,
+      "authors": [
+        "Charles LA Clarke",
+        "Gordon V Cormack",
+        "Thomas R Lynam",
+        "CM Li",
+        "GL McLearn"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2001, 1],
+        [2002, 17],
+        [2003, 17],
+        [2004, 11],
+        [2005, 4],
+        [2006, 6],
+        [2007, 5],
+        [2008, 10],
+        [2009, 6],
+        [2010, 4],
+        [2011, 3],
+        [2012, 1],
+        [2013, 4],
+        [2014, 1],
+        [2015, 2],
+        [2016, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Indexing time vs. query time: trade-offs in dynamic information retrieval systems",
+      "link": null,
+      "year": 2005,
+      "cited_by": 89,
+      "authors": ["Stefan B\u00fcttcher", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2005, 2],
+        [2006, 6],
+        [2007, 7],
+        [2008, 11],
+        [2009, 12],
+        [2010, 6],
+        [2011, 10],
+        [2012, 9],
+        [2013, 10],
+        [2014, 3],
+        [2015, 3],
+        [2016, 3],
+        [2017, 2],
+        [2018, 4],
+        [2019, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The TREC 2006 Terabyte Track.",
+      "link": null,
+      "year": 2006,
+      "cited_by": 86,
+      "authors": ["Stefan B\u00fcttcher", "Charles LA Clarke", "Ian Soboroff"],
+      "description": null,
+      "citation_histogram": [
+        [2007, 5],
+        [2008, 10],
+        [2009, 8],
+        [2010, 6],
+        [2011, 16],
+        [2012, 4],
+        [2013, 6],
+        [2014, 5],
+        [2015, 3],
+        [2016, 3],
+        [2017, 3],
+        [2018, 2],
+        [2019, 1],
+        [2020, 6],
+        [2021, 7],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Controlling overlap in content-oriented XML retrieval",
+      "link": null,
+      "year": 2005,
+      "cited_by": 85,
+      "authors": ["Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2005, 1],
+        [2006, 10],
+        [2007, 15],
+        [2008, 7],
+        [2009, 15],
+        [2010, 7],
+        [2011, 8],
+        [2012, 7],
+        [2013, 7],
+        [2014, 2],
+        [2015, 2],
+        [2016, 1],
+        [2017, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Shortest-substring retrieval and ranking",
+      "link": null,
+      "year": 2000,
+      "cited_by": 84,
+      "authors": ["Charles LA Clarke", "Gordon V Cormack"],
+      "description": null,
+      "citation_histogram": [
+        [2001, 2],
+        [2002, 2],
+        [2003, 12],
+        [2004, 9],
+        [2005, 9],
+        [2006, 6],
+        [2007, 9],
+        [2008, 1],
+        [2009, 5],
+        [2010, 4],
+        [2011, 4],
+        [2012, 4],
+        [2013, 1],
+        [2014, 2],
+        [2015, 3],
+        [2016, 1],
+        [2017, 3],
+        [2018, 1],
+        [2019, 1],
+        [2020, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Improving document clustering using Okapi BM25 feature weighting",
+      "link": null,
+      "year": 2011,
+      "cited_by": 83,
+      "authors": ["John S Whissell", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2011, 1],
+        [2012, 3],
+        [2013, 6],
+        [2014, 8],
+        [2015, 3],
+        [2016, 6],
+        [2017, 8],
+        [2018, 8],
+        [2019, 6],
+        [2020, 8],
+        [2021, 17],
+        [2022, 8]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Hybrid index maintenance for growing text collections",
+      "link": null,
+      "year": 2006,
+      "cited_by": 78,
+      "authors": ["Stefan B\u00fcttcher", "Charles LA Clarke", "Brad Lushman"],
+      "description": null,
+      "citation_histogram": [
+        [2007, 9],
+        [2008, 13],
+        [2009, 13],
+        [2010, 8],
+        [2011, 13],
+        [2012, 5],
+        [2013, 6],
+        [2014, 3],
+        [2015, 3],
+        [2016, 1],
+        [2017, 1],
+        [2018, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Modeling task-genre relationships for IR in the workplace",
+      "link": null,
+      "year": 2005,
+      "cited_by": 78,
+      "authors": ["Luanne Freund", "Elaine G Toms", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2005, 3],
+        [2006, 9],
+        [2007, 12],
+        [2008, 6],
+        [2009, 8],
+        [2010, 2],
+        [2011, 4],
+        [2012, 4],
+        [2013, 4],
+        [2014, 5],
+        [2015, 4],
+        [2016, 3],
+        [2017, 3],
+        [2018, 1],
+        [2019, 1],
+        [2020, 1],
+        [2021, 2],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Bimanual and unimanual image alignment: an evaluation of mouse-based techniques",
+      "link": null,
+      "year": 2005,
+      "cited_by": 74,
+      "authors": ["Celine Latulipe", "Craig S Kaplan", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2004, 1],
+        [2005, 1],
+        [2006, 10],
+        [2007, 7],
+        [2008, 4],
+        [2009, 6],
+        [2010, 7],
+        [2011, 10],
+        [2012, 9],
+        [2013, 3],
+        [2014, 2],
+        [2015, 4],
+        [2016, 5],
+        [2017, 1],
+        [2018, 1],
+        [2019, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "On the use of regular expressions for searching text",
+      "link": null,
+      "year": 1997,
+      "cited_by": 71,
+      "authors": ["Charles LA Clarke", "Gordon V Cormack"],
+      "description": null,
+      "citation_histogram": [
+        [1997, 3],
+        [1998, 4],
+        [1999, 2],
+        [2000, 3],
+        [2001, 1],
+        [2002, 3],
+        [2003, 6],
+        [2004, 9],
+        [2005, 4],
+        [2006, 5],
+        [2007, 4],
+        [2008, 2],
+        [2009, 1],
+        [2010, 1],
+        [2011, 1],
+        [2012, 2],
+        [2013, 4],
+        [2014, 3],
+        [2015, 2],
+        [2016, 3],
+        [2017, 1],
+        [2018, 2],
+        [2019, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Browsing and searching software architectures",
+      "link": null,
+      "year": 1999,
+      "cited_by": 68,
+      "authors": [
+        "S Elliott Sim",
+        "Charles LA Clarke",
+        "Richard C Holt",
+        "Anthony M Cox"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [1999, 1],
+        [2000, 8],
+        [2001, 4],
+        [2002, 10],
+        [2003, 8],
+        [2004, 4],
+        [2005, 6],
+        [2006, 4],
+        [2007, 3],
+        [2008, 4],
+        [2009, 5],
+        [2010, 2],
+        [2011, 1],
+        [2012, 1],
+        [2013, 1],
+        [2014, 2],
+        [2015, 1],
+        [2016, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The TREC 2005 Terabyte Track.",
+      "link": null,
+      "year": 2005,
+      "cited_by": 66,
+      "authors": ["Charles LA Clarke", "Falk Scholer", "Ian Soboroff"],
+      "description": null,
+      "citation_histogram": [
+        [2005, 3],
+        [2006, 10],
+        [2007, 10],
+        [2008, 9],
+        [2009, 3],
+        [2010, 5],
+        [2011, 6],
+        [2012, 4],
+        [2013, 1],
+        [2014, 1],
+        [2015, 3],
+        [2016, 1],
+        [2017, 4],
+        [2018, 3],
+        [2019, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The positive and negative influence of search results on people's decisions about the efficacy of medical treatments",
+      "link": null,
+      "year": 2017,
+      "cited_by": 63,
+      "authors": [
+        "Frances A Pogacar",
+        "Amira Ghenai",
+        "Mark D Smucker",
+        "Charles LA Clarke"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2017, 1],
+        [2018, 4],
+        [2019, 17],
+        [2020, 10],
+        [2021, 15],
+        [2022, 13]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Dynamic inverted indexes for a distributed full-text retrieval system",
+      "link": null,
+      "year": 1995,
+      "cited_by": 62,
+      "authors": ["Clarlie LA Clarke", "Gordon V Cormack"],
+      "description": null,
+      "citation_histogram": [
+        [1995, 1],
+        [1996, 3],
+        [1997, 2],
+        [1998, 2],
+        [1999, 2],
+        [2000, 1],
+        [2001, 2],
+        [2002, 6],
+        [2003, 3],
+        [2004, 7],
+        [2005, 9],
+        [2006, 3],
+        [2007, 2],
+        [2008, 4],
+        [2009, 5],
+        [2010, 3],
+        [2011, 1],
+        [2012, 2],
+        [2013, 1],
+        [2014, 1],
+        [2015, 1],
+        [2016, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Statistical Selection of Exact Answers (MultiText Experiments for TREC 2002).",
+      "link": null,
+      "year": 2002,
+      "cited_by": 61,
+      "authors": [
+        "Charles LA Clarke",
+        "Gordon V Cormack",
+        "Graeme Kemkes",
+        "Michael Laszlo",
+        "Thomas R Lynam",
+        "Egidio L Terra",
+        "Philip L Tilker"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2001, 1],
+        [2002, 6],
+        [2003, 11],
+        [2004, 5],
+        [2005, 2],
+        [2006, 5],
+        [2007, 9],
+        [2008, 5],
+        [2009, 4],
+        [2010, 1],
+        [2011, 1],
+        [2012, 3],
+        [2013, 4],
+        [2014, 1],
+        [2015, 1],
+        [2016, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Efficiency vs. Effectiveness in Terabyte-Scale Information Retrieval.",
+      "link": null,
+      "year": 2005,
+      "cited_by": 59,
+      "authors": ["Stefan B\u00fcttcher", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2005, 1],
+        [2006, 5],
+        [2007, 6],
+        [2008, 4],
+        [2009, 5],
+        [2010, 8],
+        [2011, 8],
+        [2012, 7],
+        [2013, 2],
+        [2014, 2],
+        [2015, 4],
+        [2016, 4],
+        [2017, 1],
+        [2018, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "TREC 2015 Total Recall Track Overview.",
+      "link": null,
+      "year": 2015,
+      "cited_by": 58,
+      "authors": [
+        "Adam Roegiest",
+        "Gordon V Cormack",
+        "Charles LA Clarke",
+        "Maura R Grossman"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2015, 2],
+        [2016, 7],
+        [2017, 10],
+        [2018, 9],
+        [2019, 4],
+        [2020, 9],
+        [2021, 9],
+        [2022, 7]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Passage retrieval vs. document retrieval for factoid question answering",
+      "link": null,
+      "year": 2003,
+      "cited_by": 57,
+      "authors": ["Charles LA Clarke", "Egidio L Terra"],
+      "description": null,
+      "citation_histogram": [
+        [2004, 5],
+        [2005, 5],
+        [2006, 4],
+        [2007, 8],
+        [2008, 1],
+        [2009, 9],
+        [2010, 2],
+        [2011, 3],
+        [2012, 4],
+        [2013, 2],
+        [2014, 1],
+        [2015, 2],
+        [2016, 2],
+        [2017, 2],
+        [2018, 2],
+        [2019, 1],
+        [2020, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Meeting of the MINDS: an information retrieval research agenda",
+      "link": null,
+      "year": 2007,
+      "cited_by": 56,
+      "authors": [
+        "Jamie Callan",
+        "James Allan",
+        "Charles LA Clarke",
+        "Susan Dumais",
+        "David A Evans",
+        "Mark Sanderson",
+        "ChengXiang Zhai"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2008, 3],
+        [2009, 7],
+        [2010, 11],
+        [2011, 9],
+        [2012, 7],
+        [2013, 3],
+        [2014, 4],
+        [2015, 3],
+        [2016, 2],
+        [2017, 1],
+        [2018, 1],
+        [2019, 3],
+        [2020, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Passage-based query refinement:(multitext experiments for trec-6)",
+      "link": null,
+      "year": 2000,
+      "cited_by": 54,
+      "authors": [
+        "Gordon V Cormack",
+        "Charles LA Clarke",
+        "Christopher R Palmer",
+        "Samuel SL To"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [1998, 4],
+        [1999, 8],
+        [2000, 5],
+        [2001, 3],
+        [2002, 2],
+        [2003, 5],
+        [2004, 2],
+        [2005, 5],
+        [2006, 3],
+        [2007, 2],
+        [2008, 2],
+        [2009, 1],
+        [2010, 4],
+        [2011, 2],
+        [2012, 3],
+        [2013, 1],
+        [2014, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Index compression is good, especially for random access",
+      "link": null,
+      "year": 2007,
+      "cited_by": 52,
+      "authors": ["Stefan B\u00fcttcher", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2008, 2],
+        [2009, 1],
+        [2010, 7],
+        [2011, 7],
+        [2012, 4],
+        [2013, 6],
+        [2014, 3],
+        [2015, 4],
+        [2016, 2],
+        [2017, 8],
+        [2018, 2],
+        [2019, 2],
+        [2020, 1],
+        [2021, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Fast Automatic Passage Ranking (MultiText Experiments for TREC-8).",
+      "link": null,
+      "year": 1999,
+      "cited_by": 52,
+      "authors": [
+        "Gordon V Cormack",
+        "Charles LA Clarke",
+        "DIE Kisman",
+        "Christopher R Palmer"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [1999, 1],
+        [2000, 3],
+        [2001, 10],
+        [2002, 7],
+        [2003, 1],
+        [2004, 5],
+        [2005, 6],
+        [2006, 3],
+        [2007, 1],
+        [2008, 5],
+        [2009, 2],
+        [2010, 3],
+        [2011, 1],
+        [2012, 1],
+        [2013, 1],
+        [2014, 1],
+        [2015, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Schema-independent retrieval from heterogeneous structured text",
+      "link": null,
+      "year": 1995,
+      "cited_by": 52,
+      "authors": [
+        "Charles LA Clarke",
+        "Gordon V Cormack",
+        "Forbes J Burkowski"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [1995, 6],
+        [1996, 4],
+        [1997, 3],
+        [1998, 4],
+        [1999, 7],
+        [2000, 3],
+        [2001, 2],
+        [2002, 2],
+        [2003, 6],
+        [2004, 1],
+        [2005, 1],
+        [2006, 4],
+        [2007, 3],
+        [2008, 4]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Evaluating computational creativity: An interdisciplinary tutorial",
+      "link": null,
+      "year": 2018,
+      "cited_by": 49,
+      "authors": ["Carolyn Lamb", "Daniel G Brown", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2018, 3],
+        [2019, 8],
+        [2020, 14],
+        [2021, 10],
+        [2022, 14]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The impact of corpus size on question answering performance",
+      "link": null,
+      "year": 2002,
+      "cited_by": 49,
+      "authors": [
+        "Charles LA Clarke",
+        "Gordon V Cormack",
+        "M Laszlo",
+        "Thomas R Lynam",
+        "Egidio L Terra"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2003, 6],
+        [2004, 5],
+        [2005, 6],
+        [2006, 6],
+        [2007, 1],
+        [2008, 3],
+        [2009, 2],
+        [2010, 2],
+        [2011, 3],
+        [2012, 1],
+        [2013, 2],
+        [2014, 2],
+        [2015, 4],
+        [2016, 4],
+        [2017, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Lexical comparison between wikipedia and twitter corpora by using word embeddings",
+      "link": null,
+      "year": 2015,
+      "cited_by": 47,
+      "authors": [
+        "Luchen Tan",
+        "Haotian Zhang",
+        "Charles Clarke",
+        "Mark Smucker"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2015, 1],
+        [2016, 5],
+        [2017, 9],
+        [2018, 9],
+        [2019, 13],
+        [2020, 6],
+        [2021, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A Security Model for Full-Text File System Search in Multi-User Environments.",
+      "link": null,
+      "year": 2005,
+      "cited_by": 47,
+      "authors": ["Stefan B\u00fcttcher", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2006, 3],
+        [2007, 7],
+        [2008, 8],
+        [2009, 6],
+        [2010, 3],
+        [2011, 1],
+        [2012, 2],
+        [2013, 2],
+        [2014, 3],
+        [2015, 4],
+        [2016, 3],
+        [2017, 1],
+        [2018, 1],
+        [2019, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Towards genre classification for IR in the workplace",
+      "link": null,
+      "year": 2006,
+      "cited_by": 46,
+      "authors": ["Luanne Freund", "Charles LA Clarke", "Elaine G Toms"],
+      "description": null,
+      "citation_histogram": [
+        [2007, 1],
+        [2008, 4],
+        [2009, 3],
+        [2010, 3],
+        [2011, 3],
+        [2012, 3],
+        [2013, 2],
+        [2014, 4],
+        [2015, 2],
+        [2016, 7],
+        [2017, 3],
+        [2018, 4],
+        [2019, 4],
+        [2020, 1],
+        [2021, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Content item query formulation",
+      "link": null,
+      "year": 2010,
+      "cited_by": 45,
+      "authors": [
+        "Ariel Lazier",
+        "Hugh J Williams",
+        "Nick Craswell",
+        "Charles Clarke",
+        "Julia H Farago"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2009, 2],
+        [2010, 1],
+        [2011, 2],
+        [2012, 3],
+        [2013, 3],
+        [2014, 3],
+        [2015, 6],
+        [2016, 7],
+        [2017, 7],
+        [2018, 5],
+        [2019, 4],
+        [2020, 1],
+        [2021, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Overview of the TREC 2016 Contextual Suggestion Track.",
+      "link": null,
+      "year": 2016,
+      "cited_by": 44,
+      "authors": [
+        "Seyyed Hadi Hashemi",
+        "Jaap Kamps",
+        "Julia Kiseleva",
+        "Charles LA Clarke",
+        "Ellen M Voorhees"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2015, 2],
+        [2016, 4],
+        [2017, 7],
+        [2018, 9],
+        [2019, 3],
+        [2020, 5],
+        [2021, 11],
+        [2022, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Effective measures for inter-document similarity",
+      "link": null,
+      "year": 2013,
+      "cited_by": 44,
+      "authors": ["John S Whissell", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2014, 2],
+        [2015, 4],
+        [2016, 15],
+        [2017, 6],
+        [2018, 4],
+        [2019, 5],
+        [2020, 2],
+        [2021, 4],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "University of Waterloo at INEX2007: Adhoc and link-the-wiki tracks",
+      "link": null,
+      "year": 2008,
+      "cited_by": 43,
+      "authors": ["Kelly Itakura", "Charles Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2007, 1],
+        [2008, 10],
+        [2009, 8],
+        [2010, 3],
+        [2011, 10],
+        [2012, 3],
+        [2013, 1],
+        [2014, 1],
+        [2015, 1],
+        [2016, 1],
+        [2017, 1],
+        [2018, 1],
+        [2019, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Dynamic cutoff prediction in multi-stage retrieval systems",
+      "link": null,
+      "year": 2016,
+      "cited_by": 41,
+      "authors": ["J Shane Culpepper", "Charles LA Clarke", "Jimmy Lin"],
+      "description": null,
+      "citation_histogram": [
+        [2017, 12],
+        [2018, 7],
+        [2019, 5],
+        [2020, 5],
+        [2021, 6],
+        [2022, 6]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The effect of document retrieval quality on factoid question answering performance",
+      "link": null,
+      "year": 2004,
+      "cited_by": 41,
+      "authors": [
+        "Kevyn Collins-Thompson",
+        "Jamie Callan",
+        "Egidio Terra",
+        "Charles LA Clarke"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2004, 4],
+        [2005, 1],
+        [2006, 2],
+        [2007, 4],
+        [2008, 8],
+        [2009, 3],
+        [2010, 2],
+        [2011, 4],
+        [2012, 1],
+        [2013, 3],
+        [2014, 1],
+        [2015, 2],
+        [2016, 2],
+        [2017, 2],
+        [2018, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Scoring missing terms in information retrieval tasks",
+      "link": null,
+      "year": 2004,
+      "cited_by": 40,
+      "authors": ["Egidio Terra", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2005, 1],
+        [2006, 5],
+        [2007, 1],
+        [2008, 4],
+        [2009, 6],
+        [2010, 5],
+        [2011, 8],
+        [2012, 1],
+        [2013, 1],
+        [2014, 1],
+        [2015, 1],
+        [2016, 2],
+        [2017, 1],
+        [2018, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Using dynamic markov compression to detect vandalism in the wikipedia",
+      "link": null,
+      "year": 2009,
+      "cited_by": 39,
+      "authors": ["Kelly Y Itakura", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2010, 9],
+        [2011, 6],
+        [2012, 4],
+        [2013, 4],
+        [2014, 1],
+        [2015, 5],
+        [2016, 2],
+        [2017, 2],
+        [2018, 2],
+        [2019, 1],
+        [2020, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A taxonomy of generative poetry techniques",
+      "link": null,
+      "year": 2017,
+      "cited_by": 38,
+      "authors": ["Carolyn Lamb", "Daniel G Brown", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2017, 7],
+        [2018, 8],
+        [2019, 4],
+        [2020, 7],
+        [2021, 5],
+        [2022, 4]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Topic-oriented collaborative crawling",
+      "link": null,
+      "year": 2002,
+      "cited_by": 38,
+      "authors": ["Chiasen Chung", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2003, 1],
+        [2004, 4],
+        [2005, 1],
+        [2006, 3],
+        [2007, 4],
+        [2008, 5],
+        [2009, 5],
+        [2010, 2],
+        [2011, 3],
+        [2012, 2],
+        [2013, 2],
+        [2014, 1],
+        [2015, 1],
+        [2016, 1],
+        [2017, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Faster and smaller inverted indices with treaps",
+      "link": null,
+      "year": 2013,
+      "cited_by": 36,
+      "authors": [
+        "Roberto Konow",
+        "Gonzalo Navarro",
+        "Charles LA Clarke",
+        "Alejandro L\u00f3pez-Ort\u00edz"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2013, 1],
+        [2014, 8],
+        [2015, 3],
+        [2016, 8],
+        [2017, 10],
+        [2018, 1],
+        [2019, 3],
+        [2020, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Modeling user variance in time-biased gain",
+      "link": null,
+      "year": 2012,
+      "cited_by": 36,
+      "authors": ["Mark D Smucker", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2012, 1],
+        [2013, 6],
+        [2014, 7],
+        [2015, 2],
+        [2016, 4],
+        [2017, 4],
+        [2018, 2],
+        [2019, 4],
+        [2020, 3],
+        [2021, 2],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A location-query-browse graph for contextual recommendation",
+      "link": null,
+      "year": 2017,
+      "cited_by": 35,
+      "authors": [
+        "Yongli Ren",
+        "Martin Tomko",
+        "Flora Dilys Salim",
+        "Jeffrey Chan",
+        "Charles LA Clarke",
+        "Mark Sanderson"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2017, 1],
+        [2018, 3],
+        [2019, 6],
+        [2020, 12],
+        [2021, 8],
+        [2022, 5]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Domain-specific synonym expansion and validation for biomedical information retrieval (MultiText experiments for TREC 2004)",
+      "link": null,
+      "year": 2004,
+      "cited_by": 35,
+      "authors": ["Stefan Buttcher"],
+      "description": null,
+      "citation_histogram": [
+        [2005, 3],
+        [2006, 5],
+        [2007, 5],
+        [2008, 7],
+        [2009, 5],
+        [2010, 2],
+        [2011, 2],
+        [2012, 1],
+        [2013, 2],
+        [2014, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Query driven algorithm selection in early stage retrieval",
+      "link": null,
+      "year": 2018,
+      "cited_by": 34,
+      "authors": [
+        "Joel Mackenzie",
+        "J Shane Culpepper",
+        "Roi Blanco",
+        "Matt Crane",
+        "Charles LA Clarke",
+        "Jimmy Lin"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2018, 6],
+        [2019, 6],
+        [2020, 5],
+        [2021, 9],
+        [2022, 8]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A multi-system analysis of document and term selection for blind feedback",
+      "link": null,
+      "year": 2004,
+      "cited_by": 34,
+      "authors": [
+        "Thomas R Lynam",
+        "Chris Buckley",
+        "Charles LA Clarke",
+        "Gordon V Cormack"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2005, 2],
+        [2006, 4],
+        [2007, 3],
+        [2008, 3],
+        [2009, 7],
+        [2010, 2],
+        [2011, 2],
+        [2012, 1],
+        [2013, 4],
+        [2014, 1],
+        [2015, 2],
+        [2016, 2],
+        [2017, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Tensor-based deep relevance model for search on online social networks",
+      "link": null,
+      "year": 2019,
+      "cited_by": 31,
+      "authors": [
+        "Aaron Jaech",
+        "Hetunandan Munisharan Kamichetty",
+        "Eric Ringger",
+        "Charles Lester Clarke"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2019, 2],
+        [2020, 11],
+        [2021, 10],
+        [2022, 8]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Simple dynamic emission strategies for microblog filtering",
+      "link": null,
+      "year": 2016,
+      "cited_by": 30,
+      "authors": [
+        "Luchen Tan",
+        "Adam Roegiest",
+        "Charles LA Clarke",
+        "Jimmy Lin"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2016, 5],
+        [2017, 10],
+        [2018, 6],
+        [2019, 4],
+        [2020, 4],
+        [2021, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Open source information retrieval: a report on the SIGIR 2012 workshop",
+      "link": null,
+      "year": 2012,
+      "cited_by": 30,
+      "authors": [
+        "Andrew Trotman",
+        "Charles LA Clarke",
+        "Iadh Ounis",
+        "Shane Culpepper",
+        "Marc-Allen Cartright",
+        "Shlomo Geva"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2013, 1],
+        [2014, 4],
+        [2015, 3],
+        [2016, 4],
+        [2017, 7],
+        [2018, 6],
+        [2019, 2],
+        [2020, 2],
+        [2021, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Characterizing large-scale use of a direct manipulation application in the wild",
+      "link": null,
+      "year": 2010,
+      "cited_by": 30,
+      "authors": [
+        "Benjamin Lafreniere",
+        "Andrea Bunt",
+        "John S Whissell",
+        "Charles LA Clarke",
+        "Michael Terry"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2010, 3],
+        [2011, 4],
+        [2012, 6],
+        [2013, 4],
+        [2014, 5],
+        [2015, 2],
+        [2016, 2],
+        [2017, 2],
+        [2018, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A hybrid approach to index maintenance in dynamic text retrieval systems",
+      "link": null,
+      "year": 2006,
+      "cited_by": 30,
+      "authors": ["Stefan B\u00fcttcher", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2006, 5],
+        [2007, 2],
+        [2008, 6],
+        [2009, 3],
+        [2010, 1],
+        [2011, 4],
+        [2012, 3],
+        [2013, 2],
+        [2014, 1],
+        [2015, 1],
+        [2016, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Assessing efficiency\u2013effectiveness tradeoffs in multi-stage retrieval systems without using relevance judgments",
+      "link": null,
+      "year": 2016,
+      "cited_by": 29,
+      "authors": ["Charles LA Clarke", "J Shane Culpepper", "Alistair Moffat"],
+      "description": null,
+      "citation_histogram": [
+        [2015, 2],
+        [2016, 1],
+        [2017, 6],
+        [2018, 9],
+        [2019, 3],
+        [2020, 2],
+        [2021, 3],
+        [2022, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Task-Specific Query Expansion (MultiText Experiments for TREC 2003).",
+      "link": null,
+      "year": 2003,
+      "cited_by": 29,
+      "authors": [
+        "David L Yeung",
+        "Charles LA Clarke",
+        "Gordon V Cormack",
+        "Thomas R Lynam",
+        "Egidio L Terra"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2003, 1],
+        [2004, 11],
+        [2005, 2],
+        [2006, 1],
+        [2007, 1],
+        [2008, 7],
+        [2009, 1],
+        [2010, 1],
+        [2011, 3],
+        [2012, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Estimating ad clickthrough rate through query intent analysis",
+      "link": null,
+      "year": 2009,
+      "cited_by": 28,
+      "authors": [
+        "Azin Ashkan",
+        "Charles LA Clarke",
+        "Eugene Agichtein",
+        "Qi Guo"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2009, 1],
+        [2010, 1],
+        [2011, 9],
+        [2012, 2],
+        [2013, 7],
+        [2014, 3],
+        [2015, 2],
+        [2016, 1],
+        [2017, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Term-based commercial intent analysis",
+      "link": null,
+      "year": 2009,
+      "cited_by": 28,
+      "authors": ["Azin Ashkan", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2010, 2],
+        [2011, 2],
+        [2012, 1],
+        [2013, 8],
+        [2014, 1],
+        [2015, 4],
+        [2016, 4],
+        [2017, 1],
+        [2018, 4],
+        [2019, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "University of Waterloo at INEX 2008: Adhoc, book, and link-the-wiki tracks",
+      "link": null,
+      "year": 2009,
+      "cited_by": 28,
+      "authors": ["Kelly Itakura", "Charles Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2008, 1],
+        [2009, 4],
+        [2010, 8],
+        [2011, 7],
+        [2012, 1],
+        [2013, 2],
+        [2014, 1],
+        [2015, 2],
+        [2016, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "University of Waterloo at TREC 2015 Microblog Track.",
+      "link": null,
+      "year": 2015,
+      "cited_by": 27,
+      "authors": ["Luchen Tan", "Adam Roegiest", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2015, 1],
+        [2016, 11],
+        [2017, 11],
+        [2018, 3],
+        [2019, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Characterizing commercial intent",
+      "link": null,
+      "year": 2009,
+      "cited_by": 26,
+      "authors": ["Azin Ashkan", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2010, 2],
+        [2011, 4],
+        [2012, 5],
+        [2013, 2],
+        [2014, 2],
+        [2015, 4],
+        [2016, 3],
+        [2017, 1],
+        [2018, 1],
+        [2019, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Lidocaine infusion as a rescue analgesic in the perioperative setting",
+      "link": null,
+      "year": 2008,
+      "cited_by": 26,
+      "authors": ["C Clarke", "I McConachie", "R Banner"],
+      "description": null,
+      "citation_histogram": [
+        [2012, 1],
+        [2013, 3],
+        [2014, 7],
+        [2015, 7],
+        [2016, 1],
+        [2017, 1],
+        [2018, 3],
+        [2019, 2],
+        [2020, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Syntactic approximation using iterative lexical analysis",
+      "link": null,
+      "year": 2003,
+      "cited_by": 26,
+      "authors": ["Anthony Cox", "Charles Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2003, 2],
+        [2004, 1],
+        [2005, 4],
+        [2006, 1],
+        [2007, 2],
+        [2008, 2],
+        [2009, 1],
+        [2010, 3],
+        [2011, 6],
+        [2012, 1],
+        [2013, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "INEX 2007 retrieval task and result submission specification",
+      "link": null,
+      "year": 2007,
+      "cited_by": 24,
+      "authors": ["Charles LA Clarke", "Jaap Kamps", "Mounia Lalmas"],
+      "description": null,
+      "citation_histogram": [
+        [2006, 5],
+        [2007, 14],
+        [2008, 2],
+        [2009, 1],
+        [2010, 1],
+        [2011, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Relocating XML elements from preprocessed to unprocessed code",
+      "link": null,
+      "year": 2002,
+      "cited_by": 24,
+      "authors": ["Anthony Cox", "Charles Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2003, 3],
+        [2004, 3],
+        [2005, 4],
+        [2006, 1],
+        [2007, 1],
+        [2008, 3],
+        [2009, 1],
+        [2010, 1],
+        [2011, 2],
+        [2012, 3],
+        [2013, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "On the informativeness of cascade and intent-aware effectiveness measures",
+      "link": null,
+      "year": 2011,
+      "cited_by": 23,
+      "authors": ["Azin Ashkan", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2011, 1],
+        [2012, 2],
+        [2013, 5],
+        [2014, 4],
+        [2015, 2],
+        [2016, 1],
+        [2017, 2],
+        [2018, 2],
+        [2019, 1],
+        [2020, 2],
+        [2021, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "In the mood to click? Towards inferring receptiveness to search advertising",
+      "link": null,
+      "year": 2009,
+      "cited_by": 23,
+      "authors": [
+        "Qi Guo",
+        "Eugene Agichtein",
+        "Charles LA Clarke",
+        "Azin Ashkan"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2010, 3],
+        [2011, 1],
+        [2012, 3],
+        [2013, 1],
+        [2014, 2],
+        [2015, 3],
+        [2016, 1],
+        [2017, 4],
+        [2018, 1],
+        [2019, 2],
+        [2020, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "An exploration of evaluation metrics for mobile push notifications",
+      "link": null,
+      "year": 2016,
+      "cited_by": 22,
+      "authors": [
+        "Luchen Tan",
+        "Adam Roegiest",
+        "Jimmy Lin",
+        "Charles LA Clarke"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2016, 3],
+        [2017, 7],
+        [2018, 5],
+        [2019, 4],
+        [2020, 1],
+        [2021, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A family of rank similarity measures based on maximized effectiveness difference",
+      "link": null,
+      "year": 2015,
+      "cited_by": 22,
+      "authors": ["Luchen Tan", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2015, 2],
+        [2016, 2],
+        [2017, 8],
+        [2018, 4],
+        [2019, 1],
+        [2020, 3],
+        [2021, 1],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Time well spent",
+      "link": null,
+      "year": 2014,
+      "cited_by": 22,
+      "authors": ["Charles LA Clarke", "Mark D Smucker"],
+      "description": null,
+      "citation_histogram": [
+        [2015, 5],
+        [2016, 7],
+        [2017, 6],
+        [2018, 1],
+        [2019, 1],
+        [2020, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Increasing evaluation sensitivity to diversity",
+      "link": null,
+      "year": 2013,
+      "cited_by": 22,
+      "authors": ["Peter B Golbus", "Javed A Aslam", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2013, 3],
+        [2014, 5],
+        [2015, 5],
+        [2016, 1],
+        [2017, 3],
+        [2018, 2],
+        [2019, 1],
+        [2020, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Stochastic simulation of time-biased gain",
+      "link": null,
+      "year": 2012,
+      "cited_by": 22,
+      "authors": ["Mark D Smucker", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2012, 2],
+        [2013, 2],
+        [2014, 4],
+        [2015, 3],
+        [2016, 2],
+        [2017, 2],
+        [2018, 3],
+        [2019, 2],
+        [2020, 1],
+        [2021, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Clustering for semi-supervised spam filtering",
+      "link": null,
+      "year": 2011,
+      "cited_by": 22,
+      "authors": ["John S Whissell", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2012, 2],
+        [2013, 3],
+        [2014, 2],
+        [2015, 1],
+        [2016, 1],
+        [2017, 4],
+        [2018, 3],
+        [2019, 1],
+        [2020, 2],
+        [2021, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A framework for BM25F-based XML retrieval",
+      "link": null,
+      "year": 2010,
+      "cited_by": 21,
+      "authors": ["Kelly Y Itakura", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2010, 2],
+        [2011, 1],
+        [2012, 6],
+        [2013, 4],
+        [2014, 2],
+        [2015, 1],
+        [2016, 2],
+        [2017, 2],
+        [2018, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Question answering by passage selection",
+      "link": null,
+      "year": 2008,
+      "cited_by": 21,
+      "authors": [
+        "Charles LA Clarke",
+        "Gordon V Cormack",
+        "Thomas R Lynam",
+        "Egidio L Terra"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2007, 2],
+        [2008, 1],
+        [2009, 1],
+        [2010, 1],
+        [2011, 2],
+        [2012, 1],
+        [2013, 3],
+        [2014, 4],
+        [2015, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Domain-Specific Synonym Expansion and Validation for Biomedical Information Retrieval (MultiText Experiments for TREC 2004).",
+      "link": null,
+      "year": 2004,
+      "cited_by": 21,
+      "authors": [
+        "Stefan B\u00fcttcher",
+        "Charles LA Clarke",
+        "Gordon V Cormack"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2005, 4],
+        [2006, 1],
+        [2007, 2],
+        [2008, 3],
+        [2009, 2],
+        [2010, 4],
+        [2011, 1],
+        [2012, 1],
+        [2013, 1],
+        [2014, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Information extraction with term frequencies",
+      "link": null,
+      "year": 2001,
+      "cited_by": 21,
+      "authors": ["Thomas R Lynam", "Charles LA Clarke", "Gordon V Cormack"],
+      "description": null,
+      "citation_histogram": [
+        [2002, 2],
+        [2003, 1],
+        [2004, 1],
+        [2005, 1],
+        [2006, 3],
+        [2007, 3],
+        [2008, 1],
+        [2009, 3],
+        [2010, 3],
+        [2011, 1],
+        [2012, 1],
+        [2013, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Deriving very short queries for high precision and recall (MultiText experiments for TREC-7)",
+      "link": null,
+      "year": 1998,
+      "cited_by": 21,
+      "authors": [
+        "Gordon V Cormack",
+        "Christopher R Palmer",
+        "Michael Van Biesbrouck",
+        "Charles LA Clarke"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [1999, 7],
+        [2000, 3],
+        [2001, 2],
+        [2002, 3],
+        [2003, 1],
+        [2004, 2],
+        [2005, 1],
+        [2006, 1],
+        [2007, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Hybrid index maintenance for contiguous inverted lists",
+      "link": null,
+      "year": 2008,
+      "cited_by": 20,
+      "authors": ["Stefan B\u00fcttcher", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2008, 3],
+        [2009, 2],
+        [2010, 1],
+        [2011, 4],
+        [2012, 3],
+        [2013, 2],
+        [2014, 1],
+        [2015, 1],
+        [2016, 1],
+        [2017, 1],
+        [2018, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Range results in XML retrieval",
+      "link": null,
+      "year": 2005,
+      "cited_by": 20,
+      "authors": ["Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2005, 2],
+        [2006, 3],
+        [2007, 5],
+        [2008, 3],
+        [2009, 3],
+        [2010, 1],
+        [2011, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Comparing query logs and pseudo-relevance feedbackfor web-search query refinement",
+      "link": null,
+      "year": 2007,
+      "cited_by": 19,
+      "authors": ["Ryen W White", "Charles LA Clarke", "Silviu Cucerzan"],
+      "description": null,
+      "citation_histogram": [
+        [2007, 1],
+        [2008, 1],
+        [2009, 3],
+        [2010, 3],
+        [2011, 4],
+        [2012, 3],
+        [2013, 2],
+        [2014, 1],
+        [2015, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Giving meaning to macros",
+      "link": null,
+      "year": 2004,
+      "cited_by": 19,
+      "authors": ["Christopher A Mennie", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2007, 2],
+        [2008, 4],
+        [2009, 3],
+        [2010, 2],
+        [2011, 1],
+        [2012, 2],
+        [2013, 4]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Human Competence in Creativity Evaluation.",
+      "link": null,
+      "year": 2015,
+      "cited_by": 18,
+      "authors": ["Carolyn Lamb", "Daniel G Brown", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2016, 2],
+        [2017, 5],
+        [2018, 6],
+        [2019, 1],
+        [2020, 1],
+        [2021, 1],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Impact of query intent and search context on clickthrough behavior in sponsored search",
+      "link": null,
+      "year": 2013,
+      "cited_by": 18,
+      "authors": ["Azin Ashkan", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2013, 2],
+        [2014, 4],
+        [2015, 3],
+        [2016, 1],
+        [2017, 3],
+        [2018, 1],
+        [2019, 2],
+        [2020, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Report on the SIGIR workshop on\" entertain me\" supporting complex search tasks",
+      "link": null,
+      "year": 2012,
+      "cited_by": 18,
+      "authors": [
+        "Nicholas J Belkin",
+        "Charles LA Clarke",
+        "Ning Gao",
+        "Jaap Kamps",
+        "Jussi Karlgren"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2013, 3],
+        [2014, 1],
+        [2015, 5],
+        [2016, 1],
+        [2017, 3],
+        [2018, 2],
+        [2019, 1],
+        [2020, 1],
+        [2021, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "symtone: Two-handed manipulation of tone reproduction curves",
+      "link": null,
+      "year": 2006,
+      "cited_by": 18,
+      "authors": [
+        "Celine Latulipe",
+        "Ian Bell",
+        "Charles LA Clarke",
+        "Craig S Kaplan"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2006, 1],
+        [2007, 1],
+        [2008, 1],
+        [2009, 7],
+        [2010, 1],
+        [2011, 1],
+        [2012, 2],
+        [2013, 2],
+        [2014, 1],
+        [2015, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A think-aloud study to understand factors affecting online health search",
+      "link": null,
+      "year": 2020,
+      "cited_by": 17,
+      "authors": ["Amira Ghenai", "Mark D Smucker", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2020, 1],
+        [2021, 7],
+        [2022, 8]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Evaluating Contextual Suggestion.",
+      "link": null,
+      "year": 2013,
+      "cited_by": 17,
+      "authors": [
+        "Adriel Dean-Hall",
+        "Charles LA Clarke",
+        "Jaap Kamps",
+        "Paul Thomas"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2013, 4],
+        [2014, 7],
+        [2015, 3],
+        [2016, 1],
+        [2017, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Representing and accessing extracted information",
+      "link": null,
+      "year": 2001,
+      "cited_by": 17,
+      "authors": ["Anthony Cox", "Charles Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2002, 4],
+        [2003, 3],
+        [2004, 2],
+        [2005, 3],
+        [2006, 1],
+        [2007, 1],
+        [2008, 1],
+        [2009, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A comparative evaluation of techniques for syntactic level source code analysis",
+      "link": null,
+      "year": 2000,
+      "cited_by": 17,
+      "authors": ["Anthony Cox", "Charles Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2001, 2],
+        [2002, 2],
+        [2003, 7],
+        [2004, 2],
+        [2005, 1],
+        [2006, 1],
+        [2007, 1],
+        [2008, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "X-site: a workplace search tool for software engineers",
+      "link": null,
+      "year": 2007,
+      "cited_by": 16,
+      "authors": ["Peter CK Yeung", "Luanne Freund", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2008, 3],
+        [2009, 4],
+        [2010, 2],
+        [2011, 3],
+        [2012, 1],
+        [2013, 1],
+        [2014, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Offline evaluation by maximum similarity to an ideal ranking",
+      "link": null,
+      "year": 2020,
+      "cited_by": 15,
+      "authors": ["Charles LA Clarke", "Mark D Smucker", "Alexandra Vtyurina"],
+      "description": null,
+      "citation_histogram": [
+        [2020, 3],
+        [2021, 9],
+        [2022, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Offline evaluation without gain",
+      "link": null,
+      "year": 2020,
+      "cited_by": 15,
+      "authors": ["Charles LA Clarke", "Alexandra Vtyurina", "Mark D Smucker"],
+      "description": null,
+      "citation_histogram": [
+        [2020, 3],
+        [2021, 10],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Characterizing query intent from sponsored search clickthrough data",
+      "link": null,
+      "year": 2008,
+      "cited_by": 15,
+      "authors": ["Azin Ashkan", "C Clarke", "Eugene Agichtein", "Qi Guo"],
+      "description": null,
+      "citation_histogram": [
+        [2009, 2],
+        [2010, 3],
+        [2011, 4],
+        [2012, 1],
+        [2013, 3],
+        [2014, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Assessing Top-Preferences",
+      "link": null,
+      "year": 2021,
+      "cited_by": 14,
+      "authors": ["Charles LA Clarke", "Alexandra Vtyurina", "Mark D Smucker"],
+      "description": null,
+      "citation_histogram": [
+        [2020, 3],
+        [2021, 5],
+        [2022, 6]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Privacy-preserving ir 2016: Differential privacy, search, and social media",
+      "link": null,
+      "year": 2016,
+      "cited_by": 14,
+      "authors": [
+        "Hui Yang",
+        "Ian Soboroff",
+        "Li Xiong",
+        "Charles LA Clarke",
+        "Simson L Garfinkel"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2016, 1],
+        [2017, 3],
+        [2018, 3],
+        [2019, 2],
+        [2020, 2],
+        [2021, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "From passages into elements in XML retrieval",
+      "link": null,
+      "year": 2007,
+      "cited_by": 14,
+      "authors": ["Kelly Y Itakura", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2007, 3],
+        [2008, 4],
+        [2009, 5],
+        [2010, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The TREC terabyte retrieval track",
+      "link": null,
+      "year": 2005,
+      "cited_by": 14,
+      "authors": ["Charles Clarke", "Nick Craswell", "Ian Soboroff"],
+      "description": null,
+      "citation_histogram": [
+        [2006, 3],
+        [2007, 3],
+        [2008, 1],
+        [2009, 2],
+        [2010, 1],
+        [2011, 1],
+        [2012, 2],
+        [2013, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Evaluating digital poetry: Insights from the CAT",
+      "link": null,
+      "year": 2016,
+      "cited_by": 13,
+      "authors": ["Carolyn Lamb", "Daniel G Brown", "CL Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2017, 4],
+        [2018, 1],
+        [2019, 3],
+        [2020, 1],
+        [2021, 1],
+        [2022, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Modeling browsing behavior for click analysis in sponsored search",
+      "link": null,
+      "year": 2012,
+      "cited_by": 13,
+      "authors": ["Azin Ashkan", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2013, 1],
+        [2014, 4],
+        [2015, 2],
+        [2016, 1],
+        [2017, 3],
+        [2018, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "University of waterloo at inex 2009: Ad hoc, book, entity ranking, and link-the-wiki tracks",
+      "link": null,
+      "year": 2009,
+      "cited_by": 13,
+      "authors": ["Kelly Y Itakura", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2010, 2],
+        [2011, 4],
+        [2012, 1],
+        [2013, 4],
+        [2014, 1],
+        [2015, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Experiments with ClueWeb09: Relevance feedback and web tracks",
+      "link": null,
+      "year": 2009,
+      "cited_by": 13,
+      "authors": ["Mark D Smucker", "Charles L Clarke", "Gordon V Cormack"],
+      "description": null,
+      "citation_histogram": [
+        [2010, 2],
+        [2011, 6],
+        [2012, 2],
+        [2013, 1],
+        [2014, 1],
+        [2015, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Memory management strategies for single-pass index construction in text retrieval systems",
+      "link": null,
+      "year": 2005,
+      "cited_by": 13,
+      "authors": ["Stefan B\u00fcttcher", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2005, 1],
+        [2006, 1],
+        [2007, 2],
+        [2008, 6],
+        [2009, 1],
+        [2010, 1],
+        [2011, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Shallow pooling for sparse labels",
+      "link": null,
+      "year": 2022,
+      "cited_by": 12,
+      "authors": [
+        "Negar Arabzadeh",
+        "Alexandra Vtyurina",
+        "Xinyi Yan",
+        "Charles LA Clarke"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2021, 2],
+        [2022, 10]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A lightweight environment for learning experimental IR research practices",
+      "link": null,
+      "year": 2020,
+      "cited_by": 12,
+      "authors": ["Zeynep Akkalyoncu Yilmaz", "Charles LA Clarke", "Jimmy Lin"],
+      "description": null,
+      "citation_histogram": [
+        [2020, 5],
+        [2021, 7]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "On the reusability of open test collections",
+      "link": null,
+      "year": 2015,
+      "cited_by": 12,
+      "authors": [
+        "Seyyed Hadi Hashemi",
+        "Charles LA Clarke",
+        "Adriel Dean-Hall",
+        "Jaap Kamps",
+        "Julia Kiseleva"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2015, 4],
+        [2016, 5],
+        [2017, 1],
+        [2018, 1],
+        [2019, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Fast computation of lexical affinity models",
+      "link": null,
+      "year": 2004,
+      "cited_by": 12,
+      "authors": ["Egidio L Terra", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2004, 1],
+        [2005, 2],
+        [2006, 1],
+        [2007, 5],
+        [2008, 1],
+        [2009, 1],
+        [2010, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Interactive Substring Retrieval (MultiText Experiments for TREC-5).",
+      "link": null,
+      "year": 1996,
+      "cited_by": 12,
+      "authors": ["Charles LA Clarke", "Gordon V Cormack"],
+      "description": null,
+      "citation_histogram": [
+        [1997, 1],
+        [1998, 1],
+        [1999, 3],
+        [2000, 1],
+        [2001, 2],
+        [2002, 1],
+        [2003, 1],
+        [2004, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Report on the SIGIR 2013 workshop on modeling user behavior for information retrieval evaluation (MUBE 2013)",
+      "link": null,
+      "year": 2013,
+      "cited_by": 11,
+      "authors": [
+        "Charles LA Clarke",
+        "Luanne Freund",
+        "Mark D Smucker",
+        "Emine Yilmaz"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2014, 2],
+        [2015, 2],
+        [2016, 4],
+        [2017, 1],
+        [2018, 1],
+        [2019, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Proceedings of the 26th Annual International ACM SIGIR Conference on Research and Development in Informaion Retrieval",
+      "link": null,
+      "year": 2003,
+      "cited_by": 11,
+      "authors": ["Charles Clarke", "E Terra"],
+      "description": null,
+      "citation_histogram": [
+        [2004, 3],
+        [2005, 2],
+        [2006, 1],
+        [2007, 1],
+        [2008, 1],
+        [2009, 1],
+        [2010, 1],
+        [2011, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A model independent source code repository",
+      "link": null,
+      "year": 1999,
+      "cited_by": 11,
+      "authors": ["Anthony Cox", "Charles Clarke", "Susan Sim"],
+      "description": null,
+      "citation_histogram": [
+        [2000, 1],
+        [2001, 1],
+        [2002, 2],
+        [2003, 1],
+        [2004, 1],
+        [2005, 1],
+        [2006, 2],
+        [2007, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Searching program source code with a structured text retrieval system",
+      "link": null,
+      "year": 1999,
+      "cited_by": 11,
+      "authors": ["Charles Clarke", "Anthony Cox", "Susan Sim"],
+      "description": null,
+      "citation_histogram": [
+        [2000, 3],
+        [2001, 1],
+        [2002, 1],
+        [2003, 1],
+        [2004, 1],
+        [2005, 2],
+        [2006, 1],
+        [2007, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Overview of the TREC 2020 health misinformation track",
+      "link": null,
+      "year": 2020,
+      "cited_by": 10,
+      "authors": [
+        "Charles LA Clarke",
+        "Saira Rizvi",
+        "Mark D Smucker",
+        "Maria Maistro",
+        "Guido Zuccon"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2020, 1],
+        [2021, 2],
+        [2022, 7]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "WaterlooClarke at the TREC 2019 Conversational Assistant Track.",
+      "link": null,
+      "year": 2019,
+      "cited_by": 10,
+      "authors": ["Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2020, 3],
+        [2021, 4],
+        [2022, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The impact of intent selection on diversified search evaluation",
+      "link": null,
+      "year": 2013,
+      "cited_by": 10,
+      "authors": ["Tetsuya Sakai", "Zhicheng Dou", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2013, 3],
+        [2014, 1],
+        [2015, 3],
+        [2016, 2],
+        [2017, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The fault, dear researchers, is not in Cranfield, But in our metrics, that they are unrealistic.",
+      "link": null,
+      "year": 2012,
+      "cited_by": 10,
+      "authors": ["Mark D Smucker", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2013, 4],
+        [2014, 1],
+        [2015, 1],
+        [2016, 2],
+        [2017, 1],
+        [2018, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Topical and structural linkage in wikipedia",
+      "link": null,
+      "year": 2011,
+      "cited_by": 10,
+      "authors": [
+        "Kelly Y Itakura",
+        "Charles LA Clarke",
+        "Shlomo Geva",
+        "Andrew Trotman",
+        "Wei Chi Huang"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2011, 2],
+        [2012, 1],
+        [2013, 1],
+        [2014, 1],
+        [2015, 1],
+        [2016, 1],
+        [2017, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A Bayesian approach for learning document type relevance",
+      "link": null,
+      "year": 2007,
+      "cited_by": 10,
+      "authors": [
+        "Peter CK Yeung",
+        "Stefan B\u00fcttcher",
+        "Charles LA Clarke",
+        "Maheedhar Kolla"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2007, 4],
+        [2008, 2],
+        [2009, 2],
+        [2010, 1],
+        [2011, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Frequent itemset mining for query expansion in microblog ad-hoc search",
+      "link": null,
+      "year": 2012,
+      "cited_by": 9,
+      "authors": ["Younos Aboulnaga", "Charles L Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2013, 3],
+        [2014, 2],
+        [2015, 1],
+        [2016, 1],
+        [2017, 1],
+        [2018, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "MultiText experiments for INEX 2004",
+      "link": null,
+      "year": 2004,
+      "cited_by": 9,
+      "authors": ["Charles LA Clarke", "Philip L Tilker"],
+      "description": null,
+      "citation_histogram": [
+        [2005, 5],
+        [2006, 2],
+        [2007, 1],
+        [2008, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Incorporating novelty, meaning, reaction and craft into computational poetry: a negative experimental result.",
+      "link": null,
+      "year": 2017,
+      "cited_by": 8,
+      "authors": ["Carolyn Lamb", "Daniel G Brown", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2017, 2],
+        [2018, 1],
+        [2019, 1],
+        [2020, 2],
+        [2021, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Modeling optimal switching behavior",
+      "link": null,
+      "year": 2016,
+      "cited_by": 8,
+      "authors": ["Mark D Smucker", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2016, 3],
+        [2017, 3],
+        [2018, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Evaluating streams of evolving news events",
+      "link": null,
+      "year": 2015,
+      "cited_by": 8,
+      "authors": ["Gaurav Baruah", "Mark D Smucker", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2015, 1],
+        [2016, 2],
+        [2017, 4],
+        [2018, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Can human assistance improve a computational poet?",
+      "link": null,
+      "year": 2015,
+      "cited_by": 8,
+      "authors": ["Carolyn E Lamb", "Daniel G Brown", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2017, 4],
+        [2018, 2],
+        [2019, 1],
+        [2020, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Clustering web queries",
+      "link": null,
+      "year": 2009,
+      "cited_by": 8,
+      "authors": ["John S Whissell", "Charles LA Clarke", "Azin Ashkan"],
+      "description": null,
+      "citation_histogram": [
+        [2010, 1],
+        [2011, 4],
+        [2012, 1],
+        [2013, 1],
+        [2014, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "An overview of MultiText",
+      "link": null,
+      "year": 1998,
+      "cited_by": 8,
+      "authors": [
+        "Charles LA Clarke",
+        "Gordon V Cormack",
+        "Christopher R Palmer"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2004, 1],
+        [2005, 2],
+        [2006, 2],
+        [2007, 2],
+        [2008, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A platform for streaming push notifications to mobile assessors",
+      "link": null,
+      "year": 2016,
+      "cited_by": 7,
+      "authors": [
+        "Adam Roegiest",
+        "Luchen Tan",
+        "Jimmy Lin",
+        "Charles LA Clarke"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2016, 2],
+        [2017, 2],
+        [2018, 1],
+        [2019, 1],
+        [2020, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Impact of surrogate assessments on high-recall retrieval",
+      "link": null,
+      "year": 2015,
+      "cited_by": 7,
+      "authors": [
+        "Adam Roegiest",
+        "Gordon V Cormack",
+        "Charles LA Clarke",
+        "Maura R Grossman"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2016, 3],
+        [2017, 1],
+        [2018, 2],
+        [2019, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "WaterlooClarke: TREC 2015 Total Recall Track.",
+      "link": null,
+      "year": 2015,
+      "cited_by": 7,
+      "authors": [
+        "Haotian Zhang",
+        "Wu Lin",
+        "Yipeng Wang",
+        "Charles LA Clarke",
+        "Mark D Smucker"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2017, 3],
+        [2018, 1],
+        [2019, 1],
+        [2020, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Understanding \u201cabandoned\u201d ads: towards personalized commercial intent inference via mouse movement analysis",
+      "link": null,
+      "year": 2008,
+      "cited_by": 7,
+      "authors": [
+        "Qi Guo",
+        "Eugene Agichtein",
+        "Charles LA Clarke",
+        "Azin Ashkan"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2013, 1],
+        [2014, 1],
+        [2015, 2],
+        [2016, 2],
+        [2017, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Comparing query formulation and lexical affinity replacements in passage retrieval",
+      "link": null,
+      "year": 2005,
+      "cited_by": 7,
+      "authors": ["Egidio Terra", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2006, 2],
+        [2007, 2],
+        [2008, 2],
+        [2009, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "An Easter Egg Hunting Approach to Test Collection Building in Dynamic Domains.",
+      "link": null,
+      "year": 2016,
+      "cited_by": 6,
+      "authors": [
+        "Seyyed Hadi Hashemi",
+        "Charles LA Clarke",
+        "Adriel Dean-Hall",
+        "Jaap Kamps",
+        "Julia Kiseleva"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2015, 1],
+        [2016, 3],
+        [2017, 1],
+        [2018, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Succinct queries for linking and tracking news in social media",
+      "link": null,
+      "year": 2014,
+      "cited_by": 6,
+      "authors": ["Luchen Tan", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2015, 2],
+        [2016, 3],
+        [2017, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Swapping documents and terms",
+      "link": null,
+      "year": 2009,
+      "cited_by": 6,
+      "authors": [
+        "Charles LA Clarke",
+        "Gordon V Cormack",
+        "Thomas R Lynam",
+        "Chris Buckley",
+        "Donna Harman"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2009, 1],
+        [2010, 1],
+        [2011, 2],
+        [2012, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Approximating the top-m passages in a parallel question answering system",
+      "link": null,
+      "year": 2004,
+      "cited_by": 6,
+      "authors": ["Charles LA Clarke", "Egidio L Terra"],
+      "description": null,
+      "citation_histogram": [
+        [2011, 1],
+        [2012, 2],
+        [2013, 1],
+        [2014, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A global search architecture",
+      "link": null,
+      "year": 1995,
+      "cited_by": 6,
+      "authors": ["F Burkowski", "G Cormack", "C Clarke", "R Good"],
+      "description": null,
+      "citation_histogram": [
+        [1998, 1],
+        [1999, 2],
+        [2000, 1],
+        [2001, 1],
+        [2002, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Inadvertent infusion of parenteral nutrition via the innominate artery",
+      "link": null,
+      "year": 1989,
+      "cited_by": 6,
+      "authors": ["C Clarke", "WA Thomas"],
+      "description": null,
+      "citation_histogram": [
+        [1992, 1],
+        [1993, 2],
+        [1994, 1],
+        [1995, 1],
+        [1996, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Predicting Efficiency/Effectiveness Trade-offs for Dense vs. Sparse Retrieval Strategy Selection",
+      "link": null,
+      "year": 2021,
+      "cited_by": 5,
+      "authors": ["Negar Arabzadeh", "Xinyi Yan", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2021, 1],
+        [2022, 4]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Complex questions: Let me Google it for you",
+      "link": null,
+      "year": 2016,
+      "cited_by": 5,
+      "authors": ["Alexandra Vtyurina", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2018, 2],
+        [2019, 1],
+        [2020, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The power of contextual suggestion",
+      "link": null,
+      "year": 2015,
+      "cited_by": 5,
+      "authors": ["Adriel Dean-Hall", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2015, 1],
+        [2016, 1],
+        [2017, 2],
+        [2018, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Online Evaluation of Point-Of-Interest Recommendation Systems.",
+      "link": null,
+      "year": 2015,
+      "cited_by": 5,
+      "authors": [
+        "Adriel Dean-Hall",
+        "Charles LA Clarke",
+        "Jaap Kamps",
+        "Julia Kiseleva"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2015, 3],
+        [2016, 1],
+        [2017, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Information Access in Smart Cities (i-ASC)",
+      "link": null,
+      "year": 2014,
+      "cited_by": 5,
+      "authors": [
+        "M Albakour",
+        "Craig Macdonald",
+        "Iadh Ounis",
+        "Charles LA Clarke",
+        "Veli Bicer"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2015, 1],
+        [2016, 2],
+        [2017, 1],
+        [2018, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Lightweight contrastive summarization for news comment mining",
+      "link": null,
+      "year": 2012,
+      "cited_by": 5,
+      "authors": ["Gobaan Raveendran", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2013, 2],
+        [2014, 1],
+        [2015, 1],
+        [2016, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Report on the workshop on search and exploration of x-rated information (SEXI 2013)",
+      "link": null,
+      "year": 2012,
+      "cited_by": 5,
+      "authors": [
+        "Vanessa Murdock",
+        "Charles LA Clarke",
+        "Jaap Kamps",
+        "Jussi Karlgren"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2013, 1],
+        [2014, 1],
+        [2015, 1],
+        [2016, 1],
+        [2017, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Overview of the trec 2011 web track",
+      "link": null,
+      "year": 2011,
+      "cited_by": 5,
+      "authors": [
+        "Ian M Soboroff",
+        "Nick Craswell",
+        "Charles L Clarke",
+        "Gordon Cormack"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2012, 1],
+        [2013, 1],
+        [2014, 2],
+        [2015, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Improving retrieval accuracy by weighting document types with clickthrough data",
+      "link": null,
+      "year": 2007,
+      "cited_by": 5,
+      "authors": [
+        "Peter CK Yeung",
+        "Charles LA Clarke",
+        "Stefan B\u00fcttcher"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2007, 2],
+        [2008, 1],
+        [2009, 1],
+        [2010, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Comparison of models based on summaries or documents towards extraction of update summaries",
+      "link": null,
+      "year": 2007,
+      "cited_by": 5,
+      "authors": ["Maheedhar Kolla", "Olga Vechtomova", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2008, 1],
+        [2009, 1],
+        [2010, 1],
+        [2011, 1],
+        [2012, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Waterloo Experiments for the CLEF05 SDR Track.",
+      "link": null,
+      "year": 2005,
+      "cited_by": 5,
+      "authors": ["Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2005, 1],
+        [2006, 2],
+        [2007, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Mouse-based rotation and translation",
+      "link": null,
+      "year": 2005,
+      "cited_by": 5,
+      "authors": ["Celine Latulipe", "Craig S Kaplan", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2005, 1],
+        [2006, 1],
+        [2007, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Three-layered source-code modelling",
+      "link": null,
+      "year": 2004,
+      "cited_by": 5,
+      "authors": ["Anthony Cox", "Charles Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2005, 2],
+        [2006, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Context grep",
+      "link": null,
+      "year": 1996,
+      "cited_by": 5,
+      "authors": ["Charles LA Clarke", "Gordon V Cormack"],
+      "description": null,
+      "citation_histogram": [
+        [1996, 1],
+        [1997, 1],
+        [1998, 1],
+        [1999, 1],
+        [2000, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A mixed-method analysis of text and audio search interfaces with varying task complexity",
+      "link": null,
+      "year": 2020,
+      "cited_by": 4,
+      "authors": [
+        "Alexandra Vtyurina",
+        "Charles LA Clarke",
+        "Edith Law",
+        "Johanne R Trippas",
+        "Horatiu Bota"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2020, 1],
+        [2021, 1],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Test collection building and maintenance in dynamic domains",
+      "link": null,
+      "year": 2016,
+      "cited_by": 4,
+      "authors": [
+        "Seyyed Hadi Hashemi",
+        "Charles LA Clarke",
+        "Adriel Dean-Hall",
+        "Jaap Kamps",
+        "Julia Kiseleva"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2016, 2],
+        [2017, 1],
+        [2018, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "SIGIR 2016 workshop WebQA II: Web question answering beyond factoids",
+      "link": null,
+      "year": 2016,
+      "cited_by": 4,
+      "authors": [
+        "Alessandro Moschitti",
+        "Llui\u00eds M\u00e1rquez",
+        "Preslav Nakov",
+        "Eugene Agichtein",
+        "Charles Clarke",
+        "Idan Szpektor"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2019, 2],
+        [2020, 1],
+        [2021, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "SIGIR 2013 workshop on modeling user behavior for information retrieval evaluation",
+      "link": null,
+      "year": 2013,
+      "cited_by": 4,
+      "authors": [
+        "Charles LA Clarke",
+        "Luanne Freund",
+        "Mark D Smucker",
+        "Emine Yilmaz"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2017, 1],
+        [2018, 1],
+        [2019, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "University of Waterloo at TREC 2010: Legal Interactive.",
+      "link": null,
+      "year": 2010,
+      "cited_by": 4,
+      "authors": [
+        "Mark D Smucker",
+        "Charles LA Clarke",
+        "Gordon V Cormack",
+        "Olga Vechtomova"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2011, 3],
+        [2012, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Towards a collection-based results diversification",
+      "link": null,
+      "year": 2010,
+      "cited_by": 4,
+      "authors": ["John A Akinyemi", "Charles LA Clarke", "Maheedhar Kolla"],
+      "description": null,
+      "citation_histogram": [
+        [2012, 1],
+        [2013, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Compacting garbage collection can be fast and simple",
+      "link": null,
+      "year": 1996,
+      "cited_by": 4,
+      "authors": ["Charles LA Clarke", "David V Mason"],
+      "description": null,
+      "citation_histogram": [
+        [1995, 1],
+        [1996, 1],
+        [1997, 1],
+        [1998, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Evaluation measures based on preference graphs",
+      "link": null,
+      "year": 2021,
+      "cited_by": 3,
+      "authors": ["Charles LA Clarke", "Chengxi Luo", "Mark D Smucker"],
+      "description": null,
+      "citation_histogram": [
+        [2021, 1],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Made to Measure: A Workshop on Human-centred metrics for information seeking",
+      "link": null,
+      "year": 2020,
+      "cited_by": 3,
+      "authors": [
+        "George Buchanan",
+        "Dana McKay",
+        "Charles LA Clarke",
+        "Leif Azzopardi",
+        "Johanne Trippas"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2021, 1],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Inverted treaps",
+      "link": null,
+      "year": 2017,
+      "cited_by": 3,
+      "authors": [
+        "Roberto Konow",
+        "Gonzalo Navarro",
+        "Charles LA Clarke",
+        "Alejandro Lopez-Ortiz"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2018, 1],
+        [2019, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Searching from Mars.",
+      "link": null,
+      "year": 2016,
+      "cited_by": 3,
+      "authors": ["Jimmy Lin", "Charles LA Clarke", "Gaurav Baruah"],
+      "description": null,
+      "citation_histogram": [
+        [2016, 1],
+        [2017, 1],
+        [2018, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Waterlooclarke: Trec 2015 clinical decision support track",
+      "link": null,
+      "year": 2015,
+      "cited_by": 3,
+      "authors": [
+        "Amira Ghenai",
+        "Eldar Khalilov",
+        "Pavel Valov",
+        "Charles L Clarke"
+      ],
+      "description": null,
+      "citation_histogram": [[2018, 3]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Web question answering: Beyond factoids: SIGIR 2015 workshop",
+      "link": null,
+      "year": 2015,
+      "cited_by": 3,
+      "authors": [
+        "Eugene Agichtein",
+        "David Carmel",
+        "Charles LA Clarke",
+        "Praveen Paritosh",
+        "Dan Pelleg",
+        "Idan Szpektor"
+      ],
+      "description": null,
+      "citation_histogram": [[2016, 3]],
+      "detail_extracted": true
+    },
+    {
+      "title": "\u4fe1\u606f\u68c0\u7d22: \u5b9e\u73b0\u548c\u8bc4\u4ef7\u641c\u7d22\u5f15\u64ce",
+      "link": null,
+      "year": 2012,
+      "cited_by": 3,
+      "authors": ["\u5e03\u5207\u5c14"],
+      "description": null,
+      "citation_histogram": [
+        [2012, 1],
+        [2013, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Unaligned binary codes for index compression in schema-independent text retrieval systems",
+      "link": null,
+      "year": 2006,
+      "cited_by": 3,
+      "authors": ["Stefan B\u00fcttcher", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2007, 1],
+        [2008, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A reliable storage management layer for distributed information retrieval systems",
+      "link": null,
+      "year": 2003,
+      "cited_by": 3,
+      "authors": [
+        "Charles LA Clarke",
+        "Philip L Tilker",
+        "Allen Quoc-Luan Tran",
+        "Kevin Harris",
+        "Antonio S Cheng"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2004, 1],
+        [2005, 1],
+        [2006, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The MultiText retrieval system (demonstration abstract)",
+      "link": null,
+      "year": 1999,
+      "cited_by": 3,
+      "authors": [
+        "Gordon V Cormack",
+        "Charles LA Clarke",
+        "Christopher R Palmer",
+        "Robert C Good"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2001, 1],
+        [2002, 1],
+        [2003, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Concealed haemorrhage in patients nursed on an air fluidised bed.",
+      "link": null,
+      "year": 1990,
+      "cited_by": 3,
+      "authors": ["C Clarke", "I McConachie", "JD Edwards", "P Nightingale"],
+      "description": null,
+      "citation_histogram": [
+        [1992, 1],
+        [1993, 1],
+        [1994, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Translating Human Mobility Forecasting through Natural Language Generation",
+      "link": null,
+      "year": 2022,
+      "cited_by": 2,
+      "authors": [
+        "Hao Xue",
+        "Flora D Salim",
+        "Yongli Ren",
+        "Charles LA Clarke"
+      ],
+      "description": null,
+      "citation_histogram": [[2022, 2]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Report on NTCIR-13: the thirteenth round of NII testbeds and community for information access research",
+      "link": null,
+      "year": 2018,
+      "cited_by": 2,
+      "authors": [
+        "Yiqun Liu",
+        "Makoto P Kato",
+        "Charles LA Clarke",
+        "Noriko Kando",
+        "Tetsuya Sakai"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2019, 1],
+        [2020, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Dynamic Trade-Off Prediction in Multi-Stage Retrieval Systems",
+      "link": null,
+      "year": 2016,
+      "cited_by": 2,
+      "authors": ["J Shane Culpepper", "Charles LA Clarke", "Jimmy Lin"],
+      "description": null,
+      "citation_histogram": [
+        [2017, 1],
+        [2018, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The effects of latency penalties in evaluating push notification systems",
+      "link": null,
+      "year": 2016,
+      "cited_by": 2,
+      "authors": [
+        "Luchen Tan",
+        "Jimmy Lin",
+        "Adam Roegiest",
+        "Charles LA Clarke"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2016, 1],
+        [2017, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Second Workshop on Search and Exploration of X-Rated Information (SEXI'16) WSDM Workshop Summary",
+      "link": null,
+      "year": 2016,
+      "cited_by": 2,
+      "authors": [
+        "Vanessa Murdock",
+        "Charles LA Clarke",
+        "Jaap Kamps",
+        "Jussi Karlgren"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2016, 1],
+        [2017, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Ir evaluation: Modeling user behavior for measuring effectiveness",
+      "link": null,
+      "year": 2015,
+      "cited_by": 2,
+      "authors": ["Charles LA Clarke", "Mark D Smucker", "Emine Yilmaz"],
+      "description": null,
+      "citation_histogram": [
+        [2017, 1],
+        [2018, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Document understanding conference duc 2007",
+      "link": null,
+      "year": 2007,
+      "cited_by": 2,
+      "authors": [
+        "Hoa Trang Dang",
+        "Lucy Vanderwende",
+        "Catherine Blake",
+        "Julia Kampov",
+        "Andreas Orphanides",
+        "David West",
+        "Cory Lown",
+        "Massih Amini",
+        "Nicolas Usunier",
+        "Fabrizio Gotti",
+        "Guy Lapalme",
+        "Luka Nerima",
+        "Eric Wehrli",
+        "Kristina Toutanova",
+        "Chris Brockett",
+        "Michael Gamon",
+        "Jagadeesh Jagarlamudi",
+        "Hisami Suzuki",
+        "Andrew Hickl",
+        "Kirk Roberts",
+        "Finley Lacatusu",
+        "Florian Boudin",
+        "Frederic Bechet",
+        "Marc El-Beze",
+        "Benoit Favre",
+        "Laurent Gillard",
+        "Juan-Manuel Torres-Moreno",
+        "Maheedhar Kolla",
+        "Olga Vechtomova",
+        "Charles LA Clarke",
+        "Ziheng Lin",
+        "Tat-Seng Chua",
+        "Min-Yen Kan",
+        "Wee Sun Lee",
+        "Long Qiu",
+        "Shiren Ye",
+        "Nitin Madnani",
+        "David Zajic",
+        "Bonnie Dorr",
+        "Necip Fazil Ayan",
+        "Jimmy Lin",
+        "John M Conroy",
+        "Judith D Schlesinger",
+        "Dianne P O'Leary"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2009, 1],
+        [2010, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "An algebra for structured text search.",
+      "link": null,
+      "year": 1998,
+      "cited_by": 2,
+      "authors": ["Charles L A Clarke"],
+      "description": null,
+      "citation_histogram": [[2003, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "A sticky problem with a guide wire",
+      "link": null,
+      "year": 1996,
+      "cited_by": 2,
+      "authors": ["A Dobson", "C Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2008, 1],
+        [2009, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Language and compiler support for synchronous message passing architectures.",
+      "link": null,
+      "year": 1992,
+      "cited_by": 2,
+      "authors": ["Charles L A Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [1992, 1],
+        [1993, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Mouse taming: Bimanual and unimanual image alignment",
+      "link": null,
+      "year": null,
+      "cited_by": 2,
+      "authors": ["C Latulipe", "C Kaplan", "C Clarke"],
+      "description": null,
+      "citation_histogram": [
+        [2006, 1],
+        [2007, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Visualizing Searcher Gaze Patterns",
+      "link": null,
+      "year": 2021,
+      "cited_by": 1,
+      "authors": ["Mustafa Abualsaud", "Mark D Smucker", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [[2022, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Ten Blue Links on Mars",
+      "link": null,
+      "year": 2017,
+      "cited_by": 1,
+      "authors": [
+        "Charles LA Clarke",
+        "Gordon V Cormack",
+        "Jimmy Lin",
+        "Adam Roegiest"
+      ],
+      "description": null,
+      "citation_histogram": [[2018, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "EVIA 2016: The seventh international workshop on evaluating information access",
+      "link": null,
+      "year": 2017,
+      "cited_by": 1,
+      "authors": ["Charles LA Clarke", "Emine Yilmaz"],
+      "description": null,
+      "citation_histogram": [[2017, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Total recall: Blue sky on mars",
+      "link": null,
+      "year": 2016,
+      "cited_by": 1,
+      "authors": [
+        "Charles LA Clarke",
+        "Gordon V Cormack",
+        "Jimmy Lin",
+        "Adam Roegiest"
+      ],
+      "description": null,
+      "citation_histogram": [[2017, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "WaterlooClarke: TREC 2015 LiveQA Track",
+      "link": null,
+      "year": 2015,
+      "cited_by": 1,
+      "authors": [
+        "Alexandra Vtyurina",
+        "Ankita Dey",
+        "Bahareh Sarrafzadeh",
+        "Charles L Clarke"
+      ],
+      "description": null,
+      "citation_histogram": [[2017, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "WaterlooClarke: TREC 2015 Contextual Suggestion Track.",
+      "link": null,
+      "year": 2015,
+      "cited_by": 1,
+      "authors": ["Hella Hoffmann", "Pragnya Addala", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [[2021, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Contextual search and exploration",
+      "link": null,
+      "year": 2015,
+      "cited_by": 1,
+      "authors": ["Julia Kiseleva", "Jaap Kamps", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [[2015, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Location-and Query-Aware Modeling of Browsing and Click Behavior in Sponsored Search",
+      "link": null,
+      "year": 2014,
+      "cited_by": 1,
+      "authors": ["Azin Ashkan", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [[2016, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Assessing Contextual Suggestion.",
+      "link": null,
+      "year": 2014,
+      "cited_by": 1,
+      "authors": ["Adriel Dean-Hall", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [[2015, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "University of Waterloo at TREC 2014 Contextual Suggestion: Experiments with suggestion clustering",
+      "link": null,
+      "year": 2014,
+      "cited_by": 1,
+      "authors": [
+        "Luchen Tan",
+        "Adriel Dean-Hall",
+        "Pragnya Addala",
+        "Charles L Clarke"
+      ],
+      "description": null,
+      "citation_histogram": [[2015, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Proceedings of the 37th International ACM SIGIR Conference on Research and Development in Information Retrieval (ACM SIGIR'14)",
+      "link": null,
+      "year": 2014,
+      "cited_by": 1,
+      "authors": [
+        "Shlomo Geva",
+        "Andrew Trotman",
+        "Peter Bruza",
+        "CharlesLA Clarke",
+        "Kalervo J\u00e4rvelin"
+      ],
+      "description": null,
+      "citation_histogram": [[2017, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "2nd international workshop on diversity in document retrieval (DDR 2012)",
+      "link": null,
+      "year": 2012,
+      "cited_by": 1,
+      "authors": ["Craig Macdonald", "Jun Wang", "Charles Clarke"],
+      "description": null,
+      "citation_histogram": [[2021, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "The 1st international workshop on diversity in document retrieval",
+      "link": null,
+      "year": 2012,
+      "cited_by": 1,
+      "authors": ["Craig Macdonald", "Charles Clarke", "Jun Wang"],
+      "description": null,
+      "citation_histogram": [[2017, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Do subtopic judgments reflect diversity?",
+      "link": null,
+      "year": 2011,
+      "cited_by": 1,
+      "authors": ["John A Akinyemi", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [[2012, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Why is this restaurant different from all other restaurants?(captioning for contextual suggestion)",
+      "link": null,
+      "year": 2011,
+      "cited_by": 1,
+      "authors": ["C Clarke", "William Song"],
+      "description": null,
+      "citation_histogram": [[2012, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "UWaterloo at NTCIR-9: Intent discovery with anchor text.",
+      "link": null,
+      "year": 2011,
+      "cited_by": 1,
+      "authors": ["John A Akinyemi", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [[2017, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "ClueWeb09 and TREC Diversity.",
+      "link": null,
+      "year": 2010,
+      "cited_by": 1,
+      "authors": ["Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [[2022, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Web Question Answering.",
+      "link": null,
+      "year": 2009,
+      "cited_by": 1,
+      "authors": ["Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": [[2018, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "MultiText Legal Experiments at TREC 2007.",
+      "link": null,
+      "year": 2007,
+      "cited_by": 1,
+      "authors": [
+        "Stefan B\u00fcttcher",
+        "Charles LA Clarke",
+        "Gordon V Cormack",
+        "Thomas R Lynam",
+        "David R Cheriton"
+      ],
+      "description": null,
+      "citation_histogram": [[2011, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "A functional approach to complex retrieval tasks",
+      "link": null,
+      "year": 2000,
+      "cited_by": 1,
+      "authors": ["Anthony Cox", "Charles Clarke"],
+      "description": null,
+      "citation_histogram": [[2001, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "A robust storage system architecture",
+      "link": null,
+      "year": 1995,
+      "cited_by": 1,
+      "authors": ["RC Good", "GV Cormack", "CLA Clarke", "D Taylor"],
+      "description": null,
+      "citation_histogram": [[1995, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Performance Evaluation of the Sylvan Multiprocessor Architecture",
+      "link": null,
+      "year": 1991,
+      "cited_by": 1,
+      "authors": ["FJ Burkowski", "CLA Clarke", "SC Cowan", "GJ Vreugdenhil"],
+      "description": null,
+      "citation_histogram": [[1992, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Early Stage Sparse Retrieval with Entity Linking",
+      "link": null,
+      "year": 2022,
+      "cited_by": null,
+      "authors": ["Dahlia Shehata", "Negar Arabzadeh", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Unsupervised Question Clarity Prediction Through Retrieved Item Coherency",
+      "link": null,
+      "year": 2022,
+      "cited_by": null,
+      "authors": ["Negar Arabzadeh", "Mahsa Seifikar", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Human Preferences as Dueling Bandits",
+      "link": null,
+      "year": 2022,
+      "cited_by": null,
+      "authors": [
+        "Xinyi Yan",
+        "Chengxi Luo",
+        "Charles LA Clarke",
+        "Nick Craswell",
+        "Ellen M Voorhees",
+        "Pablo Castells"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Report on the 15th round of NII testbeds and community for information access research (NTCIR-15)",
+      "link": null,
+      "year": 2022,
+      "cited_by": null,
+      "authors": [
+        "Makoto P Kato",
+        "Yiqun Liu",
+        "Noriko Kando",
+        "Charles LA Clarke"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "WaterlooClarke at the TREC 2021 Conversational Assistant Track",
+      "link": null,
+      "year": 2021,
+      "cited_by": null,
+      "authors": ["Xinyi Yan", "Charles LA Clarke", "Negar Arabzadeh"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "WaterlooClarke at the Trec 2020 Conversational Assistant Track.",
+      "link": null,
+      "year": 2020,
+      "cited_by": null,
+      "authors": ["Negar Arabzadeh", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Whole blood profiling of T-cell derived miRNA allows the development of prognostic models in inflammatory bowel",
+      "link": null,
+      "year": 2020,
+      "cited_by": null,
+      "authors": [
+        "R Kalla",
+        "AT Adams",
+        "NT Ventham",
+        "NA Kennedy",
+        "R White",
+        "C Clarke",
+        "A Ivens",
+        "D Bergemalm",
+        "S Vatn"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Program Commitee",
+      "link": null,
+      "year": 2019,
+      "cited_by": null,
+      "authors": [
+        "Nicholas Belkin",
+        "Charles Clarke",
+        "Atsushi Fujii",
+        "Gareth Jones",
+        "Stefano Mizzaro",
+        "Alistair Moffat",
+        "Tetsuya Sakai",
+        "Mark Sanderson",
+        "Ruihua Song"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "NII Testbeds and Community for Information Access Research",
+      "link": null,
+      "year": 2019,
+      "cited_by": null,
+      "authors": [
+        "Makoto P Kato",
+        "Yiqun Liu",
+        "Noriko Kando",
+        "Charles LA Clarke"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "A Think-Aloud Study about Medical Misinformation in Search Results",
+      "link": null,
+      "year": 2019,
+      "cited_by": null,
+      "authors": ["Amira Ghenai", "Mark D Smucker", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Overview of Special Issue",
+      "link": null,
+      "year": 2017,
+      "cited_by": null,
+      "authors": [
+        "James Allan",
+        "Nicholas J Belkin",
+        "Paul Bennett",
+        "Jamie Callan",
+        "Charles Clarke",
+        "Fernando Diaz",
+        "Susan Dumais",
+        "Nicola Ferro",
+        "Donna Harman",
+        "Djoerd Hiemstra",
+        "Ian Ruthven",
+        "Tetsuya Sakai",
+        "Mark D Smucker",
+        "Justin Zobel"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Efficient and Effective Tail Latency Minimization in Multi-Stage Retrieval Systems",
+      "link": null,
+      "year": 2017,
+      "cited_by": null,
+      "authors": [
+        "Joel Mackenzie",
+        "J Shane Culpepper",
+        "Roi Blanco",
+        "Matt Crane",
+        "Charles LA Clarke",
+        "Jimmy Lin"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Search and Exploration of X-rated Information: WSDM'16 workshop proceedings: February 22, 2016, San Francisco, USA",
+      "link": null,
+      "year": 2016,
+      "cited_by": null,
+      "authors": ["V Murdock", "CLA Clarke", "J Kamps", "J Karlgren"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Scala, Web search engines, and Web recommender systems with a focus on search engine",
+      "link": null,
+      "year": 2016,
+      "cited_by": null,
+      "authors": [
+        "Stefan B\u00fcttcher",
+        "Charles LA Clarke",
+        "Gordon V Cormack"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "EVIA 2016",
+      "link": null,
+      "year": 2016,
+      "cited_by": null,
+      "authors": [
+        "Charles Clarke",
+        "Emine Yilmaz",
+        "Noriko Kando",
+        "Makoto P Kato",
+        "Kazuaki Kishida"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Implementing and Evaluating Search Engines",
+      "link": null,
+      "year": 2016,
+      "cited_by": null,
+      "authors": [
+        "Stefan B\u00fcttcher",
+        "Charles LA Clarke",
+        "Gordon V Cormack"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "WaterlooClarke: TREC 2015 Microblog Track",
+      "link": null,
+      "year": 2015,
+      "cited_by": null,
+      "authors": [
+        "Mustafa Abualsaud",
+        "Milad Ghaznavi",
+        "Daniel Recoskie",
+        "Charles L Clarke"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Report on the 1st International Workshop on Information Access in Smart Cities (i-ASC 2014)",
+      "link": null,
+      "year": 2014,
+      "cited_by": null,
+      "authors": [
+        "M-Dyaa Albakour",
+        "Craig Macdonald",
+        "Iadh Ounis",
+        "Charles LA Clarke",
+        "Veli Bicer"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Workshop Organisation Organisation Committee",
+      "link": null,
+      "year": 2014,
+      "cited_by": null,
+      "authors": [
+        "M-Dyaa Albakour",
+        "Craig Macdonald",
+        "Iadh Ounis",
+        "Charles LA Clarke",
+        "Veli Bicer",
+        "Fernando Diaz",
+        "Jaap Kamps",
+        "Paul Thomas",
+        "Daqing He",
+        "Omar Alonso",
+        "Freddy Lecue",
+        "Raffaele Perego",
+        "Cathal Gurrin",
+        "Franco Maria Nardini",
+        "Suzan Verberne"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Classification-Based Clustering Evaluation",
+      "link": null,
+      "year": 2013,
+      "cited_by": null,
+      "authors": ["John S Whissell", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "SIGIR 2013 Workshop on Modeling User Behavior for Information Retrieval Evaluation (MUBE 2013)",
+      "link": null,
+      "year": 2013,
+      "cited_by": null,
+      "authors": [
+        "Charles LA Clarke",
+        "Luanne Freund",
+        "Mark D Smucker",
+        "Emine Yilmaz"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Fast and effective soft links",
+      "link": null,
+      "year": 2013,
+      "cited_by": null,
+      "authors": ["John A Akinyemi", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Current Research on Search and Exploration of X-Rated Information",
+      "link": null,
+      "year": 2013,
+      "cited_by": null,
+      "authors": [
+        "Vanessa Murdock Charles LA Clarke",
+        "Jaap Kamps",
+        "Jussi Karlgren"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Search and Exploration of X-rated Information: WSDM'13 workshop proceedings: February 5, 2013, Rome, Italy",
+      "link": null,
+      "year": 2013,
+      "cited_by": null,
+      "authors": ["Vanessa Murdock", "CLA Clarke", "J Kamps", "J Karlgren"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Nugget-Based Computation of Graded Relevance.",
+      "link": null,
+      "year": 2013,
+      "cited_by": null,
+      "authors": ["Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Christmas decorations as an impediment to patient care",
+      "link": null,
+      "year": 2012,
+      "cited_by": null,
+      "authors": ["C Martin", "C Clarke", "J Lavery"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "entertain me",
+      "link": null,
+      "year": 2011,
+      "cited_by": null,
+      "authors": [
+        "Nicholas J Belkin",
+        "Charles LA Clarke",
+        "Ning Gao",
+        "Jaap Kamps",
+        "Jussi Karlgren"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "A Comparative Analysis of Cascade Measures for Novelty and Diversity",
+      "link": null,
+      "year": 2011,
+      "cited_by": null,
+      "authors": [
+        "Ian M Soboroff",
+        "Charles L Clarke",
+        "Nick Craswell",
+        "Azin Ashkan"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Unsupervised Learning of Result Page Context for Clickthrough Analysis in Sponsored Search",
+      "link": null,
+      "year": 2011,
+      "cited_by": null,
+      "authors": ["Azin Ashkan", "John S Whissell", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Index pruning and result reranking: Effects on Ad-Hoc retrieval and named page finding (Wumpus at TREC 2006)",
+      "link": null,
+      "year": 2006,
+      "cited_by": null,
+      "authors": [
+        "Stefan B\u00fcttcher",
+        "Charles LA Clarke",
+        "Peter CK Yeung"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "QUESTION ANSWERING BY PASSAGE SELECTION",
+      "link": null,
+      "year": 2006,
+      "cited_by": null,
+      "authors": [
+        "THOMAS R LYNAM",
+        "EGIDIO L TERRA",
+        "CHARLES LA CLARKE",
+        "GORDON V CORMACK"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "adding full-text filesystem search to Linux",
+      "link": null,
+      "year": 2006,
+      "cited_by": null,
+      "authors": ["Stefan B\u00fcttcher", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Modeling Task-Genre Relationships for IR",
+      "link": null,
+      "year": 2005,
+      "cited_by": null,
+      "authors": ["Luanne Freund"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Preface from the Conference Chairs",
+      "link": null,
+      "year": 2003,
+      "cited_by": null,
+      "authors": ["Charles Clarke", "Gordon Cormack"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Ahmed S., 179 Aoe J.-i., 379, 717 Atlam E.-S., 717 Beaulieu M., 95",
+      "link": null,
+      "year": 2000,
+      "cited_by": null,
+      "authors": [
+        "C Buckley",
+        "AL Calve\u00c2",
+        "P Cantero",
+        "J Capstick",
+        "C Cardie",
+        "CR Chatwin",
+        "SB Cho",
+        "CLA Clarke",
+        "C Cole",
+        "GV Cormack",
+        "E Cosijn",
+        "F Crestani"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Department of Computer Science University of Waterloo Waterloo, Ontario N2L 3G1 Canada",
+      "link": null,
+      "year": 1999,
+      "cited_by": null,
+      "authors": ["Charles LA Clarke", "David V Mason"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "DNA-Binding radioprotectors-overview",
+      "link": null,
+      "year": 1996,
+      "cited_by": null,
+      "authors": [
+        "RF Martin",
+        "P Coultas",
+        "S Broadhurst",
+        "R Budd",
+        "SD DAbrew",
+        "R Sephton",
+        "M Reum",
+        "J White",
+        "C Clarke",
+        "DP Kelly"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "A Simple Superscalar Architecture",
+      "link": null,
+      "year": 1995,
+      "cited_by": null,
+      "authors": [
+        "Crispin Cowan",
+        "Jan Graczyk",
+        "J Michael Bennetty",
+        "Charles LA Clarkez"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Dept. of Computer Science University of Waterloo, Waterloo, Canada, N2L 3G1 Technical Report CS-94-40 November 23, 1994",
+      "link": null,
+      "year": 1994,
+      "cited_by": null,
+      "authors": ["Charles LA Clarke", "Gordon V Cormack Forbes J Burkowski"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Pulmonary Aspects of Neurological Diseases",
+      "link": null,
+      "year": 1990,
+      "cited_by": null,
+      "authors": ["P Nightingale", "C Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Organization of NTCIR-16 Conference",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Noriko Kando",
+        "Charles LA Clarke",
+        "Makoto P Kato",
+        "Yiqun Liu",
+        "Emi Ishita",
+        "Hidetsugu Nanba",
+        "Hiroaki Ohshima",
+        "Masaharu Yoshioka",
+        "Masao Takaku",
+        "Tomoko Ohsuga",
+        "Yoshiyuki Shoji",
+        "Cathal Gurrin",
+        "Ruifeng Xu",
+        "Shoko Wakamiya",
+        "Takehiro Yamamoto",
+        "Zhicheng Dou",
+        "Ben Carterette",
+        "Hsin-Hsi Chen",
+        "Nicola Ferro"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "on Evaluation of Information Access Technologies June 14-17, 2022 Tokyo Japan",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Noriko Kando",
+        "Charles LA Clarke",
+        "Makoto P Kato",
+        "Yiqun Liu"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Question Answering by Passage Selection (MultiText Experiments for TREC-c) CLA Clarke GV Cormack DIE Kisman TR Lynam Computer Science, University of Waterloo, Waterloo, Ontario\u00a0\u2026",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": ["CLA Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Length Normalization in the Era of Neural Rankers",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": ["Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "An Academic in a Data Wonderland: Five Lessons from Commercial Search",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": ["Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Nugget-based Framework to Support Graded Relevance Assessments",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": ["Maheedhar Kolla", "Olga Vechtomova", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Domain-Specific Synonym Expansion and",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": ["Stefan Biittcher", "Charles LA Clarke", "Gordon V Cormack"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Organization of NTCIR-13 Conference",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Charles LA Clarke",
+        "Noriko Kando",
+        "Tetsuya Sakai",
+        "Tomoko Ohsuga",
+        "Makoto P Kato",
+        "Hideo Joho",
+        "Masao Takaku",
+        "Atsushi Keyaki",
+        "Hiroaki Ohshima",
+        "Tsuneaki Kato",
+        "Masaharu Yoshioka",
+        "Daisuke Kitayama"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Program for SIGIR 2008 Workshop Beyond Binary Relevance: Preferences, Diversity, and Set-Level Judgments",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Javed A Aslam",
+        "Ke Zhou",
+        "Hongyuan Zha",
+        "Gui-Rong Xue",
+        "Yong Yu",
+        "David Hawking",
+        "Thomas Arni",
+        "Jaiyu Tang",
+        "Mark Sanderson",
+        "Paul Clough",
+        "Maheedhar Kolla",
+        "Olga Vechtomova",
+        "Charles LA Clarke",
+        "Nicholas J Belkin",
+        "Ralf Bierig",
+        "Michael Cole",
+        "Soo-Yeon Hwang",
+        "Paul Kantor",
+        "Michael J Pazzani",
+        "Amanda Spink",
+        "Frances Alvarado-Albertorio",
+        "Jia T Du",
+        "Filip Radlinski",
+        "Nick Craswell",
+        "Ben Carterette",
+        "Paul Bennett",
+        "Olivier Chapelle"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "The 2nd SIGIR workshop on Crowdsourcing for Information Retrieval (CIR 2011)",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Matthew Lease",
+        "Vaughn Hester",
+        "Crowdflower Alexander Sorokin",
+        "CrowdFlower Emine Yilmaz",
+        "Paul Bennett",
+        "Ben Carterette",
+        "Charlie Clarke",
+        "Harry Halpin",
+        "CrowdFlower Gareth Jones",
+        "Jaap Kamps",
+        "Martha Larson",
+        "Gabriella Kazai",
+        "Mounia Lalmas",
+        "Edith Law",
+        "Don Metzler",
+        "Stefano Mizzaro",
+        "Stefanie Nowak",
+        "IDMT Fraunhofer",
+        "Iadh Ounis",
+        "Mark Sanderson",
+        "Mark Smucker",
+        "Siddharth Suri"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Information Access (EVIA 2016), a Satellite Workshop of the NTCIR-12 Conference, June 7, 2016 Tokyo Japan",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Emine Yilmaz",
+        "L Charles",
+        "A Clarke",
+        "Keynote Yiqun Liu",
+        "Seyyed Hadi Hashemi",
+        "Charles LA Clarke",
+        "Adriel Dean-Hall",
+        "Jaap Kamps",
+        "Julia Kiseleva",
+        "Tetsuya Sakai",
+        "Lifeng Shang",
+        "Camilla Sanvitto",
+        "Debasis Ganguly",
+        "Gareth JF Jones",
+        "Gabriella Pasi",
+        "Promoting Repeatability Through Open Runs",
+        "Ellen Voorhees",
+        "Shahzad Rajput",
+        "Ian Soboroff",
+        "Douglas W Oard",
+        "Katie Shilton",
+        "Jimmy Lin",
+        "Makoto P Kato",
+        "Virgil Pavlu",
+        "Takehiro Yamamoto",
+        "Hajime Morita"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Welcome to the Seventh International Workshop on Evaluating Information Access (EVIA 2016) held in conjunction with NTCIR 12 in Tokyo, Japan.",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": ["Emine Yilmaz", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "EVIA 2016: The Seventh International Workshop on Evaluating Information Access",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Noriko Kando",
+        "Tetsuya Sakai",
+        "Mark Sanderson",
+        "Kazuaki Kishida",
+        "Makoto P Kato",
+        "Shuhei Yamamoto",
+        "Yohei Seki",
+        "Tsuneaki Kato",
+        "Hideo Joho",
+        "Atsushi Keyaki",
+        "Charles Clarke",
+        "Emine Yilmaz",
+        "Atsushi Fujii",
+        "Donna Harman",
+        "Gareth Jones",
+        "Evangelos Kanoulas",
+        "Diane Kelly",
+        "Liadh Kelly",
+        "Filip Radlinski",
+        "Falk Scholer",
+        "Anne Schuth",
+        "Mark Smucker",
+        "Ian Soboroff",
+        "Ruihua Song",
+        "Adith Swaminathan",
+        "Paul Thomas"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "I was amazed to realize that we\u2019re sponsoring conferences on four different continents this year. A very successful WSDM was held in New York in late February. SIGIR will be\u00a0\u2026",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": ["Charles Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "This volume contains the refereed papers presented at DDR 2011: 1st Interna-tional Workshop on Diversity in Document Retrieval held on 18th April 2011 in Dublin, Ireland, as\u00a0\u2026",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": ["Jun Wang", "Charles Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Session 1: Relevance and Evaluation\u2022 Invited Talk Abstract: Empirical justification of the discount function for nDCG..... 6",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Evangelos Kanoulas",
+        "Javed A Aslam",
+        "Ke Zhou",
+        "Hongyuan Zha",
+        "Gui-Rong Xue",
+        "Yong Yu",
+        "Maheedhar Kolla",
+        "Olga Vechtomova",
+        "Charles LA Clarke",
+        "Nicholas J Belkin",
+        "Ralf Bierig",
+        "Michael Cole",
+        "Soo-Yeon Hwang",
+        "Paul Kantor",
+        "Michael J Pazzani",
+        "Filip Radlinski"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "EVIA 2013: The Fifth International Workshop on Evaluating Information Access",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Noriko Kando",
+        "Tsuneaki Kato",
+        "Douglas W Oard",
+        "Mark Sanderson",
+        "Hiroaki Ohshima",
+        "Masaharu Yoshioka",
+        "Emi Ishita",
+        "Kazuaki Kishida",
+        "Kazuko Kuriyama",
+        "Takehito Utsuro",
+        "Ruihua Song",
+        "William Webber",
+        "Charles Clarke",
+        "Atsushi Fujii",
+        "Donna Harman",
+        "Hideo Joho",
+        "Gareth Jones",
+        "Tetsuya Sakai",
+        "Falk Scholer",
+        "Ian Soboroff",
+        "Paul Thomas",
+        "Hidetsugu Nanba",
+        "Masao Takaku",
+        "Tetsuji Satoh"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Organization of NTCIR-10 Workshop",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Noriko Kando",
+        "Tsuneaki Kato",
+        "Douglas W Oard",
+        "Mark Sanderson",
+        "Hiroaki Ohshima",
+        "Masaharu Yoshioka",
+        "Emi Ishita",
+        "Kazuaki Kishida",
+        "Kazuko Kuriyama",
+        "Takehito Utsuro",
+        "Hideo Joho",
+        "Tetsuya Sakai",
+        "Charles Clarke",
+        "Kalervo Jarvelin",
+        "Gareth Jones"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Keynote: Time-Biased Gain",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": ["Charles Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Result Diversification with Anchor Text: University of Waterloo at TREC 2011 Web Track",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": ["John A Akinyemi", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Organization of NTCIR-9 Workshop",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Noriko Kando",
+        "Tsuneaki Kato",
+        "Eiichiro Sumita",
+        "Kai Ishikawa",
+        "Akiko Aizawa",
+        "Atsushi Fujii",
+        "Hidetsugu Nanba",
+        "Daisuke Ishikawa",
+        "Hiroshi Nakagawa",
+        "Yohei Seki",
+        "Hideo Joho",
+        "Ian Soboroff",
+        "Tetsuya Sakai",
+        "Ruihua Song",
+        "Youngin Song",
+        "William Webber",
+        "Charles Clarke",
+        "Fredric C Gey",
+        "Gareth Jones",
+        "Sung Hyon Myaeng",
+        "Stephen Robertson"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Operating System Support for Full-Text Search in File Systems",
+      "link": null,
+      "year": null,
+      "cited_by": null,
+      "authors": ["Stefan B\u00fcttcher", "Charles LA Clarke"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    }
+  ],
+  "all_publications_retrieved": true,
+  "all_publications_extracted": true
+}

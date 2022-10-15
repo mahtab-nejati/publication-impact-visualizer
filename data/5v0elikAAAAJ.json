@@ -1,0 +1,1482 @@
+{
+  "authorID": "5v0elikAAAAJ",
+  "name": "Jian Zhao",
+  "image_link": null,
+  "interests": [
+    "Information Visualization",
+    "Human-Computer Interaction",
+    "Visual Analytics",
+    "Data Science"
+  ],
+  "citations": 1755,
+  "hindex": 21,
+  "i10index": 35,
+  "citation_histogram": [
+    ["2012", "21"],
+    ["2013", "25"],
+    ["2014", "48"],
+    ["2015", "83"],
+    ["2016", "146"],
+    ["2017", "165"],
+    ["2018", "237"],
+    ["2019", "240"],
+    ["2020", "242"],
+    ["2021", "300"],
+    ["2022", "221"]
+  ],
+  "coauthors": [
+    ["WtijM48AAAAJ", "Ravin Balakrishnan"],
+    ["qc6jW8sAAAAJ", "Fanny Chevalier"],
+    ["J7a5zGEAAAAJ", "Huamin Qu"],
+    ["xODsu2YAAAAJ", "Azam Khan"],
+    ["yHRw4eMAAAAJ", "Christopher Collins"],
+    ["4S0xEj8AAAAJ", "Michael Glueck"],
+    ["4cWrM50AAAAJ", "Maoyuan Sun"],
+    ["LmPLt9AAAAAJ", "francine chen"],
+    ["yBZ7vtkAAAAJ", "Chris North"],
+    ["LgL2HpkAAAAJ", "Kwan-Liu Ma"],
+    ["9EeqDSEAAAAJ", "yu-ru lin"],
+    ["5I0mFcsAAAAJ", "Nan Cao"],
+    ["NBWs5EoAAAAJ", "Matthew Cooper"],
+    ["kNElreMAAAAJ", "Chidansh Bhatt"],
+    ["ZcWO2AEAAAAJ", "Aaron Hertzmann"],
+    ["rRCnB0wAAAAJ", "Zhicheng Liu"],
+    ["cR2dd0oAAAAJ", "Yanhong Wu"],
+    ["x3VK0fAAAAAJ", "Liang Gou"],
+    ["09LealQAAAAJ", "weiwei cui"],
+    ["fMJwG7MAAAAJ", "Naren Ramakrishnan"],
+    ["dvRv92YAAAAJ", "Fan Du"],
+    ["GAqZYGcAAAAJ", "Mingming Fan"],
+    ["lkRuDtoAAAAJ", "Patrick Chiu"],
+    ["dkrDj6QAAAAJ", "Zhen Wen"],
+    ["dNHNpxoAAAAJ", "Yale Song"],
+    ["BaY_Ie8AAAAJ", "Mira Dontcheva"],
+    ["8Wq9hTEAAAAJ", "Danyel Fisher"],
+    ["4LaKRrwAAAAJ", "Steven Drucker"],
+    ["x3hvdTsAAAAJ", "Daniel Wigdor"],
+    ["_7CrObkAAAAJ", "Xiangshi Ren"],
+    ["H19l7WoAAAAJ", "Emmanuel Pietriga"],
+    ["P1M2IAAAAJ", "Simon Breslav"],
+    ["ge8g4uoAAAAJ", "David A. Shamma"],
+    ["QfRik3EAAAAJ", "Ji Wang"],
+    ["7q1y3h0AAAAJ", "Takanori Fujiwara"],
+    ["9NkngDMAAAAJ", "Haiyi Zhu"],
+    ["eXmpp5IAAAAJ", "Hao-Fei Cheng"],
+    ["mw0_aLoAAAAJ", "Petra Isenberg (Neumann)"],
+    ["Y73FwSkAAAAJ", "Chris Bryan"],
+    ["5ZWZcmcAAAAJ", "Shenyu Xu"],
+    ["D2kMmbYAAAAJ", "Jennifer Marlow"],
+    ["xp3QhPkAAAAJ", "Lin-Ping YUAN"],
+    ["zbXIQMsAAAAJ", "Yaoliang Yu"],
+    ["B1fFBKEAAAAJ", "Jianping Kelvin Li"],
+    ["ZaPuPWsAAAAJ", "Hao Dong, \u8463\u6d69"],
+    ["dryVywUAAAAJ", "Hao Wu"],
+    ["b8cNEHwAAAAJ", "Kurt Luther"],
+    ["njhHD_AAAAAJ", "Mi Feng"],
+    ["5jIJb38AAAAJ", "Bum Chul Kwon"],
+    ["GHJYsLEAAAAJ", "Jaegul Choo"],
+    ["nwU418UAAAAJ", "Cheonbok Park"],
+    ["V1LR3hAAAAAJ", "Ziqi Zhou"],
+    ["UW8koAAAAJ", "Yeonsoo Lee"],
+    ["eVdyy8YAAAAJ", "Jaehyo Yoo"],
+    ["tsV_2pcAAAAJ", "Khai N. Truong"],
+    ["cNuZI40AAAAJ", "Ke Wu"],
+    ["B3Omgx8AAAAJ", "Winter Wei"],
+    ["ur9msj8AAAAJ", "Scott Carter"],
+    ["hFOkXLYAAAAJ", "John Wenskovitch"],
+    ["WCyvEJsAAAAJ", "Yun Wang"],
+    ["cuN9btIAAAAJ", "Michelle Annett"],
+    ["xCxyGuwAAAAJ", "Zhicong Lu"],
+    ["mq_lBSQAAAAJ", "Senthil Chandrasegaran"],
+    ["0UrZHcEAAAAJ", "Xin Qian"],
+    ["T9QjVSEAAAAJ", "Yiran Li"],
+    ["xaCtmAcAAAAJ", "Gregory Doerk"],
+    ["LtDVtwcAAAAJ", "sungsoo ha"],
+    ["aw9AUCYAAAAJ", "Yuan Zhong"],
+    ["BEr_82MAAAAJ", "Wei Xu"],
+    ["5nVwbGYAAAAJ", "Kerstin Kleese van Dam"],
+    ["a3rXangAAAAJ", "Kevin G. Yager"],
+    ["DyabMZwAAAAJ", "Cong Xie"],
+    ["xONj57oAAAAJ", "Wen Zhong"],
+    ["uya_Zb4AAAAJ", "Klaus Mueller"],
+    ["JDB4AAAAJ", "Xinhai Wei"],
+    ["jAAAAAJ", "Ha Trinh"],
+    ["URiFF5EAAAAJ", "Wei Li"],
+    ["8sG8TNsAAAAJ", "Mona Hosseinkhani Loorak"],
+    ["27CfLjEAAAAJ", "Hamed Alhoori"],
+    ["3nfm1N8AAAAJ", "Abdul Rahman Shaikh"],
+    ["RxPsnDkAAAAJ", "Bowen Yu"],
+    ["6IinLVUAAAAJ", "Brent Hecht"],
+    ["n6bjh24AAAAJ", "Svetlana Yarosh"],
+    ["PH4mytYAAAAJ", "Joseph A. Konstan"],
+    ["r6cAovIAAAAJ", "Loren Terveen"],
+    ["tths4U4AAAAJ", "Haeyong Chung"],
+    ["qeOqvW8AAAAJ", "Tianyi Li"],
+    ["XxQq8nsAAAAJ", "Semih Salihoglu"],
+    ["vExWsYoAAAAJ", "Yang Wang"],
+    ["Gy5PyE8AAAAJ", "Nafisa Anzum"],
+    ["_bo8YDUAAAAJ", "Siyuan Xia"],
+    ["P1JcZ0AAAAAJ", "Emily Kuang"],
+    ["2uYAAAAJ", "Pengcheng An | \u5b89\u9e4f\u94d6"],
+    ["MTNbZeoAAAAJ", "Hong Wang"],
+    ["DI5wFGgAAAAJ", "Ehsan Jahangirzadeh Soure"],
+    ["pI5jLCEAAAAJ", "Brad Glasbergen"],
+    ["Yi5nK1EAAAAJ", "Daniel Vogel"],
+    ["60vC3HUAAAAJ", "Michael Abebe"],
+    ["oHgAAAAJ", "Melissa Dell"],
+    ["V0K3gs0AAAAJ", "Zejiang Shen"],
+    ["_Up7LpoAAAAJ", "Matthew L. Lee"]
+  ],
+  "publications": [
+    {
+      "title": "# FluxFlow: Visual Analysis of Anomalous Information Spreading on Social Media",
+      "link": null,
+      "year": 2014,
+      "cited_by": 193,
+      "authors": [
+        "Jian Zhao",
+        "Nan Cao",
+        "Zhen Wen",
+        "Yale Song",
+        "Yu-Ru Lin",
+        "Christopher Collins"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2014, 2],
+        [2015, 15],
+        [2016, 24],
+        [2017, 26],
+        [2018, 23],
+        [2019, 25],
+        [2020, 22],
+        [2021, 25],
+        [2022, 26]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "MatrixWave: Visual Comparison of Event Sequence Data",
+      "link": null,
+      "year": 2015,
+      "cited_by": 142,
+      "authors": [
+        "Jian Zhao",
+        "Zhicheng Liu",
+        "Mira Dontcheva",
+        "Aaron Hertzmann",
+        "Alan Wilson"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2015, 3],
+        [2016, 23],
+        [2017, 19],
+        [2018, 21],
+        [2019, 19],
+        [2020, 20],
+        [2021, 30],
+        [2022, 6]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Interactive exploration of implicit and explicit relations in faceted datasets",
+      "link": null,
+      "year": 2013,
+      "cited_by": 120,
+      "authors": [
+        "Jian Zhao",
+        "Christopher Collins",
+        "Fanny Chevalier",
+        "Ravin Balakrishnan"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2013, 1],
+        [2014, 11],
+        [2015, 11],
+        [2016, 16],
+        [2017, 12],
+        [2018, 16],
+        [2019, 16],
+        [2020, 13],
+        [2021, 17],
+        [2022, 5]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Exploratory Analysis of Time-Series with ChronoLenses",
+      "link": null,
+      "year": 2011,
+      "cited_by": 112,
+      "authors": [
+        "Jian Zhao",
+        "Fanny Chevalier",
+        "Emmanuel Pietriga",
+        "Ravin Balakrishnan"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2011, 2],
+        [2012, 9],
+        [2013, 6],
+        [2014, 12],
+        [2015, 7],
+        [2016, 10],
+        [2017, 13],
+        [2018, 11],
+        [2019, 13],
+        [2020, 8],
+        [2021, 12],
+        [2022, 8]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Pearl: An interactive visual analytic tool for understanding personal emotion style derived from social media",
+      "link": null,
+      "year": 2014,
+      "cited_by": 101,
+      "authors": ["Jian Zhao", "Liang Gou", "Fei Wang", "Michelle Zhou"],
+      "description": null,
+      "citation_histogram": [
+        [2013, 1],
+        [2014, 6],
+        [2015, 15],
+        [2016, 12],
+        [2017, 10],
+        [2018, 18],
+        [2019, 17],
+        [2020, 6],
+        [2021, 14]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "egoSlider: Visual analysis of egocentric network evolution",
+      "link": null,
+      "year": 2016,
+      "cited_by": 97,
+      "authors": [
+        "Yanhong Wu",
+        "Naveen Pitipornvivat",
+        "Jian Zhao",
+        "Sixiao Yang",
+        "Guowei Huang",
+        "Huamin Qu"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2015, 3],
+        [2016, 13],
+        [2017, 18],
+        [2018, 17],
+        [2019, 11],
+        [2020, 14],
+        [2021, 12],
+        [2022, 7]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Visual Analysis of MOOC Forums with iForum",
+      "link": null,
+      "year": 2017,
+      "cited_by": 88,
+      "authors": ["Siwei Fu", "Jian Zhao", "Weiwei Cui", "Huamin Qu"],
+      "description": null,
+      "citation_histogram": [
+        [2017, 6],
+        [2018, 17],
+        [2019, 22],
+        [2020, 12],
+        [2021, 17],
+        [2022, 13]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "KronoMiner: using multi-foci navigation for the visual exploration of time-series data",
+      "link": null,
+      "year": 2011,
+      "cited_by": 86,
+      "authors": ["Jian Zhao", "Fanny Chevalier", "Ravin Balakrishnan"],
+      "description": null,
+      "citation_histogram": [
+        [2011, 2],
+        [2012, 10],
+        [2013, 4],
+        [2014, 9],
+        [2015, 8],
+        [2016, 7],
+        [2017, 12],
+        [2018, 11],
+        [2019, 11],
+        [2020, 5],
+        [2021, 2],
+        [2022, 4]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Facilitating discourse analysis with interactive visualization",
+      "link": null,
+      "year": 2012,
+      "cited_by": 75,
+      "authors": [
+        "Jian Zhao",
+        "Fanny Chevalier",
+        "Christopher Collins",
+        "Ravin Balakrishnan"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2012, 1],
+        [2013, 3],
+        [2014, 8],
+        [2015, 8],
+        [2016, 7],
+        [2017, 9],
+        [2018, 10],
+        [2019, 11],
+        [2020, 5],
+        [2021, 7],
+        [2022, 4]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Supporting handoff in asynchronous collaborative sensemaking using knowledge-transfer graphs",
+      "link": null,
+      "year": 2017,
+      "cited_by": 62,
+      "authors": [
+        "Jian Zhao",
+        "Michael Glueck",
+        "Petra Isenberg",
+        "Fanny Chevalier",
+        "Azam Khan"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2018, 18],
+        [2019, 12],
+        [2020, 13],
+        [2021, 11],
+        [2022, 7]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Egocentric Analysis of Dynamic Networks with EgoLines",
+      "link": null,
+      "year": 2016,
+      "cited_by": 49,
+      "authors": [
+        "Jian Zhao",
+        "Michael Glueck",
+        "Fanny Chevalier",
+        "Yanhong Wu",
+        "Azam Khan"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2016, 2],
+        [2017, 6],
+        [2018, 11],
+        [2019, 9],
+        [2020, 6],
+        [2021, 7],
+        [2022, 6]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Annotation Graphs: A Graph-Based Visualization for Meta-Analysis of Data based on User-Authored Annotations",
+      "link": null,
+      "year": 2017,
+      "cited_by": 39,
+      "authors": [
+        "Jian Zhao",
+        "Michael Glueck",
+        "Simon Breslav",
+        "Fanny Chevalier",
+        "Azam Khan"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2017, 8],
+        [2018, 7],
+        [2019, 8],
+        [2020, 6],
+        [2021, 4],
+        [2022, 6]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Flexible learning with semantic visual exploration and sequence-based recommendation of MOOC videos",
+      "link": null,
+      "year": 2018,
+      "cited_by": 38,
+      "authors": [
+        "Jian Zhao",
+        "Chidansh Bhatt",
+        "Matthew Cooper",
+        "David A Shamma"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2018, 1],
+        [2019, 5],
+        [2020, 11],
+        [2021, 16],
+        [2022, 5]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "ReCloud: semantics-based word cloud visualization of user reviews",
+      "link": null,
+      "year": 2014,
+      "cited_by": 36,
+      "authors": [
+        "Ji Wang",
+        "Jian Zhao",
+        "Sheng Guo",
+        "Chris North",
+        "Naren Ramakrishnan"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2013, 1],
+        [2014, 3],
+        [2015, 6],
+        [2016, 4],
+        [2017, 4],
+        [2018, 6],
+        [2019, 6],
+        [2020, 4],
+        [2021, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "TimeSlice: interactive faceted browsing of timeline data",
+      "link": null,
+      "year": 2012,
+      "cited_by": 35,
+      "authors": [
+        "Jian Zhao",
+        "Steven M Drucker",
+        "Danyel Fisher",
+        "Donald Brinkman"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2012, 1],
+        [2013, 5],
+        [2014, 5],
+        [2015, 4],
+        [2016, 1],
+        [2017, 4],
+        [2018, 5],
+        [2019, 4],
+        [2020, 4],
+        [2021, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Trajectory Bundling for Animated Transitions",
+      "link": null,
+      "year": 2015,
+      "cited_by": 34,
+      "authors": ["Fan Du", "Nan Cao", "Jian Zhao", "Yu-Ru Lin"],
+      "description": null,
+      "citation_histogram": [
+        [2015, 1],
+        [2016, 1],
+        [2017, 4],
+        [2018, 6],
+        [2019, 2],
+        [2020, 6],
+        [2021, 12],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "T-cal: Understanding team conversational data with calendar-based visualization",
+      "link": null,
+      "year": 2018,
+      "cited_by": 28,
+      "authors": [
+        "Siwei Fu",
+        "Jian Zhao",
+        "Hao Fei Cheng",
+        "Haiyi Zhu",
+        "Jennifer Marlow"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2018, 2],
+        [2019, 4],
+        [2020, 4],
+        [2021, 11],
+        [2022, 6]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The Entropy of a Rapid Aimed Movement: Fitts\u2019 Index of Difficulty versus Shannon\u2019s Entropy",
+      "link": null,
+      "year": 2011,
+      "cited_by": 28,
+      "authors": ["R Soukoreff", "Jian Zhao", "Xiangshi Ren"],
+      "description": null,
+      "citation_histogram": [
+        [2013, 2],
+        [2014, 1],
+        [2015, 1],
+        [2016, 6],
+        [2017, 2],
+        [2018, 6],
+        [2019, 1],
+        [2020, 1],
+        [2021, 6],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Personal emotion state monitoring from social media",
+      "link": null,
+      "year": 2015,
+      "cited_by": 27,
+      "authors": ["Liang Gou", "Fei Wang", "Jian Zhao", "Michelle X Zhou"],
+      "description": null,
+      "citation_histogram": [
+        [2016, 1],
+        [2017, 1],
+        [2018, 7],
+        [2019, 8],
+        [2020, 4],
+        [2021, 5],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A model of scrolling on touch-sensitive displays",
+      "link": null,
+      "year": 2014,
+      "cited_by": 26,
+      "authors": [
+        "Jian Zhao",
+        "R William Soukoreff",
+        "Xiangshi Ren",
+        "Ravin Balakrishnan"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2015, 5],
+        [2016, 3],
+        [2017, 2],
+        [2018, 4],
+        [2019, 4],
+        [2020, 2],
+        [2021, 3],
+        [2022, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "BiDots: Visual exploration of weighted biclusters",
+      "link": null,
+      "year": 2017,
+      "cited_by": 23,
+      "authors": ["Jian Zhao", "Maoyuan Sun", "Francine Chen", "Patrick Chiu"],
+      "description": null,
+      "citation_histogram": [
+        [2017, 1],
+        [2018, 5],
+        [2019, 4],
+        [2020, 6],
+        [2021, 5],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Relational rendering of multi-faceted data",
+      "link": null,
+      "year": 2014,
+      "cited_by": 21,
+      "authors": [
+        "Jian Zhao",
+        "Steven M Drucker",
+        "Danyel Fisher Jr",
+        "Donald Brinkman"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2016, 1],
+        [2017, 3],
+        [2018, 3],
+        [2019, 4],
+        [2020, 5],
+        [2021, 2],
+        [2022, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "TrailMap: facilitating information seeking in a multi-scale digital map via implicit bookmarking",
+      "link": null,
+      "year": 2013,
+      "cited_by": 21,
+      "authors": ["Jian Zhao", "Daniel Wigdor", "Ravin Balakrishnan"],
+      "description": null,
+      "citation_histogram": [
+        [2014, 3],
+        [2015, 2],
+        [2016, 3],
+        [2017, 1],
+        [2018, 6],
+        [2019, 3],
+        [2020, 1],
+        [2021, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Chart Constellations: Effective Chart Summarization for Collaborative and Multi\u2010User Analyses",
+      "link": null,
+      "year": 2018,
+      "cited_by": 19,
+      "authors": [
+        "Shenyu Xu",
+        "Chris Bryan",
+        "Jianping Kelvin Li",
+        "Jian Zhao",
+        "Kwan\u2010Liu Ma"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2019, 1],
+        [2020, 7],
+        [2021, 4],
+        [2022, 7]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "SeqSense: Video Recommendation Using Topic Sequence Mining",
+      "link": null,
+      "year": 2018,
+      "cited_by": 19,
+      "authors": ["Chidansh Bhatt", "Matthew Cooper", "Jian Zhao"],
+      "description": null,
+      "citation_histogram": [
+        [2018, 3],
+        [2019, 1],
+        [2020, 8],
+        [2021, 4],
+        [2022, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "How do ancestral traits shape family trees over generations?",
+      "link": null,
+      "year": 2017,
+      "cited_by": 17,
+      "authors": [
+        "Siwei Fu",
+        "Hao Dong",
+        "Weiwei Cui",
+        "Jian Zhao",
+        "Huamin Qu"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2018, 3],
+        [2019, 5],
+        [2020, 3],
+        [2021, 2],
+        [2022, 4]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Evaluating Effects of Background Stories on Graph Perception",
+      "link": null,
+      "year": 2021,
+      "cited_by": 14,
+      "authors": [
+        "Ying Zhao",
+        "Jingcheng Shi",
+        "Jiawei Liu",
+        "Jian Zhao",
+        "Fangfang Zhou",
+        "Wenzhi Zhang",
+        "Kangyi Chen",
+        "Xin Zhao",
+        "Chunyao Zhu",
+        "Wei Chen"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2021, 3],
+        [2022, 10]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The effect of edge bundling and seriation on sensemaking of biclusters in bipartite graphs",
+      "link": null,
+      "year": 2018,
+      "cited_by": 13,
+      "authors": [
+        "Maoyuan Sun",
+        "Jian Zhao",
+        "Hao Wu",
+        "Kurt Luther",
+        "Chris North",
+        "Naren Ramakrishnan"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2018, 1],
+        [2019, 2],
+        [2020, 4],
+        [2021, 4],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Providing Visualizations of Event Sequence Data",
+      "link": null,
+      "year": 2017,
+      "cited_by": 13,
+      "authors": [
+        "Lubomira Dontcheva",
+        "Jian Zhao",
+        "Aaron Hertzmann",
+        "Alan Wilson",
+        "Zhicheng Liu"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2017, 1],
+        [2018, 2],
+        [2019, 3],
+        [2020, 4],
+        [2021, 2],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "ChartSeer: Interactive Steering Exploratory Visual Analysis with Machine Intelligence",
+      "link": null,
+      "year": 2020,
+      "cited_by": 12,
+      "authors": ["Jian Zhao", "Mingming Fan", "Mi Feng"],
+      "description": null,
+      "citation_histogram": [
+        [2021, 8],
+        [2022, 4]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "InfoColorizer: Interactive Recommendation of Color Palettes for Infographics",
+      "link": null,
+      "year": 2021,
+      "cited_by": 11,
+      "authors": [
+        "Linping Yuan",
+        "Ziqi Zhou",
+        "Jian Zhao",
+        "Yiqiu Guo",
+        "Fan Du",
+        "Huamin Qu"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2021, 5],
+        [2022, 6]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Sanvis: Visual analytics for understanding self-attention networks",
+      "link": null,
+      "year": 2019,
+      "cited_by": 11,
+      "authors": [
+        "Cheonbok Park",
+        "Inyoup Na",
+        "Yongjang Jo",
+        "Sungbok Shin",
+        "Jaehyo Yoo",
+        "Bum Chul Kwon",
+        "Jian Zhao",
+        "Hyungjong Noh",
+        "Yeonsoo Lee",
+        "Jaegul Choo"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2020, 2],
+        [2021, 4],
+        [2022, 5]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Exploring and modeling unimanual object manipulation on multi-touch displays",
+      "link": null,
+      "year": 2015,
+      "cited_by": 11,
+      "authors": ["Jian Zhao", "R William Soukoreff", "Ravin Balakrishnan"],
+      "description": null,
+      "citation_histogram": [
+        [2015, 1],
+        [2016, 3],
+        [2017, 1],
+        [2018, 3],
+        [2019, 1],
+        [2020, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A Model of Multi-touch Manipulation",
+      "link": null,
+      "year": 2011,
+      "cited_by": 11,
+      "authors": ["Jian Zhao", "R William Soukoreff", "Ravin Balakrishnan"],
+      "description": null,
+      "citation_histogram": [
+        [2013, 2],
+        [2014, 2],
+        [2015, 2],
+        [2016, 1],
+        [2017, 1],
+        [2018, 1],
+        [2019, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "VisTA: Integrating Machine Intelligence with Visualization to Support the Investigation of Think-Aloud Sessions",
+      "link": null,
+      "year": 2019,
+      "cited_by": 10,
+      "authors": [
+        "Mingming Fan",
+        "Ke Wu",
+        "Jian Zhao",
+        "Yue Li",
+        "Winter Wei",
+        "Khai N Truong"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2021, 5],
+        [2022, 5]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Albireo: An Interactive Tool for Visually Summarizing Computational Notebook Structure",
+      "link": null,
+      "year": 2019,
+      "cited_by": 9,
+      "authors": [
+        "John Wenskovitch",
+        "Jian Zhao",
+        "Scott Carter",
+        "Matthew Cooper",
+        "Chris North"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2020, 1],
+        [2021, 4],
+        [2022, 4]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Interpretable contrastive learning for networks",
+      "link": null,
+      "year": 2020,
+      "cited_by": 8,
+      "authors": [
+        "Takanori Fujiwara",
+        "Jian Zhao",
+        "Francine Chen",
+        "Yaoliang Yu",
+        "Kwan-Liu Ma"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2020, 3],
+        [2021, 4],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Inkplanner: Supporting prewriting via intelligent visual diagramming",
+      "link": null,
+      "year": 2018,
+      "cited_by": 8,
+      "authors": [
+        "Zhicong Lu",
+        "Mingming Fan",
+        "Yun Wang",
+        "Jian Zhao",
+        "Michelle Annett",
+        "Daniel Wigdor"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2019, 3],
+        [2020, 2],
+        [2021, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "ChartStory: Automated Partitioning, Layout, and Captioning of Charts into Comic-Style Narratives",
+      "link": null,
+      "year": 2021,
+      "cited_by": 7,
+      "authors": [
+        "Jian Zhao",
+        "Shenyu Xu",
+        "Senthil Chandrasegaran",
+        "Chris Bryan",
+        "Fan Du",
+        "Aditi Mishra",
+        "Xin Qian",
+        "Yiran Li",
+        "Kwan-Liu Ma"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2021, 2],
+        [2022, 5]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Missbin: Visual analysis of missing links in bipartite networks",
+      "link": null,
+      "year": 2019,
+      "cited_by": 7,
+      "authors": ["Jian Zhao", "Maoyuan Sun", "Francine Chen", "Patrick Chiu"],
+      "description": null,
+      "citation_histogram": [
+        [2020, 2],
+        [2021, 3],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Interactive dimensionality reduction for comparative analysis",
+      "link": null,
+      "year": 2021,
+      "cited_by": 6,
+      "authors": [
+        "Takanori Fujiwara",
+        "Xinhai Wei",
+        "Jian Zhao",
+        "Kwan-Liu Ma"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2020, 2],
+        [2021, 2],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "MultiSciView: Multivariate scientific X-ray image visual exploration with cross-data space views",
+      "link": null,
+      "year": 2018,
+      "cited_by": 6,
+      "authors": [
+        "Wen Zhong",
+        "Wei Xu",
+        "Kevin G Yager",
+        "Gregory S Doerk",
+        "Jian Zhao",
+        "Yunke Tian",
+        "Sungsoo Ha",
+        "Cong Xie",
+        "Yuan Zhong",
+        "Klaus Mueller",
+        "Kerstin Kleese Van Dam"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2018, 3],
+        [2019, 2],
+        [2020, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Interactive Visual Data Exploration: A Multi-Focus Approach",
+      "link": null,
+      "year": 2015,
+      "cited_by": 6,
+      "authors": ["Jian Zhao"],
+      "description": null,
+      "citation_histogram": [
+        [2016, 1],
+        [2017, 1],
+        [2018, 3],
+        [2019, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "SightBi: Exploring Cross-View Data Relationships with Biclusters",
+      "link": null,
+      "year": 2021,
+      "cited_by": 5,
+      "authors": [
+        "Maoyuan Sun",
+        "Abdul Rahman Shaikh",
+        "Hamed Alhoori",
+        "Jian Zhao"
+      ],
+      "description": null,
+      "citation_histogram": [[2022, 5]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Hand-over-face input sensing for interaction with smartphones through the built-in camera",
+      "link": null,
+      "year": 2019,
+      "cited_by": 5,
+      "authors": [
+        "Mona Hosseinkhani Loorak",
+        "Wei Zhou",
+        "Ha Trinh",
+        "Jian Zhao",
+        "Wei Li"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2020, 1],
+        [2021, 3],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A Visual Analytics Framework for Contrastive Network Analysis",
+      "link": null,
+      "year": 2020,
+      "cited_by": 4,
+      "authors": [
+        "Takanori Fujiwara",
+        "Jian Zhao",
+        "Francine Chen",
+        "Kwan-Liu Ma"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2020, 1],
+        [2021, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Interactive bicluster aggregation in bipartite graphs",
+      "link": null,
+      "year": 2019,
+      "cited_by": 4,
+      "authors": [
+        "Maoyuan Sun",
+        "David Koop",
+        "Jian Zhao",
+        "Chris North",
+        "Naren Ramakrishnan"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2020, 1],
+        [2021, 2],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Mobile situated analytics of Ego-centric network data",
+      "link": null,
+      "year": 2017,
+      "cited_by": 4,
+      "authors": [
+        "Mingqian Zhao",
+        "Yijia Su",
+        "Jian Zhao",
+        "Shaoyu Chen",
+        "Huamin Qu"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2019, 1],
+        [2020, 2],
+        [2021, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Augmenting Mobile Phone Interaction with Face-Engaged Gestures. CoRR abs/1610.00214 (2016)",
+      "link": null,
+      "year": 2016,
+      "cited_by": 4,
+      "authors": [
+        "Jian Zhao",
+        "Ricardo Jota",
+        "Daniel J Wigdor",
+        "Ravin Balakrishnan"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2019, 1],
+        [2020, 1],
+        [2021, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Clustered layout word cloud for user generated review",
+      "link": null,
+      "year": 2013,
+      "cited_by": 4,
+      "authors": ["Ji Wang", "Jian Zhao", "Sheng Guo", "Chris North"],
+      "description": null,
+      "citation_histogram": [
+        [2015, 2],
+        [2016, 1],
+        [2017, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Towards Systematic Design Considerations for Visualizing Cross-View Data Relationships",
+      "link": null,
+      "year": 2021,
+      "cited_by": 3,
+      "authors": [
+        "Maoyuan Sun",
+        "Akhil Namburi",
+        "David Koop",
+        "Jian Zhao",
+        "Tianyi Li",
+        "Haeyong Chung"
+      ],
+      "description": null,
+      "citation_histogram": [[2022, 3]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Understanding Missing Links in Bipartite Networks with MissBiN",
+      "link": null,
+      "year": 2020,
+      "cited_by": 3,
+      "authors": ["Jian Zhao", "Maoyuan Sun", "Francine Chen", "Patrick Chui"],
+      "description": null,
+      "citation_histogram": [
+        [2021, 2],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Teaching UI design at global scales: A case study of the design of collaborative capstone projects for MOOCs",
+      "link": null,
+      "year": 2019,
+      "cited_by": 3,
+      "authors": [
+        "Hao-Fei Cheng",
+        "Bowen Yu",
+        "Siwei Fu",
+        "Jian Zhao",
+        "Brent Hecht",
+        "Joseph Konstan",
+        "Loren Terveen",
+        "Svetlana Yarosh",
+        "Haiyi Zhu"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2021, 1],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Using recommendation to explore educational video",
+      "link": null,
+      "year": 2018,
+      "cited_by": 3,
+      "authors": [
+        "Matthew Cooper",
+        "Jian Zhao",
+        "Chidansh Bhatt",
+        "David A Shamma"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2020, 2],
+        [2021, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "CoUX: Collaborative Visual Analysis of Think-Aloud Usability Test Videos for Digital Interfaces",
+      "link": null,
+      "year": 2021,
+      "cited_by": 2,
+      "authors": [
+        "Ehsan Jahangirzadeh Soure",
+        "Emily Kuang",
+        "Mingming Fan",
+        "Jian Zhao"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2021, 1],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Designing Mobile EEG Neurofeedback Games for Children with Autism",
+      "link": null,
+      "year": 2021,
+      "cited_by": 2,
+      "authors": [
+        "Zhaoyi Yang",
+        "Pengcheng An",
+        "Jinchen Yang",
+        "Samuel Strojny",
+        "Zihui Zhang",
+        "Dongsheng Sun",
+        "Jian Zhao"
+      ],
+      "description": null,
+      "citation_histogram": [[2022, 2]],
+      "detail_extracted": true
+    },
+    {
+      "title": "KTabulator: Interactive Ad hoc Table Creation using Knowledge Graphs",
+      "link": null,
+      "year": 2021,
+      "cited_by": 2,
+      "authors": ["Siyuan Xia", "Nafisa Anzum", "Semih Salihoglu", "Jian Zhao"],
+      "description": null,
+      "citation_histogram": [
+        [2021, 1],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "NBSearch: Semantic Search and Visual Exploration of Computational Notebooks",
+      "link": null,
+      "year": 2021,
+      "cited_by": 2,
+      "authors": [
+        "Xingjun Li",
+        "Yuanxin Wang",
+        "Hong Wang",
+        "Yang Wang",
+        "Jian Zhao"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2021, 1],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Techniques for mixed-initiative visualization of data",
+      "link": null,
+      "year": 2018,
+      "cited_by": 2,
+      "authors": ["Jian Zhao", "Michael Glueck", "Azam Khan", "Simon Breslav"],
+      "description": null,
+      "citation_histogram": [
+        [2018, 1],
+        [2019, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "OLALA: Object-Level Active Learning Based Layout Annotation",
+      "link": null,
+      "year": 2020,
+      "cited_by": 1,
+      "authors": [
+        "Zejiang Shen",
+        "Jian Zhao",
+        "Melissa Dell",
+        "Yaoliang Yu",
+        "Weining Li"
+      ],
+      "description": null,
+      "citation_histogram": [[2021, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Sentinel: Understanding data systems",
+      "link": null,
+      "year": 2020,
+      "cited_by": 1,
+      "authors": [
+        "Brad Glasbergen",
+        "Michael Abebe",
+        "Khuzaima Daudjee",
+        "Daniel Vogel",
+        "Jian Zhao"
+      ],
+      "description": null,
+      "citation_histogram": [[2020, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "A generic visualization framework for understanding missing links in bipartite networks",
+      "link": null,
+      "year": 2018,
+      "cited_by": 1,
+      "authors": ["Jian Zhao", "Fracine Chen", "Patrick Chiu"],
+      "description": null,
+      "citation_histogram": [[2020, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Augmenting Mobile Phone Interaction with Face-Engaged Gestures",
+      "link": null,
+      "year": 2016,
+      "cited_by": 1,
+      "authors": [
+        "Jian Zhao",
+        "Ricardo Jota",
+        "Daniel Wigdor",
+        "Ravin Balakrishnan"
+      ],
+      "description": null,
+      "citation_histogram": [[2022, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Know-What and Know-Who: Document Searching and Exploration using Topic-Based Two-Mode Networks",
+      "link": null,
+      "year": 2021,
+      "cited_by": null,
+      "authors": [
+        "Jian Zhao",
+        "Maoyuan Sun",
+        "Patrick Chiu",
+        "Francine Chen",
+        "Bee Liew"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "ICE: Identify and Compare Event Sequence Sets through Multi-Scale Matrix and Unit Visualizations",
+      "link": null,
+      "year": 2020,
+      "cited_by": null,
+      "authors": [
+        "Siwei Fu",
+        "Jian Zhao",
+        "Linping Yuan",
+        "Zhicheng Liu",
+        "Kwan-Liu Ma",
+        "Huamin Qu"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "OPaPi: Optimized Parts Pick-up routing for efficient manufacturing",
+      "link": null,
+      "year": 2019,
+      "cited_by": null,
+      "authors": [
+        "Chidansh Bhatt",
+        "Jian Zhao",
+        "Hideto Oda",
+        "Francine Chen",
+        "Matthew Lee"
+      ],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Handoff support in asynchronous analysis tasks using knowledge transfer graphs",
+      "link": null,
+      "year": 2018,
+      "cited_by": null,
+      "authors": ["Michael Glueck", "Azam Khan", "Jian Zhao"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Node-centric analysis of dynamic networks",
+      "link": null,
+      "year": 2018,
+      "cited_by": null,
+      "authors": ["Jian Zhao", "Michael Glueck", "Azam Khan"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Node-centric analysis of dynamic networks",
+      "link": null,
+      "year": 2018,
+      "cited_by": null,
+      "authors": ["Jian Zhao", "Michael Glueck", "Azam Khan"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "A Particle Filter Based Approach of Visualizing Time-varying Volume",
+      "link": null,
+      "year": 2012,
+      "cited_by": null,
+      "authors": ["Jian Zhao"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    }
+  ],
+  "all_publications_retrieved": true,
+  "all_publications_extracted": true
+}

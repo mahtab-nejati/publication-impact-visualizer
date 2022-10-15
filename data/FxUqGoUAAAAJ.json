@@ -1,0 +1,2186 @@
+{
+  "authorID": "FxUqGoUAAAAJ",
+  "name": "Shane McIntosh",
+  "image_link": null,
+  "interests": [
+    "Release Engineering",
+    "Build Systems",
+    "Empirical Software Engineering",
+    "Mining Software Repositories",
+    "Software Quality"
+  ],
+  "citations": 5180,
+  "hindex": 34,
+  "i10index": 55,
+  "citation_histogram": [
+    ["2012", "24"],
+    ["2013", "24"],
+    ["2014", "52"],
+    ["2015", "137"],
+    ["2016", "307"],
+    ["2017", "421"],
+    ["2018", "675"],
+    ["2019", "888"],
+    ["2020", "798"],
+    ["2021", "947"],
+    ["2022", "790"]
+  ],
+  "coauthors": [
+    ["9hwXx34AAAAJ", "Ahmed E. Hassan"],
+    ["BQaQAAAAJ", "Yasutaka Kamei"],
+    ["XS9QH_UAAAAJ", "Bram Adams"],
+    ["DfBligAAAAJ", "Kenichi Matsumoto"],
+    ["lSTImCgAAAAJ", "Naoyasu Ubayashi"],
+    ["idShgcoAAAAJ", "Chakkrit (Kla) Tantithamthavorn"],
+    ["FF_M_CEAAAAJ", "Keheliya Gallaba"],
+    ["ESZ1MiwAAAAJ", "Kazuhiro Yamashita"],
+    ["M23YcIoAAAAJ", "Patanamon (Pick) Thongtanunam"],
+    ["lb3qmgAAAAJ", "Uir\u00e1 Kulesza"],
+    ["J3bNU2MAAAAJ", "Daniel Alencar da Costa"],
+    ["iAhuXb4AAAAJ", "Akinori Ihara"],
+    ["MTZ0l60AAAAJ", "Martin Pinzger"],
+    ["Q0Zh060AAAAJ", "Christian Macho"],
+    ["QKpkZx0AAAAJ", "Meiyappan Nagappan"],
+    ["nImCQAAAAJ", "Baljinder Ghotra"],
+    ["ZGvnVQUAAAAJ", "Audris Mockus"],
+    ["YYXb3KIAAAAJ", "Foutse Khomh"],
+    ["hpxl9PEAAAAJ", "Daniel M. German"],
+    ["pCYlknMAAAAJ", "Ying Zou"],
+    ["gAbmhoEAAAAJ", "Ruiyin Wen"],
+    ["EbC3YkcAAAAJ", "Moritz Beller (Inventitech)"],
+    ["CDTfcG4AAAAJ", "Andy Zaidman"],
+    ["OXkWqAoAAAAJ", "Romain Robbes"],
+    ["kF76KPAAAAAJ", "Emad Shihab"],
+    ["EEC5GEQAAAAJ", "Roberta Coelho"],
+    ["ZnERyl4AAAAJ", "Weiyi Shang"],
+    ["AnnF3rYAAAAJ", "Rodrigo Morales"],
+    ["SSIvIAAAAJ", "Maxime Lamothe"],
+    ["oAAAAJ", "David Lo"],
+    ["HMXzKZYAAAAJ", "Surafel Lemma Abebe"],
+    ["BxUrdQEAAAAJ", "Raula Gaikovina Kula"],
+    ["0AAAAJ", "Takashi Ishio"],
+    ["d0LISE4AAAAJ", "\u00c9ric Tanter"],
+    ["rC3waY8AAAAJ", "Feng Zhang"],
+    ["VPT9ueMAAAAJ", "Gunter Mussbacher"],
+    ["XSZRxOEAAAAJ", "Xin Xia"],
+    ["E4JzksUAAAAJ", "Sander van der Burg"],
+    ["8HgcKdoAAAAJ", "Cor-Paul Bezemer"],
+    ["ie8QFEAAAAJ", "Christoph Treude"],
+    ["YE8OoZIAAAAJ", "Bodin Chinthanet"],
+    ["QfpPl3kAAAAJ", "Elmar Juergens"],
+    ["XlDo0wgAAAAJ", "Martin P. Robillard"],
+    ["TeuXRvAAAAAJ", "Mathieu Nassif"],
+    ["bCT8sjMAAAAJ", "Rabe Abdalkareem"],
+    ["X7MtBOYAAAAJ", "Suhaib Mujahid"],
+    ["mI2i5S4AAAAJ", "faizan khan"],
+    ["4Ya6dVoAAAAJ", "Daniel Varro"],
+    ["1J6I0bkAAAAJ", "Yves Junqueira"],
+    ["VRIy5tYAAAAJ", "Dong Wang"],
+    ["4XQQ6wAAAAJ", "Younes Boubekeur"],
+    ["eEo25AkAAAAJ", "Tao Xiao"],
+    ["8HE_qbgAAAAJ", "Marco Castelluccio"],
+    ["6rAetmwAAAAJ", "Boqi Chen"],
+    ["YViJeuAAAAAJ", "Rahul Amlekar"],
+    ["bivLuJQAAAAJ", "Le An"],
+    ["iy6MS74AAAAJ", "Jeongju Sohn"],
+    ["W9ymXf4AAAAJ", "Shin Yoo"],
+    ["ZXqNQbgAAAAJ", "Stefanie Beyer"],
+    ["KC6zx1YAAAAJ", "Farshad Kazemi"],
+    ["NsRgDcUAAAAJ", "Istvan David"]
+  ],
+  "publications": [
+    {
+      "title": "An empirical comparison of model validation techniques for defect prediction models",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7497471/",
+      "year": 2016,
+      "cited_by": 419,
+      "authors": [
+        "Chakkrit Tantithamthavorn",
+        "Shane McIntosh",
+        "Ahmed E Hassan",
+        "Kenichi Matsumoto"
+      ],
+      "description": "Defect prediction models help software quality assurance teams to allocate their limited resources to the most defect-prone modules. Model validation techniques, such as   -fold cross-validation, use historical data to estimate how well a model will perform in the future. However, little is known about how accurate the estimates of model validation techniques tend to be. In this paper, we investigate the bias and variance of model validation techniques in the domain of defect prediction. Analysis of 101 public defect datasets suggests that 77 percent of them are highly susceptible to producing unstable results\u2013 - selecting an appropriate model validation technique is a critical experimental design choice. Based on an analysis of 256 studies in the defect prediction literature, we select the 12 most commonly adopted model validation techniques for evaluation. Through a case study of 18 systems, we find that single\u00a0\u2026",
+      "citation_histogram": [
+        [2016, 5],
+        [2017, 21],
+        [2018, 54],
+        [2019, 92],
+        [2020, 69],
+        [2021, 93],
+        [2022, 80]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Revisiting the impact of classification techniques on the performance of defect prediction models",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7194626/",
+      "year": 2015,
+      "cited_by": 402,
+      "authors": ["Baljinder Ghotra", "Shane McIntosh", "Ahmed E Hassan"],
+      "description": "Defect prediction models help software quality assurance teams to effectively allocate their limited resources to the most defect-prone software modules. A variety of classification techniques have been used to build defect prediction models ranging from simple (e.g., Logistic regression) to advanced techniques (e.g., Multivariate Adaptive Regression Splines (MARS)). Surprisingly, recent research on the NASA dataset suggests that the performance of a defect prediction model is not significantly impacted by the classification technique that is used to train it. However, the dataset that is used in the prior study is both: (a) noisy, i.e., Contains erroneous entries and (b) biased, i.e., Only contains software developed in one setting. Hence, we set out to replicate this prior study in two experimental settings. First, we apply the replicated procedure to the same (known-to-be noisy) NASA dataset, where we derive similar results\u00a0\u2026",
+      "citation_histogram": [
+        [2015, 8],
+        [2016, 33],
+        [2017, 28],
+        [2018, 76],
+        [2019, 73],
+        [2020, 54],
+        [2021, 74],
+        [2022, 50]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The impact of code review coverage and code review participation on software quality: A case study of the qt, vtk, and itk projects",
+      "link": "https://dl.acm.org/doi/abs/10.1145/2597073.2597076",
+      "year": 2014,
+      "cited_by": 344,
+      "authors": [
+        "Shane McIntosh",
+        "Yasutaka Kamei",
+        "Bram Adams",
+        "Ahmed E Hassan"
+      ],
+      "description": "Software code review, ie, the practice of having third-party team members critique changes to a software system, is a well-established best practice in both open source and proprietary software domains. Prior work has shown that the formal code inspections of the past tend to improve the quality of software delivered by students and small teams. However, the formal code inspection process mandates strict review criteria (eg, in-person meetings and reviewer checklists) to ensure a base level of review quality, while the modern, lightweight code reviewing process does not. Although recent work explores the modern code review process qualitatively, little research quantitatively explores the relationship between properties of the modern code review process and software quality. Hence, in this paper, we study the relationship between software quality and:(1) code review coverage, ie, the proportion of changes that\u00a0\u2026",
+      "citation_histogram": [
+        [2013, 2],
+        [2014, 6],
+        [2015, 31],
+        [2016, 41],
+        [2017, 44],
+        [2018, 46],
+        [2019, 49],
+        [2020, 43],
+        [2021, 40],
+        [2022, 29]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Automated parameter optimization of classification techniques for defect prediction models",
+      "link": "https://dl.acm.org/doi/abs/10.1145/2884781.2884857",
+      "year": 2016,
+      "cited_by": 312,
+      "authors": [
+        "Chakkrit Tantithamthavorn",
+        "Shane McIntosh",
+        "Ahmed E Hassan",
+        "Kenichi Matsumoto"
+      ],
+      "description": "Defect prediction models are classifiers that are trained to identify defect-prone software modules. Such classifiers have configurable parameters that control their characteristics (eg, the number of trees in a random forest classifier). Recent studies show that these classifiers may underperform due to the use of suboptimal default parameter settings. However, it is impractical to assess all of the possible settings in the parameter spaces. In this paper, we investigate the performance of defect prediction models where Caret---an automated parameter optimization technique---has been applied. Through a case study of 18 datasets from systems that span both proprietary and open source domains, we find that (1) Caret improves the AUC performance of defect prediction models by as much as 40 percentage points;(2) Caret-optimized classifiers are at least as stable as (with 35% of them being more stable than) classifiers\u00a0\u2026",
+      "citation_histogram": [
+        [2015, 1],
+        [2016, 13],
+        [2017, 32],
+        [2018, 66],
+        [2019, 58],
+        [2020, 55],
+        [2021, 47],
+        [2022, 37]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "An empirical study of the impact of modern code review practices on software quality",
+      "link": "https://link.springer.com/article/10.1007/s10664-015-9381-9",
+      "year": 2016,
+      "cited_by": 270,
+      "authors": [
+        "Shane McIntosh",
+        "Yasutaka Kamei",
+        "Bram Adams",
+        "Ahmed E Hassan"
+      ],
+      "description": " Software code review, i.e., the practice of having other team members critique changes to a software system, is a well-established best practice in both open source and proprietary software domains. Prior work has shown that formal code inspections tend to improve the quality of delivered software. However, the formal code inspection process mandates strict review criteria (e.g., in-person meetings and reviewer checklists) to ensure a base level of review quality, while the modern, lightweight code reviewing process does not. Although recent work explores the modern code review process, little is known about the relationship between modern code review practices and long-term software quality. Hence, in this paper, we study the relationship between post-release defects (a popular proxy for long-term software quality) and: (1) code review coverage, i.e., the proportion of changes that have been code\u00a0\u2026",
+      "citation_histogram": [
+        [2015, 4],
+        [2016, 17],
+        [2017, 28],
+        [2018, 38],
+        [2019, 44],
+        [2020, 47],
+        [2021, 45],
+        [2022, 40]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The impact of automated parameter optimization on defect prediction models",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8263202/",
+      "year": 2018,
+      "cited_by": 242,
+      "authors": [
+        "Chakkrit Tantithamthavorn",
+        "Shane McIntosh",
+        "Ahmed E Hassan",
+        "Kenichi Matsumoto"
+      ],
+      "description": "Defect prediction models-classifiers that identify defect-prone software modules-have configurable parameters that control their characteristics (e.g., the number of trees in a random forest). Recent studies show that these classifiers underperform when default settings are used. In this paper, we study the impact of automated parameter optimization on defect prediction models. Through a case study of 18 datasets, we find that automated parameter optimization: (1) improves AUC performance by up to 40 percentage points; (2) yields classifiers that are at least as stable as those trained using default settings; (3) substantially shifts the importance ranking of variables, with as few as 28 percent of the top-ranked variables in optimized classifiers also being top-ranked in non-optimized classifiers; (4) yields optimized settings for 17 of the 20 most sensitive parameters that transfer among datasets without a statistically\u00a0\u2026",
+      "citation_histogram": [
+        [2017, 2],
+        [2018, 13],
+        [2019, 42],
+        [2020, 45],
+        [2021, 74],
+        [2022, 65]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Studying just-in-time defect prediction using cross-project models",
+      "link": "https://link.springer.com/article/10.1007/s10664-015-9400-x",
+      "year": 2016,
+      "cited_by": 199,
+      "authors": [
+        "Yasutaka Kamei",
+        "Takafumi Fukushima",
+        "Shane McIntosh",
+        "Kazuhiro Yamashita",
+        "Naoyasu Ubayashi",
+        "Ahmed E Hassan"
+      ],
+      "description": " Unlike traditional defect prediction models that identify defect-prone modules, Just-In-Time (JIT) defect prediction models identify defect-inducing changes. As such, JIT defect models can provide earlier feedback for developers, while design decisions are still fresh in their minds. Unfortunately, similar to traditional defect models, JIT models require a large amount of training data, which is not available when projects are in initial development phases. To address this limitation in traditional defect prediction, prior work has proposed cross-project models, i.e., models learned from other projects with sufficient history. However, cross-project models have not yet been explored in the context of JIT prediction. Therefore, in this study, we empirically evaluate the performance of JIT models in a cross-project context. Through an empirical study on 11 open source projects, we find that while JIT models rarely perform\u00a0\u2026",
+      "citation_histogram": [
+        [2015, 1],
+        [2016, 10],
+        [2017, 12],
+        [2018, 27],
+        [2019, 39],
+        [2020, 35],
+        [2021, 37],
+        [2022, 38]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Analyzing the state of static analysis: A large-scale evaluation in open source software",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7476667/",
+      "year": 2016,
+      "cited_by": 173,
+      "authors": [
+        "Moritz Beller",
+        "Radjino Bholanath",
+        "Shane McIntosh",
+        "Andy Zaidman"
+      ],
+      "description": "The use of automatic static analysis has been a software engineering best practice for decades. However, we still do not know a lot about its use in real-world software projects: How prevalent is the use of Automated Static Analysis Tools (ASATs) such as FindBugs and JSHint? How do developers use these tools, and how does their use evolve over time? We research these questions in two studies on nine different ASATs for Java, JavaScript, Ruby, and Python with a population of 122 and 168,214 open-source projects. To compare warnings across the ASATs, we introduce the General Defect Classification (GDC) and provide a grounded-theory-derived mapping of 1,825 ASAT-specific warnings to 16 top-level GDC classes. Our results show that ASAT use is widespread, but not ubiquitous, and that projects typically do not enforce a strict policy on ASAT use. Most ASAT configurations deviate slightly from the\u00a0\u2026",
+      "citation_histogram": [
+        [2016, 4],
+        [2017, 15],
+        [2018, 27],
+        [2019, 38],
+        [2020, 29],
+        [2021, 31],
+        [2022, 25]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "An empirical study of just-in-time defect prediction using cross-project models",
+      "link": "https://dl.acm.org/doi/abs/10.1145/2597073.2597075",
+      "year": 2014,
+      "cited_by": 173,
+      "authors": [
+        "Takafumi Fukushima",
+        "Yasutaka Kamei",
+        "Shane McIntosh",
+        "Kazuhiro Yamashita",
+        "Naoyasu Ubayashi"
+      ],
+      "description": "Prior research suggests that predicting defect-inducing changes, ie, Just-In-Time (JIT) defect prediction is a more practical alternative to traditional defect prediction techniques, providing immediate feedback while design decisions are still fresh in the minds of developers. Unfortunately, similar to traditional defect prediction models, JIT models require a large amount of training data, which is not available when projects are in initial development phases. To address this flaw in traditional defect prediction, prior work has proposed cross-project models, ie, models learned from older projects with sufficient history. However, cross-project models have not yet been explored in the context of JIT prediction. Therefore, in this study, we empirically evaluate the performance of JIT cross-project models. Through a case study on 11 open source projects, we find that in a JIT cross-project context:(1) high performance within\u00a0\u2026",
+      "citation_histogram": [
+        [2013, 1],
+        [2014, 1],
+        [2015, 10],
+        [2016, 17],
+        [2017, 15],
+        [2018, 15],
+        [2019, 32],
+        [2020, 26],
+        [2021, 28],
+        [2022, 27]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "An empirical study of build maintenance effort",
+      "link": "https://ieeexplore.ieee.org/abstract/document/6032453/",
+      "year": 2011,
+      "cited_by": 153,
+      "authors": [
+        "Shane McIntosh",
+        "Bram Adams",
+        "Thanh HD Nguyen",
+        "Yasutaka Kamei",
+        "Ahmed E Hassan"
+      ],
+      "description": "The build system of a software project is responsible for transforming source code and other development artifacts into executable programs and deliverables. Similar to source code, build system specifications require maintenance to cope with newly implemented features, changes to imported Application Program Interfaces (APIs), and source code restructuring. In this paper, we mine the version histories of one proprietary and nine open source projects of different sizes and domain to analyze the overhead that build maintenance imposes on developers. We split our analysis into two dimensions: (1) Build Coupling, i.e., how frequently source code changes require build changes, and (2) Build Ownership, i.e., the proportion of developers responsible for build maintenance. Our results indicate that, despite the difference in scale, the build system churn rate is comparable to that of the source code, and build changes\u00a0\u2026",
+      "citation_histogram": [
+        [2011, 4],
+        [2012, 12],
+        [2013, 8],
+        [2014, 24],
+        [2015, 18],
+        [2016, 20],
+        [2017, 16],
+        [2018, 10],
+        [2019, 8],
+        [2020, 9],
+        [2021, 6],
+        [2022, 6]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Are fix-inducing changes a moving target? a longitudinal case study of just-in-time defect prediction",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3180155.3182514",
+      "year": 2018,
+      "cited_by": 148,
+      "authors": ["Shane McIntosh", "Yasutaka Kamei"],
+      "description": "Change-level defect prediction [5], a.k.a., Just-In-Time (JIT) defect prediction [1], is an alternative to module-level defect prediction that offers several advantages. First, since code changes are often smaller than modules (e.g., classes), JIT predictions are made at a finer granularity, which localizes the inspection process. Second, while modules have a group of authors, changes have only one, which makes triaging JIT predictions easier. Finally, unlike module level prediction, JIT models can scan changes as they are being produced, which means that problems can be investigated while design decisions are still fresh in the developers' minds. Despite the advantages of JIT defect prediction, like all prediction models, they assume that the properties of past events (fix-inducing changes) are similar to the properties of future ones. This assumption may not hold---the properties of fix-inducing changes in one time period\u00a0\u2026",
+      "citation_histogram": [
+        [2017, 1],
+        [2018, 9],
+        [2019, 25],
+        [2020, 26],
+        [2021, 37],
+        [2022, 50]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A framework for evaluating the results of the szz approach for identifying bug-introducing changes",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7588121/",
+      "year": 2016,
+      "cited_by": 143,
+      "authors": [
+        "Daniel Alencar Da Costa",
+        "Shane McIntosh",
+        "Weiyi Shang",
+        "Uir\u00e1 Kulesza",
+        "Roberta Coelho",
+        "Ahmed E Hassan"
+      ],
+      "description": "The approach proposed by Silwerski, Zimmermann, and Zeller (SZZ) for identifying bug-introducing changes is at the foundation of several research areas within the software engineering discipline. Despite the foundational role of SZZ, little effort has been made to evaluate its results. Such an evaluation is a challenging task because the ground truth is not readily available. By acknowledging such challenges, we propose a framework to evaluate the results of alternative SZZ implementations. The framework evaluates the following criteria: (1) the earliest bug appearance, (2) the future impact of changes, and (3) the realism of bug introduction. We use the proposed framework to evaluate five SZZ implementations using data from ten open source projects. We find that previously proposed improvements to SZZ tend to inflate the number of incorrectly identified bug-introducing changes. We also find that a single bug\u00a0\u2026",
+      "citation_histogram": [
+        [2015, 1],
+        [2016, 3],
+        [2017, 24],
+        [2018, 29],
+        [2019, 26],
+        [2020, 30],
+        [2021, 29]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The Impact of Mislabelling on the Performance and Interpretation of Defect Prediction Models",
+      "link": null,
+      "year": null,
+      "cited_by": 135,
+      "authors": [
+        "Chakkrit Tantithamthavorn",
+        "Shane McIntosh",
+        "Ahmed E Hassan",
+        "Akinori Ihara",
+        "Ken-ichi Matsumoto"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2015, 5],
+        [2016, 20],
+        [2017, 7],
+        [2018, 19],
+        [2019, 24],
+        [2020, 23],
+        [2021, 18],
+        [2022, 16]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Do code review practices impact design quality? a case study of the qt, vtk, and itk projects",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7081827/",
+      "year": 2015,
+      "cited_by": 133,
+      "authors": ["Rodrigo Morales", "Shane McIntosh", "Foutse Khomh"],
+      "description": "Code review is the process of having other team members examine changes to a software system in order to evaluate its technical content and quality. A lightweight variant of this practice, often referred to as Modern Code Review (MCR), is widely adopted by software organizations today. Previous studies have established a relation between the practice of code review and the occurrence of post-release bugs. While the prior work studies the impact of code review practices on software release quality, it is still unclear what impact code review practices have on software design quality. Therefore, using the occurrence of 7 different types of anti-patterns (i.e., poor solutions to design and implementation problems) as a proxy for software design quality, we set out to investigate the relationship between code review practices and software design quality. Through a case study of the Qt, VTK and ITK open source projects\u00a0\u2026",
+      "citation_histogram": [
+        [2015, 9],
+        [2016, 15],
+        [2017, 7],
+        [2018, 19],
+        [2019, 14],
+        [2020, 22],
+        [2021, 24],
+        [2022, 17]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Modern release engineering in a nutshell--why researchers should care",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7476775/",
+      "year": 2016,
+      "cited_by": 129,
+      "authors": ["Bram Adams", "Shane McIntosh"],
+      "description": "The release engineering process is the process that brings high quality code changes from a developer's workspace to the end user, encompassing code change integration, continuous integration, build system specifications, infrastructure-as-code, deployment and release. Recent practices of continuous delivery, which bring new content to the end user in days or hours rather than months or years, have generated a surge of industry-driven interest in the release engineering pipeline. This paper argues that the involvement of researchers is essential, by providing a brief introduction to the six major phases of the release engineering pipeline, a roadmap of future research, and a checklist of three major ways that the release engineering process of a system under study can invalidate the findings of software engineering studies. The main take-home message is that, while release engineering technology has\u00a0\u2026",
+      "citation_histogram": [
+        [2015, 2],
+        [2016, 13],
+        [2017, 29],
+        [2018, 19],
+        [2019, 19],
+        [2020, 18],
+        [2021, 15],
+        [2022, 10]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Revisiting code ownership and its relationship with software quality in the scope of modern code review",
+      "link": "https://dl.acm.org/doi/abs/10.1145/2884781.2884852",
+      "year": 2016,
+      "cited_by": 116,
+      "authors": [
+        "Patanamon Thongtanunam",
+        "Shane McIntosh",
+        "Ahmed E Hassan",
+        "Hajimu Iida"
+      ],
+      "description": "Code ownership establishes a chain of responsibility for modules in large software systems. Although prior work uncovers a link between code ownership heuristics and software quality, these heuristics rely solely on the authorship of code changes. In addition to authoring code changes, developers also make important contributions to a module by reviewing code changes. Indeed, recent work shows that reviewers are highly active in modern code review processes, often suggesting alternative solutions or providing updates to the code changes. In this paper, we complement traditional code ownership heuristics using code review activity. Through a case study of six releases of the large Qt and OpenStack systems, we find that:(1) 67%--86% of developers did not author any code changes for a module, but still actively contributed by reviewing 21%--39% of the code changes,(2) code ownership heuristics that are\u00a0\u2026",
+      "citation_histogram": [
+        [2016, 5],
+        [2017, 12],
+        [2018, 20],
+        [2019, 20],
+        [2020, 23],
+        [2021, 20],
+        [2022, 15]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A large-scale study of the impact of feature selection techniques on defect classification models",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7962364/",
+      "year": 2017,
+      "cited_by": 115,
+      "authors": ["Baljinder Ghotra", "Shane McIntosh", "Ahmed E Hassan"],
+      "description": "The performance of a defect classification model depends on the features that are used to train it. Feature redundancy, correlation, and irrelevance can hinder the performance of a classification model. To mitigate this risk, researchers often use feature selection techniques, which transform or select a subset of the features in order to improve the performance of a classification model. Recent studies compare the impact of different feature selection techniques on the performance of defect classification models. However, these studies compare a limited number of classification techniques and have arrived at contradictory conclusions about the impact of feature selection techniques. To address this limitation, we study 30 feature selection techniques (11 filter-based ranking techniques, six filter based subset techniques, 12 wrapper-based subset techniques, and a no feature selection configuration) and 21 classification\u00a0\u2026",
+      "citation_histogram": [
+        [2017, 5],
+        [2018, 12],
+        [2019, 15],
+        [2020, 28],
+        [2021, 30],
+        [2022, 25]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Review participation in modern code review",
+      "link": "https://link.springer.com/article/10.1007/s10664-016-9452-6",
+      "year": 2017,
+      "cited_by": 94,
+      "authors": [
+        "Patanamon Thongtanunam",
+        "Shane McIntosh",
+        "Ahmed E Hassan",
+        "Hajimu Iida"
+      ],
+      "description": " Software code review is a well-established software quality practice. Recently, Modern Code Review (MCR) has been widely adopted in both open source and proprietary projects. Our prior work shows that review participation plays an important role in MCR practices, since the amount of review participation shares a relationship with software quality. However, little is known about which factors influence review participation in the MCR process. Hence, in this study, we set out to investigate the characteristics of patches that: (1) do not attract reviewers, (2) are not discussed, and (3) receive slow initial feedback. Through a case study of 196,712 reviews spread across the Android, Qt, and OpenStack open source projects, we find that the amount of review participation in the past is a significant indicator of patches that will suffer from poor review participation. Moreover, we find that the description length of a\u00a0\u2026",
+      "citation_histogram": [
+        [2016, 1],
+        [2017, 10],
+        [2018, 21],
+        [2019, 15],
+        [2020, 12],
+        [2021, 22],
+        [2022, 12]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Investigating code review practices in defective files: An empirical study of the qt system",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7180077/",
+      "year": 2015,
+      "cited_by": 93,
+      "authors": [
+        "Patanamon Thongtanunam",
+        "Shane McIntosh",
+        "Ahmed E Hassan",
+        "Hajimu Iida"
+      ],
+      "description": "Software code review is a well-established software quality practice. Recently, Modern Code Review (MCR) has been widely adopted in both open source and proprietary projects. To evaluate the impact that characteristics of MCR practices have on software quality, this paper comparatively studies MCR practices in defective and clean source code files. We investigate defective files along two perspectives: 1) files that will eventually have defects (i.e., Future-defective files) and 2) files that have historically been defective (i.e., Risky files). Through an empirical study of 11,736 reviews of changes to 24,486 files from the Qt open source project, we find that both future-defective files and risky files tend to be reviewed less rigorously than their clean counterparts. We also find that the concerns addressed during the code reviews of both defective and clean files tend to enhance evolvability, i.e., Ease future maintenance\u00a0\u2026",
+      "citation_histogram": [
+        [2016, 10],
+        [2017, 15],
+        [2018, 13],
+        [2019, 13],
+        [2020, 13],
+        [2021, 17],
+        [2022, 9]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The use of summation to aggregate software metrics hinders the performance of defect prediction models",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7539677/",
+      "year": 2016,
+      "cited_by": 89,
+      "authors": ["Feng Zhang", "Ahmed E Hassan", "Shane McIntosh", "Ying Zou"],
+      "description": "Defect prediction models help software organizations to anticipate where defects will appear in the future. When training a defect prediction model, historical defect data is often mined from a Version Control System (VCS, e.g., Subversion), which records software changes at the file-level. Software metrics, on the other hand, are often calculated at the class- or method-level (e.g., McCabe's Cyclomatic Complexity). To address the disagreement in granularity, the class- and method-level software metrics are aggregated to file-level, often using summation (i.e., McCabe of a file is the sum of the McCabe of all methods within the file). A recent study shows that summation significantly inflates the correlation between lines of code (Sloc) and cyclomatic complexity (Cc) in Java projects. While there are many other aggregation schemes (e.g., central tendency, dispersion), they have remained unexplored in the scope of defect\u00a0\u2026",
+      "citation_histogram": [
+        [2017, 6],
+        [2018, 17],
+        [2019, 21],
+        [2020, 16],
+        [2021, 17],
+        [2022, 12]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The evolution of Java build systems",
+      "link": "https://link.springer.com/article/10.1007/s10664-011-9169-5",
+      "year": 2012,
+      "cited_by": 76,
+      "authors": ["Shane McIntosh", "Bram Adams", "Ahmed E Hassan"],
+      "description": " Build systems are responsible for transforming static source code artifacts into executable software. While build systems play such a crucial role in software development and maintenance, they have been largely ignored by software evolution researchers. However, a firm understanding of build system aging processes is needed in order to allow project managers to allocate personnel and resources to build system maintenance tasks effectively, and reduce the build maintenance overhead on regular development activities. In this paper, we study the evolution of build systems based on two popular Java build languages (i.e., ANT and Maven) from two perspectives: (1) a static perspective, where we examine the complexity of build system specifications using software metrics adopted from the source code domain; and (2) a dynamic perspective, where the complexity and coverage of representative build\u00a0\u2026",
+      "citation_histogram": [
+        [2012, 4],
+        [2013, 3],
+        [2014, 7],
+        [2015, 7],
+        [2016, 12],
+        [2017, 13],
+        [2018, 8],
+        [2019, 5],
+        [2020, 4],
+        [2021, 6],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Comments on \u201cResearcher bias: The use of machine learning in software defect prediction\u201d",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7450669/",
+      "year": 2016,
+      "cited_by": 70,
+      "authors": [
+        "Chakkrit Tantithamthavorn",
+        "Shane McIntosh",
+        "Ahmed E Hassan",
+        "Kenichi Matsumoto"
+      ],
+      "description": "Shepperd et al. find that the reported performance of a defect prediction model shares a strong relationship with the group of researchers who construct the models. In this paper, we perform an alternative investigation of Shepperd et al.'s data. We observe that (a) research group shares a strong association with other explanatory variables (i.e., the dataset and metric families that are used to build a model); (b) the strong association among these explanatory variables makes it difficult to discern the impact of the research group on model performance; and (c) after mitigating the impact of this strong association, we find that the research group has a smaller impact than the metric family. These observations lead us to conclude that the relationship between the research group and the performance of a defect prediction model are more likely due to the tendency of researchers to reuse experimental components (e.g\u00a0\u2026",
+      "citation_histogram": [
+        [2015, 1],
+        [2016, 5],
+        [2017, 4],
+        [2018, 13],
+        [2019, 13],
+        [2020, 10],
+        [2021, 9],
+        [2022, 14]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Revisiting the applicability of the pareto principle to core development teams in open source software projects",
+      "link": "https://dl.acm.org/doi/abs/10.1145/2804360.2804366",
+      "year": 2015,
+      "cited_by": 68,
+      "authors": [
+        "Kazuhiro Yamashita",
+        "Shane McIntosh",
+        "Yasutaka Kamei",
+        "Ahmed E Hassan",
+        "Naoyasu Ubayashi"
+      ],
+      "description": "It is often observed that the majority of the development work of an Open Source Software (OSS) project is contributed by a core team, ie, a small subset of the pool of active devel-opers. In fact, recent work has found that core development teams follow the Pareto principle\u2014roughly 80% of the code contributions are produced by 20% of the active developers. However, those findings are based on samples of between one and nine studied systems. In this paper, we revisit prior studies about core developers using 2,496 projects hosted on GitHub. We find that even when we vary the heuristic for detecting core developers, and when we control for system size, team size, and project age:(1) the Pareto principle does not seem to apply for 40%-87% of GitHub projects; and (2) more than 88% of GitHub projects have fewer than 16 core developers. Moreover, we find that when we control for the quantity of contributions\u00a0\u2026",
+      "citation_histogram": [
+        [2015, 1],
+        [2016, 3],
+        [2017, 7],
+        [2018, 7],
+        [2019, 11],
+        [2020, 13],
+        [2021, 12],
+        [2022, 10]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The evolution of ANT build systems",
+      "link": "https://ieeexplore.ieee.org/abstract/document/5463341/",
+      "year": 2010,
+      "cited_by": 58,
+      "authors": ["Shane McIntosh", "Bram Adams", "Ahmed E Hassan"],
+      "description": "Build systems are responsible for transforming static source code artifacts into executable software. While build systems play such a crucial role in software development and maintenance, they have been largely ignored by software evolution researchers. With a firm understanding of build system aging processes, project managers could allocate personnel and resources to build system maintenance tasks more effectively, reducing the build maintenance overhead on regular development activities. In this paper, we study the evolution of ANT build systems from two perspectives: (1) a static perspective, where we examine the build system specifications using software metrics adopted from the source code domain; and (2) a dynamic perspective where representative sample build runs are conducted and their output logs are analyzed. Case studies of four open source ANT build systems with a combined history of\u00a0\u2026",
+      "citation_histogram": [
+        [2011, 5],
+        [2012, 5],
+        [2013, 5],
+        [2014, 7],
+        [2015, 5],
+        [2016, 8],
+        [2017, 6],
+        [2018, 2],
+        [2019, 7],
+        [2020, 4],
+        [2021, 4]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Mining Co-Change Information to Understand when Build Changes are Necessary",
+      "link": "https://ieeexplore.ieee.org/abstract/document/6976090/",
+      "year": 2014,
+      "cited_by": 57,
+      "authors": [
+        "Shane McIntosh",
+        "Bram Adams",
+        "Meiyappan Nagappan",
+        "Ahmed E Hassan"
+      ],
+      "description": "As a software project ages, its source code is modified to add new features, restructure existing ones, and fix defects. These source code changes often induce changes in the build system, i.e., the system that specifies how source code is translated into deliverables. However, since developers are often not familiar with the complex and occasionally archaic technologies used to specify build systems, they may not be able to identify when their source code changes require accompanying build system changes. This can cause build breakages that slow development progress and impact other developers, testers, or even users. In this paper, we mine the source and test code changes that required accompanying build changes in order to better understand this co-change relationship. We build random forest classifiers using language-agnostic and language-specific code change characteristics to explain when code\u00a0\u2026",
+      "citation_histogram": [
+        [2015, 5],
+        [2016, 7],
+        [2017, 9],
+        [2018, 5],
+        [2019, 10],
+        [2020, 10],
+        [2021, 6],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Automatically repairing dependency-related build breakage",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8330201/",
+      "year": 2018,
+      "cited_by": 55,
+      "authors": ["Christian Macho", "Shane McIntosh", "Martin Pinzger"],
+      "description": "Build systems are widely used in today's software projects to automate integration and build processes. Similar to source code, build specifications need to be maintained to avoid outdated specifications, and build breakage as a consequence. Recent work indicates that neglected build maintenance is one of the most frequently occurring reasons why open source and proprietary builds break. In this paper, we propose BuildMedic, an approach to automatically repair Maven builds that break due to dependency-related issues. Based on a manual investigation of 37 broken Maven builds in 23 open source Java projects, we derive three repair strategies to automatically repair the build, namely Version Update, Delete Dependency, and Add Repository. We evaluate the three strategies on 84 additional broken builds from the 23 studied projects in order to demonstrate the applicability of our approach. The evaluation\u00a0\u2026",
+      "citation_histogram": [
+        [2018, 5],
+        [2019, 13],
+        [2020, 10],
+        [2021, 12],
+        [2022, 15]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Cross-Project Build Co-change Prediction",
+      "link": null,
+      "year": null,
+      "cited_by": 50,
+      "authors": [
+        "Xin Xia",
+        "David Lo",
+        "Shane McIntosh",
+        "Emad Shihab",
+        "Ahmed E Hassan"
+      ],
+      "description": null,
+      "citation_histogram": [
+        [2015, 3],
+        [2016, 5],
+        [2017, 5],
+        [2018, 8],
+        [2019, 13],
+        [2020, 5],
+        [2021, 5],
+        [2022, 5]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Use and misuse of continuous integration features: An empirical study of projects that (mis) use travis ci",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8360943/",
+      "year": 2018,
+      "cited_by": 49,
+      "authors": ["Keheliya Gallaba", "Shane McIntosh"],
+      "description": "Continuous Integration (CI) is a popular practice where software systems are automatically compiled and tested as changes appear in the version control system of a project. Like other software artifacts, CI specifications require maintenance effort. Although there are several service providers like TRAVIS CI offering various CI features, it is unclear which features are being (mis)used. In this paper, we present a study of feature use and misuse in 9,312 open source systems that use TRAVIS CI. Analysis of the features that are adopted by projects reveals that explicit deployment code is rare-48.16 percent of the studied TRAVIS CI specification code is instead associated with configuring job processing nodes. To analyze feature misuse, we propose HANSEL-an anti-pattern detection tool for TRAVIS CI specifications. We define four anti-patterns and HANSEL detects anti-patterns in the TRAVIS CI specifications of 894\u00a0\u2026",
+      "citation_histogram": [
+        [2019, 13],
+        [2020, 11],
+        [2021, 11],
+        [2022, 13]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A study of the quality-impacting practices of modern code review at sony mobile",
+      "link": "https://dl.acm.org/doi/abs/10.1145/2889160.2889243",
+      "year": 2016,
+      "cited_by": 49,
+      "authors": [
+        "Junji Shimagaki",
+        "Yasutaka Kamei",
+        "Shane McIntosh",
+        "Ahmed E Hassan",
+        "Naoyasu Ubayashi"
+      ],
+      "description": "Nowadays, a flexible, lightweight variant of the code review process (ie, the practice of having other team members critique software changes) is adopted by open source and proprietary software projects. While this flexibility is a blessing (eg, enabling code reviews to span the globe), it does not mandate minimum review quality criteria like the formal code inspections of the past. Recent work shows that lax reviewing can impact the quality of open source systems. In this paper, we investigate the impact that code reviewing practices have on the quality of a proprietary system that is developed by Sony Mobile. We begin by replicating open source analyses of the relationship between software quality (as approximated by post-release defect-proneness) and:(1) code review coverage, ie, the proportion of code changes that have been reviewed and (2) code review participation, ie, the degree of reviewer involvement in\u00a0\u2026",
+      "citation_histogram": [
+        [2015, 1],
+        [2016, 5],
+        [2017, 4],
+        [2018, 9],
+        [2019, 9],
+        [2020, 8],
+        [2021, 7],
+        [2022, 6]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "A large-scale empirical study of the relationship between build technology and build maintenance",
+      "link": "https://link.springer.com/article/10.1007/s10664-014-9324-x",
+      "year": 2015,
+      "cited_by": 49,
+      "authors": [
+        "Shane McIntosh",
+        "Meiyappan Nagappan",
+        "Bram Adams",
+        "Audris Mockus",
+        "Ahmed E Hassan"
+      ],
+      "description": " Build systems specify how source code is translated into deliverables. They require continual maintenance as the system they build evolves. This build maintenance can become so burdensome that projects switch build technologies, potentially having to rewrite thousands of lines of build code. We aim to understand the prevalence of different build technologies and the relationship between build technology and build maintenance by analyzing version histories in a corpus of 177,039 repositories spread across four software forges, three software ecosystems, and four large-scale projects. We study low-level, abstraction-based, and framework-driven build technologies, as well as tools that automatically manage external dependencies. We find that modern, framework-driven build technologies need to be maintained more often and these build changes are more tightly coupled with the source code than low\u00a0\u2026",
+      "citation_histogram": [
+        [2015, 2],
+        [2016, 10],
+        [2017, 11],
+        [2018, 3],
+        [2019, 7],
+        [2020, 5],
+        [2021, 4],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Magnet or sticky? an oss project-by-project typology",
+      "link": "https://dl.acm.org/doi/abs/10.1145/2597073.2597116",
+      "year": 2014,
+      "cited_by": 42,
+      "authors": [
+        "Kazuhiro Yamashita",
+        "Shane McIntosh",
+        "Yasutaka Kamei",
+        "Naoyasu Ubayashi"
+      ],
+      "description": "For Open Source Software (OSS) projects, retaining existing contributors and attracting new ones is a major concern. In this paper, we expand and adapt a pair of population migration metrics to analyze migration trends in a collection of open source projects. Namely, we study:(1) project stickiness, ie, its tendency to retain existing contributors and (2) project magnetism, ie, its tendency to attract new contributors. Using quadrant plots, we classify projects as attractive (highly magnetic and sticky), stagnant (highly sticky, weakly magnetic), fluctuating (highly magnetic, weakly sticky), or terminal (weakly magnetic and sticky). Through analysis of the MSR challenge dataset, we find that:(1) quadrant plots can effectively identify at-risk projects,(2) stickiness is often motivated by professional activity and (3) transitions among quadrants as a project ages often coincides with interesting events in the evolution history of a project.",
+      "citation_histogram": [
+        [2013, 1],
+        [2014, 5],
+        [2015, 4],
+        [2016, 5],
+        [2017, 7],
+        [2018, 6],
+        [2019, 1],
+        [2020, 6],
+        [2021, 3],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Magnet or sticky? Measuring project characteristics from the perspective of developer attraction and retention",
+      "link": "https://www.jstage.jst.go.jp/article/ipsjjip/24/2/24_339/_article/-char/ja/",
+      "year": 2016,
+      "cited_by": 40,
+      "authors": [
+        "Kazuhiro Yamashita",
+        "Yasutaka Kamei",
+        "Shane McIntosh",
+        "Ahmed E Hassan",
+        "Naoyasu Ubayashi"
+      ],
+      "description": "Open Source Software (OSS) is vital to both end users and enterprises. As OSS systems are becoming a type of infrastructure, long-term OSS projects are desired. For the survival of OSS projects, the projects need to not only retain existing developers, but also attract new developers to grow. To better understand how projects retain and attract contributors, our preliminary study aimed to measure the personnel attraction and retention of OSS projects using a pair of population migration metrics, called Magnet (personnel attraction) and Sticky (retention) metrics. Because the preliminary study analyzed only 90 projects and the 90 projects are not representative of GitHub, this paper extend the preliminary study to better understand the generalizability of the results by analyzing 16,552 projects of GitHub. Furthermore, we also add a pilot study to investigate the typical duration between releases to find more appropriate release duration. The study results show that (1) approximately 23% of developers remain in the same projects that the developers contribute to,(2) the larger projects are likely to attract and retain more developers,(3) 53% of terminal projects eventually decay to a state of fewer than ten developers and (4) 55% of attractive projects remain in an attractive category.",
+      "citation_histogram": [
+        [2016, 3],
+        [2017, 5],
+        [2018, 4],
+        [2019, 10],
+        [2020, 6],
+        [2021, 5],
+        [2022, 6]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "An empirical study of goto in C code from GitHub repositories",
+      "link": "https://dl.acm.org/doi/abs/10.1145/2786805.2786834",
+      "year": 2015,
+      "cited_by": 38,
+      "authors": [
+        "Meiyappan Nagappan",
+        "Romain Robbes",
+        "Yasutaka Kamei",
+        "\u00c9ric Tanter",
+        "Shane McIntosh",
+        "Audris Mockus",
+        "Ahmed E Hassan"
+      ],
+      "description": "It is nearly 50 years since Dijkstra argued that goto obscures the flow of control in program execution and urged programmers to abandon the goto statement. While past research has shown that goto is still in use, little is known about whether goto is used in the unrestricted manner that Dijkstra feared, and if it is \u2018harmful\u2019enough to be a part of a post-release bug. We, therefore, conduct a two part empirical study-(1) qualitatively analyze a statistically rep-resentative sample of 384 files from a population of almost 250K C programming language files collected from over 11K GitHub repositories and find that developers use goto in C files for error handling (80.21\u00b15%) and cleaning up resources at the end of a procedure (40.36\u00b15%); and (2) quantitatively analyze the commit history from the release branches of six OSS projects and find that no goto statement was re-moved/modified in the post-release phase of four of the\u00a0\u2026",
+      "citation_histogram": [
+        [2015, 1],
+        [2016, 4],
+        [2017, 1],
+        [2018, 7],
+        [2019, 10],
+        [2020, 6],
+        [2021, 6],
+        [2022, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "An empirical study of delays in the integration of addressed issues",
+      "link": "https://ieeexplore.ieee.org/abstract/document/6976094/",
+      "year": 2014,
+      "cited_by": 38,
+      "authors": [
+        "Daniel Alencar da Costa",
+        "Surafel Lemma Abebe",
+        "Shane McIntosh",
+        "Uir\u00e1 Kulesza",
+        "Ahmed E Hassan"
+      ],
+      "description": "Predicting the time required to address an issue (i.e., a feature, bug fix, or enhancement) has long been the goal of many software engineering researchers. However, after an issue has been addressed, it must be integrated into an official release to become visible to users. In theory, issues should be integrated into releases soon after they are addressed. Yet in practice, the integration of an addressed issue might be delayed. For instance, an addressed issue might be delayed in order to assess the impact that it may have on the system as a whole. While one can often speculate, it is not always clear why some addressed issues are integrated immediately, while others are delayed. In this paper, we empirically study the integration of 20,995 addressed issues from the Argo UML, Eclipse, and Fire fox projects. Our results indicate that: (i) despite being addressed well before the release date, the integration of 34% to\u00a0\u2026",
+      "citation_histogram": [
+        [2015, 5],
+        [2016, 6],
+        [2017, 7],
+        [2018, 9],
+        [2019, 4],
+        [2020, 2],
+        [2021, 3],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Noise and heterogeneity in historical build data: an empirical study of travis ci",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3238147.3238171",
+      "year": 2018,
+      "cited_by": 33,
+      "authors": [
+        "Keheliya Gallaba",
+        "Christian Macho",
+        "Martin Pinzger",
+        "Shane McIntosh"
+      ],
+      "description": "Automated builds, which may pass or fail, provide feedback to a development team about changes to the codebase. A passing build indicates that the change compiles cleanly and tests (continue to) pass. A failing (aka, broken) build indicates that there are issues that require attention. Without a closer analysis of the nature of build outcome data, practitioners and researchers are likely to make two critical assumptions:(1) build results are not noisy; however, passing builds may contain failing or skipped jobs that are actively or passively ignored; and (2) builds are equal; however, builds vary in terms of the number of jobs and configurations.",
+      "citation_histogram": [
+        [2019, 9],
+        [2020, 8],
+        [2021, 5],
+        [2022, 11]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Tracing software build processes to uncover license compliance inconsistencies",
+      "link": "https://dl.acm.org/doi/abs/10.1145/2642937.2643013",
+      "year": 2014,
+      "cited_by": 33,
+      "authors": [
+        "Sander Van Der Burg",
+        "Eelco Dolstra",
+        "Shane McIntosh",
+        "Julius Davies",
+        "Daniel M German",
+        "Armijn Hemel"
+      ],
+      "description": "Open Source Software (OSS) components form the basis for many software systems. While the use of OSS components accelerates development, client systems must comply with the license terms of the OSS components that they use. Failure to do so exposes client system distributors to possible litigation from copyright holders. Yet despite the importance of license compliance, tool support for license compliance assessment is lacking. In this paper, we propose an approach to construct and analyze the Concrete Build Dependency Graph (CBDG) of a software system by tracing system calls that occur at build-time. Through a case study of seven open source systems, we show that the constructed CBDGs:(1) accurately classify sources as included in or excluded from deliverables with 88%-100% precision and 98%-100% recall, and (2) can uncover license compliance inconsistencies in real software systems--two\u00a0\u2026",
+      "citation_histogram": [
+        [2015, 2],
+        [2016, 3],
+        [2017, 4],
+        [2018, 2],
+        [2019, 4],
+        [2020, 5],
+        [2021, 8],
+        [2022, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "An empirical study of unspecified dependencies in make-based build systems",
+      "link": "https://link.springer.com/article/10.1007/s10664-017-9510-8",
+      "year": 2017,
+      "cited_by": 32,
+      "authors": [
+        "Cor-Paul Bezemer",
+        "Shane McIntosh",
+        "Bram Adams",
+        "Daniel M German",
+        "Ahmed E Hassan"
+      ],
+      "description": " Software developers rely on a build system to compile their source code changes and produce deliverables for testing and deployment. Since the full build of large software systems can take hours, the incremental build is a cornerstone of modern build systems. Incremental builds should only recompile deliverables whose dependencies have been changed by a developer. However, in many organizations, such dependencies still are identified by build rules that are specified and maintained (mostly) manually, typically using technologies like make. Incomplete rules lead to unspecified dependencies that can prevent certain deliverables from being rebuilt, yielding incomplete results, which leave sources and deliverables out-of-sync. In this paper, we present a case study on unspecified dependencies in the make-based build systems of the glib, openldap, linux and qt open source projects. To uncover\u00a0\u2026",
+      "citation_histogram": [
+        [2018, 3],
+        [2019, 6],
+        [2020, 9],
+        [2021, 10],
+        [2022, 4]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Predicting build co-changes with source code change and commit categories",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7476673/",
+      "year": 2016,
+      "cited_by": 32,
+      "authors": ["Christian Macho", "Shane McIntosh", "Martin Pinzger"],
+      "description": "When software is maintained and evolved the build configuration also needs to be updated. Knowing when to update the build configuration is typically done manually with the risk of missing an update and breaking the build. To mitigate this risk, previous work has investigated prediction models to help developers to identify commits that will likely involve an update of the build configuration. In this paper, we investigate whether we can improve these existing prediction models by taking into account detailed information on source code changes and commit categories. Our main hypothesis is that such detailed information on changes will significantly improve the prediction of build co-changes. To that extent, we extract information on changes from 10 Java open source projects and use a random forest classifier to train models that predict build co-changes within and across projects. Our results show significant\u00a0\u2026",
+      "citation_histogram": [
+        [2016, 1],
+        [2017, 5],
+        [2018, 5],
+        [2019, 9],
+        [2020, 5],
+        [2021, 5],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "An empirical study of design discussions in code review",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3239235.3239525",
+      "year": 2018,
+      "cited_by": 31,
+      "authors": [
+        "Farida El Zanaty",
+        "Toshiki Hirao",
+        "Shane McIntosh",
+        "Akinori Ihara",
+        "Kenichi Matsumoto"
+      ],
+      "description": "Background: Code review is a well-established software quality practice where developers critique each others' changes. A shift towards automated detection of low-level issues (eg, integration with linters) has, in theory, freed reviewers up to focus on higher level issues, such as software design. Yet in practice, little is known about the extent to which design is discussed during code review.Aim: To bridge this gap, in this paper, we set out to study the frequency and nature of design discussions in code reviews.Method: We perform an empirical study on the code reviews of the OpenStack Nova (provisioning management) and Neutron (networking abstraction) projects. We manually classify 2,817 review comments from a randomly selected sample of 220 code reviews. We then train and evaluate classifiers to automatically label review comments as design related or not. Finally, we apply the classifiers to a larger\u00a0\u2026",
+      "citation_histogram": [
+        [2019, 5],
+        [2020, 7],
+        [2021, 12],
+        [2022, 7]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The impact of switching to a rapid release cycle on the integration delay of addressed issues: an empirical study of the Mozilla Firefox project",
+      "link": "https://dl.acm.org/doi/abs/10.1145/2901739.2901764",
+      "year": 2016,
+      "cited_by": 31,
+      "authors": [
+        "Daniel Alencar da Costa",
+        "Shane McIntosh",
+        "Uir\u00e1 Kulesza",
+        "Ahmed E Hassan"
+      ],
+      "description": "The release frequency of software projects has increased in recent years. Adopters of so-called rapid release cycles claim that they can deliver addressed issues (ie, bugs, enhancements, and new features) to users more quickly. However, there is little empirical evidence to support these claims. In fact, in our prior work, we found that code integration phases may introduce delays in rapidly releasing software---98% of addressed issues in the rapidly releasing Firefox project had their integration delayed by at least one release. To better understand the impact that rapid release cycles have on the integration delay of addressed issues, we perform a comparative study of traditional and rapid release cycles. Through an empirical study of 72,114 issue reports from the Firefox system, we observe that, surprisingly, addressed issues take a median of 50 days longer to be integrated in rapid Firefox releases than the\u00a0\u2026",
+      "citation_histogram": [
+        [2017, 10],
+        [2018, 5],
+        [2019, 7],
+        [2020, 1],
+        [2021, 5],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Extracting build changes with builddiff",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7962386/",
+      "year": 2017,
+      "cited_by": 25,
+      "authors": ["Christian Macho", "Shane McIntosh", "Martin Pinzger"],
+      "description": "Build systems are an essential part of modern software engineering projects. As software projects change continuously, it is crucial to understand how the build system changes because neglecting its maintenance can lead to expensive build breakage. Recent studies have investigated the (co-)evolution of build configurations and reasons for build breakage, but they did this only on a coarse grained level. In this paper, we present BUILDDIFF, an approach to extract detailed build changes from MAVEN build files and classify them into 95 change types. In a manual evaluation of 400 build changing commits, we show that BUILDDIFF can extract and classify build changes with an average precision and recall of 0.96 and 0.98, respectively. We then present two studies using the build changes extracted from 30 open source Java projects to study the frequency and time of build changes. The results show that the top 10\u00a0\u2026",
+      "citation_histogram": [
+        [2016, 1],
+        [2017, 2],
+        [2018, 7],
+        [2019, 5],
+        [2020, 4],
+        [2021, 5],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Lags in the release, adoption, and propagation of npm vulnerability fixes",
+      "link": "https://link.springer.com/article/10.1007/s10664-021-09951-x",
+      "year": 2021,
+      "cited_by": 21,
+      "authors": [
+        "Bodin Chinthanet",
+        "Raula Gaikovina Kula",
+        "Shane McIntosh",
+        "Takashi Ishio",
+        "Akinori Ihara",
+        "Kenichi Matsumoto"
+      ],
+      "description": " Security vulnerability in third-party dependencies is a growing concern not only for developers of the affected software, but for the risks it poses to an entire software ecosystem, e.g., Heartbleed vulnerability. Recent studies show that developers are slow to respond to the threat of vulnerability, sometimes taking four to eleven months to act. To ensure quick adoption and propagation of a release that contains the fix (fixing release), we conduct an empirical investigation to identify lags that may occur between the vulnerable release and its fixing release (package-side fixing release). Through a preliminary study of 231 package-side fixing release of npm projects on GitHub, we observe that a fixing release is rarely released on its own, with up to 85.72% of the bundled commits being unrelated to a fix. We then compare the package-side fixing release with changes on a client-side (client-side fixing release\u00a0\u2026",
+      "citation_histogram": [
+        [2021, 9],
+        [2022, 12]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The impact of rapid release cycles on the integration delay of fixed issues",
+      "link": "https://link.springer.com/article/10.1007/s10664-017-9548-7",
+      "year": 2018,
+      "cited_by": 21,
+      "authors": [
+        "Daniel Alencar da Costa",
+        "Shane McIntosh",
+        "Christoph Treude",
+        "Uira Kulesza",
+        "Ahmed E Hassan"
+      ],
+      "description": " The release frequency of software projects has increased in recent years. Adopters of so-called rapid releases\u2014short release cycles, often on the order of weeks, days, or even hours\u2014claim that they can deliver fixed issues (i.e., implemented bug fixes and new features) to users more quickly. However, there is little empirical evidence to support these claims. In fact, our prior work shows that code integration phases may introduce delays for rapidly releasing projects\u201498% of the fixed issues in the rapidly releasing Firefox project had their integration delayed by at least one release. To better understand the impact that rapid release cycles have on the integration delay of fixed issues, we perform a comparative study of traditional and rapid release cycles. Our comparative study has two parts: (i) a quantitative empirical analysis of 72,114 issue reports from the Firefox project, and a (ii) qualitative study involving\u00a0\u2026",
+      "citation_histogram": [
+        [2019, 8],
+        [2020, 1],
+        [2021, 9],
+        [2022, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Why are commits being reverted?: a comparative study of industrial and open source projects",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7816476/",
+      "year": 2016,
+      "cited_by": 21,
+      "authors": [
+        "Junji Shimagaki",
+        "Yasutaka Kamei",
+        "Shane McIntosh",
+        "David Pursehouse",
+        "Naoyasu Ubayashi"
+      ],
+      "description": "Software development is a cyclic process of integrating new features while introducing and fixing defects. During development, commits that modify source code files are uploaded to version control systems. Occasionally, these commits need to be reverted, i.e., the code changes need to be completely backed out of the software project. While one can often speculate about the purpose of reverted commits (e.g., the commit may have caused integration or build problems), little empirical evidence exists to substantiate such claims. The goal of this paper is to better understand why commits are reverted in large software systems. To that end, we quantitatively and qualitatively study two proprietary and four open source projects to measure: (1) the proportion of commits that are reverted, (2) the amount of time that commits that are eventually reverted linger within a codebase, and (3) the most frequent reasons why\u00a0\u2026",
+      "citation_histogram": [
+        [2018, 3],
+        [2019, 3],
+        [2020, 5],
+        [2021, 7],
+        [2022, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The relationship between commit message detail and defect proneness in java projects on github",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7832934/",
+      "year": 2016,
+      "cited_by": 21,
+      "authors": [
+        "Jacob G Barnett",
+        "Charles K Gathuru",
+        "Luke S Soldano",
+        "Shane McIntosh"
+      ],
+      "description": "Just-In-Time (JIT) defect prediction models aim to predict the commits that will introduce defects in the future. Traditionally, JIT defect prediction models are trained using metrics that are primarily derived from aspects of the code change itself (e.g., the size of the change, the author's prior experience). In addition to the code that is submitted during a commit, authors write commit messages, which describe the commit for archival purposes. It is our position that the level of detail in these commit messages can provide additional explanatory power to JIT defect prediction models. Hence, in this paper, we analyze the relationship between the defect proneness of commits and commit message volume (i.e., the length of the commit message) and commit message content (approximated using spam filtering technology). Through analysis of JIT models that were trained using 342 GitHub repositories, we find that our JIT\u00a0\u2026",
+      "citation_histogram": [
+        [2017, 2],
+        [2018, 2],
+        [2019, 4],
+        [2020, 2],
+        [2021, 5],
+        [2022, 5]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Blimp tracer: Integrating build impact analysis with code review",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8530081/",
+      "year": 2018,
+      "cited_by": 20,
+      "authors": [
+        "Ruiyin Wen",
+        "David Gilbert",
+        "Michael G Roche",
+        "Shane McIntosh"
+      ],
+      "description": "Code review is an integral part of modern software development, where patch authors invite fellow developers to inspect code changes. While code review boasts technical and non-technical benefits, it is a costly use of developer time, who need to switch contexts away from their current development tasks. Since a careful code review requires even more time, developers often make intuition-based decisions about the patches that they will invest effort in carefully reviewing. Our key intuition in this paper is that patches that impact mission-critical project deliverables or deliverables that cover a broad set of products may require more reviewing effort than others. To help developers identify such patches, we introduce BLIMP Tracer, a build impact analysis system that we developed and integrated with the code review platform used by a globally distributed product team at Dell EMC, a large multinational corporation\u00a0\u2026",
+      "citation_histogram": [
+        [2018, 2],
+        [2019, 8],
+        [2020, 3],
+        [2021, 7]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The review linkage graph for code review analytics: a recovery approach and empirical study",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3338906.3338949",
+      "year": 2019,
+      "cited_by": 18,
+      "authors": [
+        "Toshiki Hirao",
+        "Shane McIntosh",
+        "Akinori Ihara",
+        "Kenichi Matsumoto"
+      ],
+      "description": "Modern Code Review (MCR) is a pillar of contemporary quality assurance approaches, where developers discuss and improve code changes prior to integration. Since review interactions (eg, comments, revisions) are archived, analytics approaches like reviewer recommendation and review outcome prediction have been proposed to support the MCR process. These approaches assume that reviews evolve and are adjudicated independently; yet in practice, reviews can be interdependent.",
+      "citation_histogram": [
+        [2019, 1],
+        [2020, 2],
+        [2021, 12],
+        [2022, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Collecting and leveraging a benchmark of build system clones to aid in quality assessments",
+      "link": "https://dl.acm.org/doi/abs/10.1145/2591062.2591181",
+      "year": 2014,
+      "cited_by": 16,
+      "authors": [
+        "Shane McIntosh",
+        "Martin Poehlmann",
+        "Elmar Juergens",
+        "Audris Mockus",
+        "Bram Adams",
+        "Ahmed E Hassan",
+        "Brigitte Haupt",
+        "Christian Wagner"
+      ],
+      "description": "Build systems specify how sources are transformed into deliverables, and hence must be carefully maintained to ensure that deliverables are assembled correctly. Similar to source code, build systems tend to grow in complexity unless specifications are refactored. This paper describes how clone detection can aid in quality assessments that determine if and where build refactoring effort should be applied. We gauge cloning rates in build systems by collecting and analyzing a benchmark comprising 3,872 build systems. Analysis of the benchmark reveals that:(1) build systems tend to have higher cloning rates than other software artifacts,(2) recent build technologies tend to be more prone to cloning, especially of configuration details like API dependencies, than older technologies, and (3) build systems that have fewer clones achieve higher levels of reuse via mechanisms not offered by build technologies. Our\u00a0\u2026",
+      "citation_histogram": [
+        [2014, 1],
+        [2015, 2],
+        [2016, 2],
+        [2017, 2],
+        [2018, 3],
+        [2019, 1],
+        [2020, 2],
+        [2021, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Build system maintenance",
+      "link": "https://dl.acm.org/doi/abs/10.1145/1985793.1986031",
+      "year": 2011,
+      "cited_by": 16,
+      "authors": ["Shane McIntosh"],
+      "description": "The build system, ie, the infrastructure that converts source code into deliverables, plays a critical role in the development of a software project. For example, developers rely upon the build system to test and run their source code changes. Without a working build system, development progress grinds to a halt, as the source code is rendered useless. Based on experiences reported by developers, we conjecture that build maintenance for large software systems is considerable, yet this maintenance is not well understood. A firm understanding of build maintenance is essential for project managers to allocate personnel and resources to build maintenance tasks effectively, and reduce the build maintenance overhead on regular development tasks, such as fixing defects and adding new features. In our work, we empirically study build maintenance in one proprietary and nine open source projects of different sizes and\u00a0\u2026",
+      "citation_histogram": [
+        [2012, 1],
+        [2013, 1],
+        [2014, 1],
+        [2015, 2],
+        [2016, 2],
+        [2017, 1],
+        [2018, 2],
+        [2019, 4]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Using Others' Tests to Identify Breaking Updates",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3379597.3387476",
+      "year": 2020,
+      "cited_by": 14,
+      "authors": [
+        "Suhaib Mujahid",
+        "Rabe Abdalkareem",
+        "Emad Shihab",
+        "Shane McIntosh"
+      ],
+      "description": "The reuse of third-party packages has become a common practice in contemporary software development. Software dependencies are constantly evolving with newly added features and patches that fix bugs in older versions. However, updating dependencies could introduce new bugs or break backward compatibility. In this work, we propose a technique to detect breakage-inducing versions of third-party dependencies. The key insight behind our approach is to leverage the automated test suites of other projects that depend upon the same dependency to test newly released versions. We conjecture that this crowd-based approach will help to detect breakage-inducing versions because it broadens the set of realistic usage scenarios to which a package version has been exposed. To evaluate our conjecture, we perform an empirical study of 391,553 npm packages. We use the dependency network from these\u00a0\u2026",
+      "citation_histogram": [
+        [2020, 1],
+        [2021, 7],
+        [2022, 6]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The impact of the adoption of continuous integration on developer attraction and retention",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7962404/",
+      "year": 2017,
+      "cited_by": 13,
+      "authors": [
+        "Yash Gupta",
+        "Yusaira Khan",
+        "Keheliya Gallaba",
+        "Shane McIntosh"
+      ],
+      "description": "Open-source projects rely on attracting new and retaining old contributors for achieving sustainable success. One may suspect that adopting new development practices like Continuous Integration (CI) should improve the attractiveness of a project. However, little is known about the impact that adoption of CI has on developer attraction and retention. To bridge this gap, we study how the introduction of TRAVIS CI-a popular CI service provider-impacts developer attraction and retention in 217 GITHUB repositories. Surprisingly, we find that heuristics that estimate the developer attraction and retention of a project are higher in the year before adopting TRAVIS CI than they are in the year following TRAVIS CI adoption. Moreover, the results are statistically significant (Wilcoxon signed rank test, \u03b1 = 0:05), with small but non-negligible effect sizes (Cliff's delta). Although we do not suspect a causal link, our results are\u00a0\u2026",
+      "citation_histogram": [
+        [2017, 1],
+        [2018, 2],
+        [2019, 2],
+        [2020, 1],
+        [2021, 5],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Forecasting the duration of incremental build jobs",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8094455/",
+      "year": 2017,
+      "cited_by": 12,
+      "authors": ["Qi Cao", "Ruiyin Wen", "Shane McIntosh"],
+      "description": "Build systems automate the process of compiling, testing, packaging, and deploying modern software systems. While building a simple program may only take a few seconds on most modern computers, it may take hours, if not days, to build large software systems. Since modern build tools do not provide estimates of how long a build job will take, development and release teams cannot plan human and computer resources optimally. To fill this gap, we propose BuildM\u00e9t\u00e9o-a tool to forecast the duration of incremental build jobs. BuildM\u00e9t\u00e9o analyzes a timing-annotated Build Dependency Graph (BDG) that we extract from the build system to forecast build job duration. We evaluate BuildM\u00e9t\u00e9o by comparing forecasts to the timed execution of 2,163 incremental build jobs derived from replayed commits of the GLIB and VTK open source systems.We find that: (a) 87% of the studied commits do not change the BDG\u00a0\u2026",
+      "citation_histogram": [
+        [2018, 3],
+        [2019, 1],
+        [2020, 2],
+        [2021, 3],
+        [2022, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Can duplicate questions on stack overflow benefit the software development community?",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8816736/",
+      "year": 2019,
+      "cited_by": 11,
+      "authors": [
+        "Durham Abric",
+        "Oliver E Clark",
+        "Matthew Caminiti",
+        "Keheliya Gallaba",
+        "Shane McIntosh"
+      ],
+      "description": "Duplicate questions on Stack Overflow are questions that are flagged as being conceptually equivalent to a previously posted question. Stack Overflow suggests that duplicate questions should not be discussed by users, but rather that attention should be redirected to their previously posted counterparts. Roughly 53% of closed Stack Overflow posts are closed due to duplication. Despite their supposed overlapping content, user activity suggests duplicates may generate additional or superior answers. Approximately 9% of duplicates receive more views than their original counterparts despite being closed. In this paper, we analyze duplicate questions from two perspectives. First, we analyze the experience of those who post duplicates using activity and reputation-based heuristics. Second, we compare the content of duplicates both in terms of their questions and answers to determine the degree of similarity\u00a0\u2026",
+      "citation_histogram": [
+        [2020, 1],
+        [2021, 4],
+        [2022, 6]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Identifying and understanding header file hotspots in c/c++ build processes",
+      "link": "https://link.springer.com/article/10.1007/s10515-015-0183-5",
+      "year": 2016,
+      "cited_by": 10,
+      "authors": [
+        "Shane McIntosh",
+        "Bram Adams",
+        "Meiyappan Nagappan",
+        "Ahmed E Hassan"
+      ],
+      "description": " Software developers rely on a fast build system to incrementally compile their source code changes and produce modified deliverables for testing and deployment. Header files, which tend to trigger slow rebuild processes, are most problematic if they also change frequently during the development process, and hence, need to be rebuilt often. In this paper, we propose an approach that analyzes the build dependency graph (i.e., the data structure used to determine the minimal list of commands that must be executed when a source code file is modified), and the change history of a software system to pinpoint header file hotspots\u2014header files that change frequently and trigger long rebuild processes. Through a case study on the GLib, PostgreSQL, Qt, and Ruby systems, we show that our approach identifies header file hotspots that, if improved, will provide greater improvement to the total future build cost of\u00a0\u2026",
+      "citation_histogram": [
+        [2016, 2],
+        [2017, 1],
+        [2018, 1],
+        [2019, 1],
+        [2020, 3],
+        [2021, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The dispersion of build maintenance activity across maven lifecycle phases",
+      "link": "https://dl.acm.org/doi/abs/10.1145/2901739.2903498",
+      "year": 2016,
+      "cited_by": 10,
+      "authors": [
+        "Casimir D\u00e9sarmeaux",
+        "Andrea Pecatikov",
+        "Shane McIntosh"
+      ],
+      "description": "Build systems describe how source code is translated into deliverables. Developers use build management tools like Maven to specify their build systems. Past work has shown that while Maven provides invaluable features (e.g., incremental building), it introduces an overhead on software development. Indeed, Maven build systems require maintenance. However, Maven build systems follow the build lifecycle, which is comprised of validate, compile, test, packaging, install, and deploy phases. Little is known about how build maintenance activity is dispersed among these lifecycle phases. To bridge this gap, in this paper, we analyze the dispersion of build maintenance activity across build lifecycle phases. Through analysis of 1,181 GitHub repositories that use Maven, we find that: (1) the compile phase accounts for 24% more of the build maintenance activity than the other phases; and (2) while the compile phase\u00a0\u2026",
+      "citation_histogram": [
+        [2017, 2],
+        [2018, 1],
+        [2019, 3],
+        [2020, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Accelerating continuous integration by caching environments and inferring dependencies",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9311876/",
+      "year": 2020,
+      "cited_by": 9,
+      "authors": [
+        "Keheliya Gallaba",
+        "Yves Junqueira",
+        "John Ewart",
+        "Shane Mcintosh"
+      ],
+      "description": "To facilitate the rapid release cadence of modern software (on the order of weeks, days, or even hours), software development organizations invest in practices like Continuous Integration (CI), where each change submitted by developers is built (e.g., compiled, tested, linted) to detect problematic changes early. A fast and efficient build process is crucial to provide timely CI feedback to developers. If CI feedback is too slow, developers may switch contexts to other tasks, which is known to be a costly operation for knowledge workers. Thus, minimizing the build execution time for CI services is an important task. While recent work has made several important advances in the acceleration of CI builds, optimizations often depend upon explicitly defined build dependency graphs (e.g., make, Gradle, CloudBuild, Bazel). These hand-maintained graphs may be (a) underspecified, leading to incorrect build behaviour; or (b\u00a0\u2026",
+      "citation_histogram": [
+        [2019, 1],
+        [2020, 1],
+        [2021, 7]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The impact of task granularity on co-evolution analyses",
+      "link": "https://dl.acm.org/doi/abs/10.1145/2961111.2962607",
+      "year": 2016,
+      "cited_by": 9,
+      "authors": [
+        "Keisuke Miura",
+        "Shane McIntosh",
+        "Yasutaka Kamei",
+        "Ahmed E Hassan",
+        "Naoyasu Ubayashi"
+      ],
+      "description": "Background: Substantial research in the software evolution field aims to recover knowledge about development from the project history that is archived in repositories, such as a Version Control System (VCS). However, the data that is archived in these repositories can be analyzed at different levels of granularity. Although software evolution is a well-studied phenomenon at the revision-level, revisions may be too fine-grained to accurately represent development tasks.Aim: In this paper, we set out to understand the impact that the revision granularity has on co-change analyses.Method: We conduct an empirical study of 14 open source systems that are developed by the Apache Software Foundation. To understand the impact that the revision granularity may have on co-change activity, we study work items, ie, logical groups of revisions that address a single issue.Results: We find that work item grouping has the\u00a0\u2026",
+      "citation_histogram": [
+        [2017, 2],
+        [2018, 1],
+        [2019, 1],
+        [2020, 3],
+        [2021, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Automatic assessment of students' software models using a simple heuristic and machine learning",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3417990.3418741",
+      "year": 2020,
+      "cited_by": 8,
+      "authors": ["Younes Boubekeur", "Gunter Mussbacher", "Shane McIntosh"],
+      "description": "Software models are increasingly popular. To educate the next generation of software engineers, it is important that they learn how to model software systems well, so that they can design them effectively in industry. It is also important that instructors have the tools that can help them assess students' models more effectively. In this paper, we investigate how a tool that combines a simple heuristic with machine learning techniques can be used to help assess student submissions in model-driven engineering courses. We apply our proposed technique to first identify submissions of high quality and second to predict approximate letter grades. The results are comparable to human grading and a complex rule-based technique for the former and surprisingly accurate for the latter.",
+      "citation_histogram": [
+        [2021, 3],
+        [2022, 5]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Code reviews with divergent review scores: An empirical study of the openstack and qt communities",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9023005/",
+      "year": 2020,
+      "cited_by": 8,
+      "authors": [
+        "Toshiki Hirao",
+        "Shane McIntosh",
+        "Akinori Ihara",
+        "Kenichi Matsumoto"
+      ],
+      "description": "Code review is a broadly adopted software quality practice where developers critique each others' patches. In addition to providing constructive feedback, reviewers may provide a score to indicate whether the patch should be integrated. Since reviewer opinions may differ, patches can receive both positive and negative scores. If reviews with divergent scores are not carefully resolved, they may contribute to a tense reviewing culture and may slow down integration. In this paper, we study patches with divergent review scores in the OPENSTACK and QT communities. Quantitative analysis indicates that patches with divergent review scores: (1) account for 15%-37% of patches that receive multiple review scores; (2) are integrated more often than they are abandoned; and (3) receive negative scores after positive ones in 70% of cases. Furthermore, a qualitative analysis indicates that patches with strongly divergent\u00a0\u2026",
+      "citation_histogram": [
+        [2021, 3],
+        [2022, 5]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Review participation in modern code review: An empirical study of the Android, Qt, and OpenStack projects (journal-first abstract)",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8330241/",
+      "year": 2018,
+      "cited_by": 8,
+      "authors": [
+        "Patanamon Thongtanunam",
+        "Shane McIntosh",
+        "Ahmed E Hassan",
+        "Hajimu Iida"
+      ],
+      "description": "This paper empirically investigates the factors influence review participation in the MCR process. Through a case study of the Android, Qt, and OpenStack open source projects, we find that the amount of review participation in the past is a significant indicator of patches that will suffer from poor review participation. Moreover, the description length of a patch and the purpose of introducing new features also share a relationship with the likelihood of receiving poor review participation. This paper is an extended abstract of a paper published in the Empirical Software Engineering journal. The original paper is communicated by Jeffrey C. Carver.",
+      "citation_histogram": [
+        [2019, 3],
+        [2020, 3],
+        [2021, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "An empirical study of the integration time of fixed issues",
+      "link": "https://link.springer.com/article/10.1007/s10664-017-9520-6",
+      "year": 2018,
+      "cited_by": 8,
+      "authors": [
+        "Daniel Alencar Da Costa",
+        "Shane McIntosh",
+        "Uira Kulesza",
+        "Ahmed E Hassan",
+        "Surafel Lemma Abebe"
+      ],
+      "description": " Predicting the required time to fix an issue (i.e., a new feature, bug fix, or enhancement) has long been the goal of many software engineering researchers. However, after an issue has been fixed, it must be integrated into an official release to become visible to users. In theory, issues should be quickly integrated into releases after they are fixed. However, in practice, the integration of a fixed issue might be prevented in one or more releases before reaching users. For example, a fixed issue might be prevented from integration in order to assess the impact that this fixed issue may have on the system as a whole. While one can often speculate, it is not always clear why some fixed issues are integrated immediately, while others are prevented from integration. In this paper, we empirically study the integration of 20,995 fixed issues from the ArgoUML, Eclipse, and Firefox projects. Our results indicate that: (i\u00a0\u2026",
+      "citation_histogram": [
+        [2018, 2],
+        [2019, 3],
+        [2020, 2],
+        [2021, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Orchestrating change: An artistic representation of software evolution",
+      "link": "https://ieeexplore.ieee.org/abstract/document/6747192/",
+      "year": 2014,
+      "cited_by": 7,
+      "authors": ["Shane McIntosh", "Katie Legere", "Ahmed E Hassan"],
+      "description": "Several visualization tools have been proposed to highlight interesting software evolution phenomena. These tools help practitioners to navigate large and complex software systems, and also support researchers in studying software evolution. However, little work has explored the use of sound in the context of software evolution. In this paper, we propose the use of musical interpretation to support exploration of software evolution data. In order to generate music inspired by software evolution, we use parameter-based sonification, i.e., a mapping of dataset characteristics to sound. Our approach yields musical scores that can be played synthetically or by a symphony orchestra. In designing our approach, we address three challenges: (1) the generated music must be aesthetically pleasing, (2) the generated music must accurately reflect the changes that have occurred, and (3) a small group of musicians must be\u00a0\u2026",
+      "citation_histogram": [
+        [2015, 2],
+        [2016, 3],
+        [2017, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The ghost commit problem when identifying fix-inducing changes: An empirical study of apache projects",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9448382/",
+      "year": 2021,
+      "cited_by": 6,
+      "authors": ["Christophe Rezk", "Yasutaka Kamei", "Shane Mcintosh"],
+      "description": "The SZZ approach for identifying fix-inducing changes traces backwards from a commit that fixes a defect to those commits that are implicated in the fix. This approach is at the heart of studies of characteristics of fix-inducing changes, as well as the popular Just-in-Time (JIT) variant of defect prediction. However, some types of commits are invisible to the SZZ approach. We refer to these invisible commits as Ghost Commits. In this paper, we set out to define, quantify, characterize, and mitigate ghost commits that impact the SZZ algorithm during its mapping (i.e., linking defect-fixing commits to those commits that are implicated by the fix) and filtering phases (i.e., removing improbable fix-inducing commits from the set of implicated commits). We mine the version control repositories of 14 open source Apache projects for instances of mapping-phase and filtering-phase ghost commits. We find that (1) 5.66%11.72% of\u00a0\u2026",
+      "citation_histogram": [
+        [2021, 1],
+        [2022, 5]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Threats of aggregating software repository data",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8530056/",
+      "year": 2018,
+      "cited_by": 6,
+      "authors": ["Martin P Robillard", "Mathieu Nassif", "Shane McIntosh"],
+      "description": "This artifact is a data set generated as part of a study on the threats of aggregating software repository data, which includes information derived from the GitHub repositories of eight open-source projects.",
+      "citation_histogram": [
+        [2019, 1],
+        [2020, 1],
+        [2021, 2],
+        [2022, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Using indexed sequence diagrams to recover the behaviour of AJAX applications",
+      "link": "https://ieeexplore.ieee.org/abstract/document/6081813/",
+      "year": 2011,
+      "cited_by": 5,
+      "authors": ["Shane McIntosh", "Bram Adams", "Ahmed E Hassan", "Ying Zou"],
+      "description": "AJAX is an asynchronous client-side technology that enables feature-rich, interactive Web 2.0 applications. AJAX applications and technologies are very complex compared to classic web applications, having to cope with asynchronous communication over (unstable) network connections. Yet, AJAX developers still rely on the ad hoc development processes and techniques of the early '00s. To determine how the inherent complexity of AJAX impacts the design and maintenance of AJAX applications, this paper studies the amount of code reuse across the different features of an AJAX application. Furthermore, we analyze how the design of existing AJAX systems deal with AJAX-specific crosscutting concerns, such as handling the loss of network connectivity. We use dynamic analysis to recover the run-time behaviour of AJAX applications in the form of sequence diagrams that are indexed by the different\u00a0\u2026",
+      "citation_histogram": [
+        [2012, 1],
+        [2013, 3],
+        [2014, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "An Empirical Study of Type-Related Defects in Python Projects",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9436020/",
+      "year": 2021,
+      "cited_by": 4,
+      "authors": ["Faizan Khan", "Boqi Chen", "Daniel Varro", "Shane Mcintosh"],
+      "description": "In recent years, Python has experienced explosive growth in adoption, particularly among open source projects. While Python's dynamically-typed nature provides developers with powerful programming abstractions, that same dynamic type system allows for type-related defects to accumulate in code bases. To aid in the early detection of type-related defects, type annotations were introduced into the Python ecosystem (i.e., PEP-484) and static type checkers like mypy have appeared on the market. While applying a type checker like mypy can in theory help to catch type-related defects before they impact users, little is known about the real impact of adopting a type checker to reveal defects in Python projects. In this paper, we study the extent to which Python projects benefit from such type checking features. For this purpose, we mine the issue tracking and version control repositories of 210 Python projects on\u00a0\u2026",
+      "citation_histogram": [[2022, 4]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Reuse (or lack thereof) in travis ci specifications: An empirical study of ci phases and commands",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8668029/",
+      "year": 2019,
+      "cited_by": 4,
+      "authors": ["Puneet Kaur Sidhu", "Gunter Mussbacher", "Shane McIntosh"],
+      "description": "Continuous Integration (CI) is a widely used practice where code changes are automatically built and tested to check for regression as they appear in the Version Control System (VCS). CI services allow users to customize phases, which define the sequential steps of build jobs that are triggered by changes to the project. While past work has made important observations about the adoption and usage of CI, little is known about patterns of reuse in CI specifications. Should reuse be common in CI specifications, we envision that a tool could guide developers through the generation of CI specifications by offering suggestions based on popular sequences of phases and commands. To assess the feasibility of such a tool, we perform an empirical analysis of the use of different phases and commands in a curated sample of 913 CI specifications for Java-based projects that use Travis CI-one of the most popular public CI\u00a0\u2026",
+      "citation_histogram": [
+        [2019, 1],
+        [2020, 2],
+        [2021, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Revisiting\" Programmers' Build Errors\" in the Visual Studio Context",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8595189/",
+      "year": 2018,
+      "cited_by": 4,
+      "authors": [
+        "Noam Rabbani",
+        "Michael S Harvey",
+        "Sadnan Saquif",
+        "Keheliya Gallaba",
+        "Shane McIntosh"
+      ],
+      "description": "Build systems translate sources into deliverables. Developers execute builds on a regular basis in order to integrate their personal code changes into testable deliverables. Prior studies have evaluated the rate at which builds in large organizations fail. A recent study at Google has analyzed (among other things) the rate at which builds in developer workspaces fail. In this paper, we replicate the Google study in the Visual Studio context of the MSR challenge. We extract and analyze 13,300 build events, observing that builds are failing 67%-76% less frequently and are fixed 46%-78% faster in our study context. Our results suggest that build failure rates are highly sensitive to contextual factors. Given the large number of factors by which our study contexts differ (e.g., system size, team size, IDE tooling, programming languages), it is not possible to trace the root cause for the large differences in our results. Additional\u00a0\u2026",
+      "citation_histogram": [
+        [2018, 1],
+        [2019, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "An empirical study of the personnel overhead of continuous integration",
+      "link": "https://ieeexplore.ieee.org/abstract/document/7962399/",
+      "year": 2017,
+      "cited_by": 4,
+      "authors": [
+        "Marco Manglaviti",
+        "Eduardo Coronado-Montoya",
+        "Keheliya Gallaba",
+        "Shane McIntosh"
+      ],
+      "description": "Continuous Integration (CI) is a software development practice where changes to the codebase are compiled and automatically checked for software quality issues. Like any software artifact (e.g., production code, build specifications), CI systems require an investment of development resources in order to keep them running smoothly. In this paper, we examine the human resources that are associated with developing and maintaining CI systems. Through the analysis of 1,279 GitHub repositories that adopt Travis CI (a popular CI service provider), we observe that: (i) there are 0 to 6 unique contributors to CI-related development in any 30-day period, regardless of project size, and (ii) the total number of CI developers has an upper bound of 15 for 99.2% of the studied projects, regardless of overall team size. These results indicate that service-based CI systems only require a small proportion of the development team\u00a0\u2026",
+      "citation_histogram": [
+        [2018, 1],
+        [2019, 3]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Is Historical Data an Appropriate Benchmark for Reviewer Recommendation Systems?: A Case Study of the Gerrit Community",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9678640/",
+      "year": 2021,
+      "cited_by": 3,
+      "authors": [
+        "Ian X Gauthier",
+        "Maxime Lamothe",
+        "Gunter Mussbacher",
+        "Shane McIntosh"
+      ],
+      "description": "Reviewer recommendation systems are used to suggest community members to review change requests. Like several other recommendation systems, it is customary to evaluate recommendations using held out historical data. While history-based evaluation makes pragmatic use of available data, historical records may be: (1) overly optimistic, since past assignees may have been suboptimal choices for the task at hand; or (2) overly pessimistic, since \"incorrect\" recommendations may have been equal (or even better) choices.In this paper, we empirically evaluate the extent to which historical data is an appropriate benchmark for reviewer recommendation systems. We replicate the CHREV and WLRREC approaches and apply them to 9,679 reviews from the GERRIT open source community. We then assess the recommendations with members of the GERRIT reviewing community using quantitative methods\u00a0\u2026",
+      "citation_histogram": [
+        [2021, 2],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "The nature of build changes",
+      "link": "https://link.springer.com/article/10.1007/s10664-020-09926-4",
+      "year": 2021,
+      "cited_by": 3,
+      "authors": [
+        "Christian Macho",
+        "Stefanie Beyer",
+        "Shane McIntosh",
+        "Martin Pinzger"
+      ],
+      "description": " Build systems are an essential part of modern software projects. As software projects change continuously, it is crucial to understand how the build system changes because neglecting its maintenance can, at best, lead to expensive build breakage, or at worst, introduce user-reported defects due to incorrectly compiled, linked, packaged, or deployed official releases. Recent studies have investigated the (co-)evolution of build configurations and reasons for build breakage; however, the prior analysis focused on a coarse-grained outcome (i.e., either build changing or not). In this paper, we present BuildDiff, an approach to extract detailed build changes from Maven build files and classify them into 143 change types. In a manual evaluation of 400 build-changing commits, we show that BuildDiff can extract and classify build changes with average precision, recall, and f1-scores of 0.97, 0.98, and 0.97\u00a0\u2026",
+      "citation_histogram": [
+        [2020, 1],
+        [2021, 2]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Quantifying, Characterizing, and Mitigating Flakily Covered Program Elements",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9143477/",
+      "year": 2020,
+      "cited_by": 3,
+      "authors": [
+        "Shivashree Vysali Vaidhyam Subramanian",
+        "Shane McIntosh",
+        "Bram Adams"
+      ],
+      "description": "Code coverage measures the degree to which source code elements (e.g., statements, branches) are invoked during testing. Despite growing evidence that coverage is a problematic measurement, it is often used to make decisions about where testing effort should be invested. For example, using coverage as a guide, tests should be written to invoke the non-covered program elements. At their core, coverage measurements assume that invocation of a program element during any test is equally valuable. Yet in reality, some tests are more robust than others. As a concrete instance of this, we posit in this paper that program elements that are only covered by flaky tests, i.e., tests with non-deterministic behaviour, are also worthy of investment of additional testing effort. In this paper, we set out to quantify, characterize, and mitigate \"flakily covered\" program elements (i.e., those elements that are only covered by flaky\u00a0\u2026",
+      "citation_histogram": [
+        [2021, 2],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Automatic recovery of missing issue type labels",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9121712/",
+      "year": 2020,
+      "cited_by": 3,
+      "authors": [
+        "Farida Elzanaty",
+        "Christophe Rezk",
+        "Sander Lijbrink",
+        "Willem van Bergen",
+        "Mark Cote",
+        "Shane McIntosh"
+      ],
+      "description": "Ag ile software organizations empower developers to make appropriate decisions rather than enforce adherence to a process, resulting in incomplete and noisy data in software archives. Since software analytics techniques are trained using this data, automated techniques are required to recover it.",
+      "citation_histogram": [
+        [2021, 2],
+        [2022, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Characterizing and Mitigating Self-Admitted Technical Debt in Build Systems",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9551792/",
+      "year": 2021,
+      "cited_by": 2,
+      "authors": [
+        "Tao Xiao",
+        "Dong Wang",
+        "Shane Mcintosh",
+        "Hideaki Hata",
+        "Raula Gaikovina Kula",
+        "Takashi Ishio",
+        "Kenichi Matsumoto"
+      ],
+      "description": "Technical Debt is a metaphor used to describe the situation in which long-term software artifact quality is traded for short-term goals in software projects. In recent years, the concept of self-admitted technical debt (SATD) was proposed, which focuses on debt that is intentionally introduced and described by developers. Although prior work has made important observations about admitted technical debt in source code, little is known about SATD in build systems. In this paper, we set out to better understand the characteristics of SATD in build systems. To do so, through a qualitative analysis of 500 SATD comments in the Maven build system of 291 projects, we characterize SATD by location and rationale (reason and purpose). Our results show that limitations in tools and libraries, and complexities of dependency management are the most frequent causes, accounting for 50% and 24% of the comments. We also find\u00a0\u2026",
+      "citation_histogram": [[2022, 2]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Why did this reviewed code crash? An empirical study of mozilla firefox",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8719430/",
+      "year": 2018,
+      "cited_by": 2,
+      "authors": [
+        "Le An",
+        "Foutse Khomh",
+        "Shane Mcintosh",
+        "Marco Castelluccio"
+      ],
+      "description": "Code review, i.e., the practice of having other team members critique changes to a software system, is a pillar of modern software quality assurance approaches. Although this activity aims at improving software quality, some high-impact defects, such as crash-related defects, can elude the inspection of reviewers and escape to the field, affecting user satisfaction and increasing maintenance overhead. In this research, we investigate the characteristics of crash-prone code, observing that such code tends to have high complexity and depend on many other classes. In the code review process, developers often spend a long time on and have long discussions about crash-prone code. We manually classify a sample of reviewed crash-prone patches according to their purposes and root causes. We observe that most crash-prone patches aim to improve performance, refactor code, add functionality, or fix previous\u00a0\u2026",
+      "citation_histogram": [[2021, 2]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Do software engineers use autocompletion features differently than other developers?",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8595186/",
+      "year": 2018,
+      "cited_by": 2,
+      "authors": [
+        "Rahul Amlekar",
+        "Andr\u00e9s Felipe Rinc\u00f3n Gamboa",
+        "Keheliya Gallaba",
+        "Shane McIntosh"
+      ],
+      "description": "Autocomplete is a common workspace feature that is used to recommend code snippets as developers type in their IDEs. Users of autocomplete features no longer need to remember programming syntax and the names and details of the API methods that are needed to accomplish tasks. Moreover, autocompletion of code snippets may have an accelerating effect, lowering the number of keystrokes that are needed to type the code. However, like any tool, implicit tendencies of users may emerge. Knowledge of how developers in different roles use autocompletion features may help to guide future autocompletion development, research, and training material. In this paper, we set out to better understand how usage of autocompletion varies among software engineers and other developers (i.e., academic researchers, industry researchers, hobby programmers, and students). Analysis of autocompletion events in the\u00a0\u2026",
+      "citation_histogram": [
+        [2020, 1],
+        [2021, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Studying the Software Development Overhead of Build Systems.",
+      "link": "https://www.bac-lac.gc.ca/eng/services/theses/Pages/item.aspx?idNumber=1032932805",
+      "year": 2015,
+      "cited_by": 2,
+      "authors": ["Shane McIntosh"],
+      "description": "Software is developed at a rapid pace. Software development techniques like continuous delivery have shortened the time between official releases of a software system from months or years to a matter of minutes. At the heart of this rapid release cycle of continuously delivered software is the build system, ie, the system that specifies how source code is translated into deliverables. An efficient build system that quickly produces updated versions of a software system is required to keep up with market competitors. However, the benefits of an efficient build system come at a cost---build systems introduce overhead on the software development process. In this thesis, we use historical data from a large collection of software projects to perform four empirical studies. The focus of these empirical studies is on two types of software development overhead that are introduced by the build system. We first present three empirical studies that focus on the maintenance overhead introduced by the need to keep the build system in sync with the source code that it builds. We observe that:(1) although modern build technologies like Maven provide additional features, they tend to be prone to additional build maintenance activity and more prone to cloning, ie, duplication of build logic, than older technologies like make are;(2) although typical cloning rates are higher in build systems than in other software artifacts (eg, source code), there are commonly-adopted patterns of creative build system abstraction that can keep build cloning rates low; and (3) properties of source and test code changes can be used to train accurate classifiers that indicate whether a co\u00a0\u2026",
+      "citation_histogram": [
+        [2015, 1],
+        [2016, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Studying the evolution of build systems",
+      "link": "https://www.bac-lac.gc.ca/eng/services/theses/Pages/item.aspx?idNumber=1019480546",
+      "year": 2011,
+      "cited_by": 2,
+      "authors": ["Shane McIntosh"],
+      "description": "Abstract<? Pub Inc> As a software project ages, its source code is improved by refining existing features, adding new ones, and fixing bugs. Software developers can attest that such changes often require accompanying changes to the infrastructure that converts source code into executable software packages, ie, the build system. Intuition suggests that these build system changes slow down development progress by diverting developer focus away from making improvements to the source code. While source code evolution and maintenance is studied extensively, there is little work that focuses on the build system. In this thesis, we empirically study the static and dynamic evolution of build system complexity in proprietary and open source projects. To help counter potential bias of the study, 13 projects with different sizes, domains, build technologies, and release strategies were selected for examination, including Eclipse, Linux, Mozilla, and JBoss. We find that:(1) similar to Lehman's first law of software evolution, Java build system specifications tend to grow unless explicit effort is invested into restructuring them,(2) the build system accounts for up to 31% of the code files in a project, and (3) up to 27% of source code related development tasks require build maintenance. Project managers should include build maintenance effort of this magnitude in their project planning and budgeting estimations.",
+      "citation_histogram": [
+        [2012, 1],
+        [2013, 1]
+      ],
+      "detail_extracted": true
+    },
+    {
+      "title": "Lessons from eight years of operational data from a continuous integration service: an exploratory case study of CircleCI",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3510003.3510211",
+      "year": 2022,
+      "cited_by": 1,
+      "authors": ["Keheliya Gallaba", "Maxime Lamothe", "Shane McIntosh"],
+      "description": "Continuous Integration (CI) is a popular practice that enables the rapid pace of modern software development. Cloud-based CI services have made CI ubiquitous by relieving software teams of the hassle of maintaining a CI infrastructure. To improve these CI services, prior research has focused on analyzing historical CI data to help service consumers. However, finding areas of improvement for CI service providers could also improve the experience for service consumers. To search for these opportunities, we conduct an empirical study of 22.2 million builds spanning 7,795 open-source projects that used CircleCI from 2012 to 2020. First, we quantitatively analyze the builds (i.e., invocations of the CI service) with passing or failing outcomes. We observe that the heavy and typical service consumer groups spend significantly different proportions of time on seven of the nine build actions (e.g., dependency retrieval\u00a0\u2026",
+      "citation_histogram": [[2022, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "How Does Code Reviewing Feedback Evolve?",
+      "link": "https://rebels.cs.uwaterloo.ca/papers/icse2022_wen.pdf",
+      "year": 2022,
+      "cited_by": 1,
+      "authors": ["Ruiyin Wen", "Maxime Lamothe", "Shane McIntosh"],
+      "description": "Code review is an integral part of modern software development, where fellow developers critique the content, premise, and structure of code changes. Organizations like Dell EMC have made considerable investment in code reviews, yet tracking the characteristics of feedback that code reviews provide (a primary product of the code reviewing process) is still a difficult process. To understand community and personal feedback trends, we perform a longitudinal study of 39,249 reviews that contain 248,695 review comments from a proprietary project that is developed by Dell EMC. To investigate generalizability, we replicate our study on the OpenStack Nova project. Through an analysis guided by topic models, we observe that more context-specific, technical feedback is introduced as the studied projects and communities age and as the reviewers within those communities accrue experience. This suggests that communities are reaping a larger return on investment in code review as they grow accustomed to the practice and as reviewers hone their skills. The code review trends uncovered by our models present opportunities for enterprises to monitor reviewing tendencies and improve knowledge transfer and reviewer skills.",
+      "citation_histogram": [[2022, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Leveraging Fault Localisation to Enhance Defect Prediction",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9425917/",
+      "year": 2021,
+      "cited_by": 1,
+      "authors": [
+        "Jeongju Sohn",
+        "Yasutaka Kamei",
+        "Shane McIntosh",
+        "Shin Yoo"
+      ],
+      "description": "Software Quality Assurance (SQA) is a resource constrained activity. Research has explored various means of sup-porting that activity. For example, to aid in resource investment decisions, defect prediction identifies modules or changes that are likely to be defective in the future. To support repair activities, fault localisation identifies areas of code that are likely to require change to address known defects. Although the identification and localisation of defects are interdependent tasks, the synergy between defect prediction and fault localisation remains largely underexplored.We hypothesise that modifying code that was suspicious in the past is riskier than modifying code that was not. To validate our hypothesis, in this paper, we employ fault localisation, which localises the root cause of a program failure. We compute the past suspiciousness score of code changes to each fault, and use those scores to (1) define new\u00a0\u2026",
+      "citation_histogram": [[2022, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Characterizing and Mitigating Self-Admitted Build Debt",
+      "link": "https://arxiv.org/abs/2102.09775",
+      "year": 2021,
+      "cited_by": 1,
+      "authors": [
+        "Tao Xiao",
+        "Dong Wang",
+        "Shane McIntosh",
+        "Hideaki Hata",
+        "Raula Gaikovina Kula",
+        "Takashi Ishio",
+        "Kenichi Matsumoto"
+      ],
+      "description": "Technical Debt is a metaphor used to describe the situation in which long-term code quality is traded for short-term goals in software projects. In recent years, the concept of self-admitted technical debt (SATD) was proposed, which focuses on debt that is intentionally introduced and described by developers. Although prior work has made important observations about admitted technical debt in source code, little is known about SATD in build systems. In this paper, we coin the term Self-Admitted Build Debt (SABD) and through a qualitative analysis of 500 SABD comments in the Maven build system of 300 projects, we characterize SABD by location and rationale (reason and purpose). Our results show that limitations in tools and libraries, and complexities of dependency management are the most frequent causes, accounting for 49% and 23% of the comments. We also find that developers often document SABD as issues to be fixed later. To automate the detection of SABD rationale, we train classifiers to label comments according to the surrounding document content. The classifier performance is promising, achieving an F1-score of 0.67-0.75. Finally, within 16 identified 'ready-to-be-addressed' SABD instances, the three SABD submitted by pull requests and the five SABD submitted by issue reports were resolved after developers were made aware. Our work presents the first step towards understanding technical debt in build systems and opens up avenues for future work, such as tool support to track and manage SABD backlogs.",
+      "citation_histogram": [[2022, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "[Journal first] are fix-inducing changes a moving target?: A longitudinal case study of just-in-time defect prediction",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8453123/",
+      "year": 2018,
+      "cited_by": 1,
+      "authors": ["Shane McIntosh", "Yasutaka Kamei"],
+      "description": "Just-In-Time (JIT) models identify fix-inducing code changes. JIT models are trained using techniques that assume that past fix-inducing changes are similar to future ones. However, this assumption may not hold, e.g., as system complexity tends to accrue, expertise may become more important as systems age. In this paper, we study JIT models as systems evolve. Through a longitudinal case study of 37,524 changes from the rapidly evolving Qt and OpenStack systems, we find that fluctuations in the properties of fix-inducing changes can impact the performance and interpretation of JIT models. More specifically: (a) the discriminatory power (AUC) and calibration (Brier) scores of JIT models drop considerably one year after being trained; (b) the role that code change properties (e.g., Size, Experience) play within JIT models fluctuates over time; and (c) those fluctuations yield over- and underestimates of the future\u00a0\u2026",
+      "citation_histogram": [[2022, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "An empirical study of goto in C code",
+      "link": "https://peerj.com/preprints/826.pdf",
+      "year": 2015,
+      "cited_by": 1,
+      "authors": [
+        "Meiyappan Nagappan",
+        "Romain Robbes",
+        "Yasutaka Kamei",
+        "Eric Tanter",
+        "Shane McIntosh",
+        "Audris Mockus",
+        "Ahmed E Hassan"
+      ],
+      "description": "It is nearly 50 years since Dijkstra argued that goto obscures the flow of control in program execution and urged programmers to abandon the goto statement. While past research has shown that goto is still in use, little is known about whether goto is used in the unrestricted manner that Dijkstra feared, and if it is \u2018harmful\u2019 enough to be a part of a post-release bug. We, therefore, conduct a two part empirical study - (1) qualitatively analyze a statistically representative sample of 384 files from a population of almost 2 million C programming language files collected from over 11K Github repositories and find that developers use goto in C files for error handling (80.21 \u00b1 5%) and cleaning up resources at the end of a procedure (40.36 \u00b1 5%); and (2) quantitatively analyze the commit history from the release branches of six OSS projects and find that no goto statement was removed/modified in the post-release phase of four of the six projects. We conclude that developers limit themselves to using goto appropriately in most cases, and not in an unrestricted manner like Dijkstra feared, thus suggesting that goto does not appear to be harmful in practice.",
+      "citation_histogram": [[2015, 1]],
+      "detail_extracted": true
+    },
+    {
+      "title": "Code Cloning in Smart Contracts on the Ethereum Platform: An Extended Replication Study",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9894714/",
+      "year": 2022,
+      "cited_by": null,
+      "authors": [
+        "Faizan Khan",
+        "Istvan David",
+        "Daniel Varro",
+        "Shane McIntosh"
+      ],
+      "description": "Smart contracts are programs deployed on blockchains that run upon meeting predetermined conditions. Once deployed, smart contracts are immutable, thus, defects in the deployed code cannot be fixed. As a consequence, software engineering anti-patterns, such as code cloning, pose a threat to code quality and security if unnoticed before deployment. In this paper, we report on the cloning practices of the Ethereum blockchain platform by analyzing 33,073 smart contracts amounting to over 4MLOC. Prior work reported an unusually high 79.2% of code clones in Ethereum smart contracts. We replicate this study at the conceptual level, i.e., we answer the same research questions by employing different methods. In particular, we analyze clones at the granularity of functions instead of code files, thereby providing a more fine-grained estimate of the clone ratio. Furthermore, we analyze more complex clone types\u00a0\u2026",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "How Does Code Reviewing Feedback Evolve?: A Longitudinal Study at Dell EMC",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9793920/",
+      "year": 2022,
+      "cited_by": null,
+      "authors": ["Ruiyin Wen", "Maxime Lamothe", "Shane McIntosh"],
+      "description": "Code review is an integral part of modern software development, where fellow developers critique the content, premise, and structure of code changes. Organizations like DellEMC have made considerable investment in code reviews, yet tracking the characteristics of feedback that code reviews provide (a primary product of the code reviewing process) is still a difficult process. To understand community and personal feedback trends, we perform a longitudinal study of 39,249 reviews that contain 248,695 review comments from a proprietary project that is developed by DellEMC. To investigate generalizability, we replicate our study on the OpenStackn Ova project. Through an analysis guided by topic models, we observe that more context-specific, technical feedback is introduced as the studied projects and communities age and as the reviewers within those communities accrue experience. This suggests that\u00a0\u2026",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Lessons from Eight Years of Operational Data from a Continuous Integration Service",
+      "link": "https://lamothemax.github.io/assets/papers/kgallaba_icse_2022.pdf",
+      "year": 2022,
+      "cited_by": null,
+      "authors": ["Keheliya Gallaba", "Maxime Lamothe", "Shane McIntosh"],
+      "description": "Continuous Integration (CI) is a popular practice that enables the rapid pace of modern software development. Cloud-based CI services have made CI ubiquitous by relieving software teams of the hassle of maintaining a CI infrastructure. To improve these CI services, prior research has focused on analyzing historical CI data to help service consumers. However, finding areas of improvement for CI service providers could also improve the experience for service consumers. To search for these opportunities, we conduct an empirical study of 22.2 million builds spanning 7,795 open-source projects that used CircleCI from 2012 to 2020. First, we quantitatively analyze the builds (ie, invocations of the CI service) with passing or failing outcomes. We observe that the heavy and typical service consumer groups spend significantly different proportions of time on seven of the nine build actions (eg, dependency retrieval). On the other hand, the compilation and testing actions consistently consume a large proportion of build time across consumer groups (median 33%). Second, we study builds that terminate prior to generating a pass or fail signal. Through a systematic manual analysis, we find that availability issues, configuration errors, user cancellation, and exceeding time limits are key reasons that lead to premature build termination. Our observations suggest that (1) heavy service consumers would benefit most from build acceleration approaches that tackle long build durations (eg, skipping build steps) or high throughput rates (eg, optimizing CI service job queues),(2) efficiency in CI pipelines can be improved for most CI consumers by focusing on the\u00a0\u2026",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Assessing the Exposure of Software Changes: The DiPiDi Approach",
+      "link": "https://arxiv.org/abs/2104.00725",
+      "year": 2021,
+      "cited_by": null,
+      "authors": ["Mehran Meidani", "Maxime Lamothe", "Shane McIntosh"],
+      "description": "Context: Changing a software application with many build-time configuration settings may introduce unexpected side-effects. For example, a change intended to be specific to a platform (e.g., Windows) or product configuration (e.g., community editions) might impact other platforms or configurations. Moreover, a change intended to apply to a set of platforms or configurations may be unintentionally limited to a subset. Indeed, understanding the exposure of source code changes is an important risk mitigation step in change-based development approaches. Objective: In this experiment, we seek to evaluate DiPiDi, a prototype implementation of our approach to assess the exposure of source code changes by statically analyzing build specifications. We focus our evaluation on the effectiveness and efficiency of developers when assessing the exposure of source code changes. Method: We will measure the effectiveness and efficiency of developers when performing five tasks in which they must identify the deliverable(s) and conditions under which a change will propagate. We will assign participants into three groups: without explicit tool support, supported by existing impact analysis tools, and supported by DiPiDi.",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Proceedings of the 17th International Conference on Predictive Models and Data Analytics in Software Engineering",
+      "link": "https://catalog.lib.kyushu-u.ac.jp/ja/recordID/4488281/",
+      "year": 2021,
+      "cited_by": null,
+      "authors": ["Shane McIntosh"],
+      "description": null,
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Guest Editorial: Special Issue on Predictive Models and Data Analytics in Software Engineering",
+      "link": "https://link.springer.com/article/10.1007/s10664-020-09811-0",
+      "year": 2020,
+      "cited_by": null,
+      "authors": [
+        "Ayse Tosun",
+        "Shane McIntosh",
+        "Leandro Minku",
+        "Burak Turhan"
+      ],
+      "description": "Applications of predictive modelling and data analytics in software engineering have been a long term and an established interest among researchers and practitioners. Such models and analyses can be targeted at: planning, design, implementation, testing, maintenance, quality assurance, evaluation, process improvement, management, decision making, and risk assessment in software and systems development. This interdisciplinary research between the software engineering and data mining communities also targets verifiable and repeatable experiments that are useful in practice.This special section on Predictive Models and Data Analytics in Software Engineering presents extended versions of papers from the 14th International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE 2018). The conference was founded in 2004 as a workshop to bring researchers and\u00a0\u2026",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Replication Package for\" Threats of Aggregating Software Repository Data\"",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8530085/",
+      "year": 2018,
+      "cited_by": null,
+      "authors": ["Martin P Robillard", "Mathieu Nassif", "Shane McIntosh"],
+      "description": "This artifact is a data set generated as part of a study on the threats of aggregating software repository data, which includes information derived from the GitHub repositories of eight open-source projects.",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Exploring the Notion of Risk in Code Reviewer Recommendation",
+      "link": "https://rebels.cs.uwaterloo.ca/papers/icsme2022_kazemi.pdf",
+      "year": null,
+      "cited_by": null,
+      "authors": ["Farshad Kazemi", "Maxime Lamothe", "Shane McIntosh"],
+      "description": "\u00d0Reviewing code changes allows stakeholders to improve the premise, content, and structure of changes prior to or after integration. However, assigning reviewing tasks to team members is challenging, particularly in large projects. Code reviewer recommendation has been proposed to assist with this challenge. Traditionally, the performance of reviewer recommenders has been derived based on historical data, where better solutions are those that recommend exactly which reviewers actually performed tasks in the past. More recent work expands the goals of recommenders to include mitigating turnoverbased knowledge loss and avoiding overburdening the core development team. In this paper, we set out to explore how reviewer recommendation can incorporate the risk of defect proneness. To this end, we propose the Changeset Safety Ratio (CSR)\u00b1an evaluation measurement designed to capture the risk of defect proneness. Through an empirical study of three open source projects, we observe that:(1) existing approaches tend to improve one or two quantities of interest, such as core developers workload while degrading others (especially the CSR);(2) Risk Aware Recommender (RAR)\u00b1our proposed enhancement to multi-objective reviewer recommendation\u00b1achieves a 12.48% increase in expertise of review assignees and a 80% increase in CSR with respect to historical assignees, all while reducing the files at risk of knowledge loss by 19.39% and imposing a negligible 0.93% increase in workload for the core team; and (3) our dynamic method outperforms static and normalizationbased tuning methods in adapting RAR to suit risk\u00a0\u2026",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "NIER 2022 Program Committee",
+      "link": "https://www.computer.org/csdl/proceedings-article/icse-nier/2022/959600z012/1EaOLvSq4Hm",
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Alessandra Russo",
+        "Annibale Panichella",
+        "Arosha Bandara",
+        "Austen Rainer",
+        "Claudio Menghi",
+        "Earl Barr",
+        "Emitza Guzman",
+        "Fabiano Dalpiaz",
+        "Fernando Castor",
+        "Filomena Ferrucci",
+        "Gail Murphy",
+        "Hamid Bagheri",
+        "Julia Lawall",
+        "Licia Capra",
+        "Marcelo d'Amorim",
+        "Markus Wagner",
+        "Michel Chaudron",
+        "Michele Lanza",
+        "Minghui Zhou",
+        "Philipp Leitner",
+        "Pooyan Jamshidi",
+        "Raffaela Mirandola",
+        "Robyn Lutz",
+        "Sergio Segura",
+        "Shane McIntosh",
+        "Shin Hwei Tan",
+        "Timo Kehrer",
+        "Titus Barik",
+        "Tung Nguyen",
+        "Xin Peng",
+        "Xin Xia",
+        "Yann-Ga\u00ebl Gu\u00e9h\u00e9neuc",
+        "Ying Wang",
+        "Abram Hindle",
+        "David Lo",
+        "Premkumar Devanbu"
+      ],
+      "description": "Program Committee of ICSE-NIER 2022 IEEE.org Help Cart Jobs Board Create Account Toggle \nnavigation IEEE Computer Society Digital Library Jobs Tech News Resource Center Press \nRoom Advertising About Us IEEE IEEE Computer Society IEEE Computer Society Digital Library \nMy Subscriptions Magazines Journals Conference Proceedings Institutional Subscriptions \nIEEE IEEE Computer Society More Jobs Tech News Resource Center Press Room Advertising \nAbout Us Cart All Advanced Search Conference Cover Image Download 1.Home \n2.Proceedings 3.icse-nier 2022 Program Committee of ICSE-NIER 2022 2022, pp. 12-12, DOI \nBookmark: 10.1109/ICSE-NIER55298.2022.9793508 Keywords Authors NIER 2022 Program \nCommittee Alessandra Russo, Imperial College London, United Kingdom Annibale Panichella, \nDelft University of Technology, Netherlands Arosha Bandara, Open University, United \u2026",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "MSR 2022 Program Committee",
+      "link": "https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/1Eo61RSgX2o/pdf",
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Shane McIntosh",
+        "Nicole Novielli",
+        "Abbas Heydarnoori",
+        "Ajay Kumar Jha",
+        "Akond Rahman",
+        "Alberto Bacchelli",
+        "Alessio Ferrari",
+        "Alexander Serebrenik",
+        "Amjed Tahir",
+        "Anand Ashok Sawant",
+        "Andrea Mocci",
+        "Andreea Vescan",
+        "Andy Meneely",
+        "Annie Ying",
+        "Aurora Ram\u00edrez",
+        "Barbara Russo",
+        "Bernhard Berger",
+        "Bin Lin",
+        "Bogdan Vasilescu",
+        "Breno Miranda",
+        "Chetan Bansal",
+        "Christian Bird",
+        "Christoph Treude",
+        "Chunyang Chen",
+        "Cor-Paul Bezemer",
+        "Daniel Alencar da Costa",
+        "Danielle Gonzalez",
+        "Dario Di Nucci",
+        "Diego Elias Costa",
+        "Diomidis Spinellis",
+        "Djamel Eddine Khelladi"
+      ],
+      "description": "Program Committee Page 1 MSR 2022 Program Committee MSR Technical Papers Program \nCo-Chairs Shane McIntosh, University of Waterloo, Canada Nicole Novielli, University of Bari, \nItaly Program Committee Members Abbas Heydarnoori, Sharif University of Technology, Iran \nAjay Kumar Jha, University of Alberta, Canada Akond Rahman, Tennessee Tech University, \nUnited States of America Alberto Bacchelli, University of Zurich, Switzerland Alessio Ferrari, \nISTI-CNR, Italy Alexander Serebrenik, Eindhoven University of Technology, Netherlands Amjed \nTahir, Massey University, Palmerston North, New Zealand Anand Ashok Sawant, Siemens \nCorporate Technology, United States of America Andre Hora, UFMG, Brazil Andrea Mocci, \nSoftware Institute, Universit\u00e0 della Svizzera italiana, Switzerland Andreea Vescan, Babes-Bolyai \nUniversity, Romania Andy Meneely, Rochester Institute of Technology, United States \u2026",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Leveraging HPC Resources to Improve the Experimental Design of Software Analytics",
+      "link": "http://chakkrit.com/assets/papers/tantithamthavorn2017hpcs.pdf",
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Chakkrit Kla Tantithamthavorn",
+        "Shane McIntosh",
+        "Ahmed E Hassan",
+        "Kenichi Matsumoto"
+      ],
+      "description": "Software quality analytics is a statistical or machine learning classifier that is trained to identify defect-prone software modules. The goal of software quality analytics is to help software engineers prioritize their software testing effort on the most risky modules and understand past pitfalls that lead to defective code. While the adoption of software quality analytics enables software organizations to distill actionable insights, there are still many barriers to broad and successful adoption of such analytics systems. Indeed, even if software organizations can access such invaluable software artifacts and toolkits for data analytics, researchers and practitioners often have little knowledge to properly develop analytics systems. Thus, the correctness of the predictions and the insights that are derived from analytics systems is one of the most important challenges of data science in software engineering. In this work, we conduct a series of empirical investigation to better understand the impact of experimental components (ie, class mislabelling, parameter optimization of classification techniques, and model validation techniques) on the performance and interpretation of software quality analytics. To accelerate the large amount of compute-intensive experiment, we leverage the High-Performance-Computing (HPC) resources of Centre for Advanced Computing (CAC) from Queen\u2019s University, Canada. Through case studies of systems that span both proprietary and opensource domains, we demonstrate that (1) class mislabelling does not impact the precision of software quality analytics;(2) automated parameter optimization for classification techniques\u00a0\u2026",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Why Did This Reviewed Code Crash?",
+      "link": "https://rebels.cs.uwaterloo.ca/papers/apsec2018_an.pdf",
+      "year": null,
+      "cited_by": null,
+      "authors": ["Shane McIntosh", "Marco Castelluccio"],
+      "description": "Code review, ie, the practice of having other team members critique changes to a software system, is a pillar of modern software quality assurance approaches. Although this activity aims at improving software quality, some high-impact defects, such as crash-related defects, can elude the inspection of reviewers and escape to the field, affecting user satisfaction and increasing maintenance overhead. In this research, we investigate the characteristics of crash-prone code, observing that such code tends to have high complexity and depend on many other classes. In the code review process, developers often spend a long time on and have long discussions about crash-prone code. We manually classify a sample of reviewed crash-prone patches according to their purposes and root causes. We observe that most crashprone patches aim to improve performance, refactor code, add functionality, or fix previous crashes. Memory and semantic errors are identified as major root causes of the crashes. Our results suggest that software organizations should apply more scrutiny to these types of patches, and provide better support for reviewers to focus their inspection effort by using static analysis tools.",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Is Historical Data an Appropriate Benchmark for Reviewer Recommendation Systems?",
+      "link": "https://rebels.cs.uwaterloo.ca/papers/ase2021_gauthier.pdf",
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Ian X Gauthier",
+        "Maxime Lamothe",
+        "Gunter Mussbacher",
+        "Shane McIntosh"
+      ],
+      "description": "Reviewer recommendation systems are used to suggest community members to review change requests. Like several other recommendation systems, it is customary to evaluate recommendations using held out historical data. While historybased evaluation makes pragmatic use of available data, historical records may be:(1) overly optimistic, since past assignees may have been suboptimal choices for the task at hand; or (2) overly pessimistic, since \u201cincorrect\u201d recommendations may have been equal (or even better) choices.In this paper, we empirically evaluate the extent to which historical data is an appropriate benchmark for reviewer recommendation systems. We replicate the CHREV and WLRREC approaches and apply them to 9,679 reviews from the GERRIT open source community. We then assess the recommendations with members of the GERRIT reviewing community using quantitative methods (personalized questionnaires about their comfort level with tasks) and qualitative methods (semi-structured interviews). We find that history-based evaluation is far more pessimistic than optimistic in the context of GERRIT review recommendations. Indeed, while 86% of those who had been assigned to a review in the past felt comfortable handling the review, 74% of those labelled as incorrect recommendations also felt that they would have been comfortable reviewing the changes. This indicates that, on the one hand, when reviewer recommendation systems recommend the past assignee, they should indeed be considered correct. Yet, on the other hand, recommendations labelled as incorrect because they do not match the past assignee\u00a0\u2026",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "The Impact of Switching to a Rapid Release Cycle on the Integration Delay of Addressed Issues",
+      "link": "https://www.researchgate.net/profile/Ahmed-E-Hassan-2/publication/303413559_The_impact_of_switching_to_a_rapid_release_cycle_on_the_integration_delay_of_addressed_issues_an_empirical_study_of_the_mozilla_firefox_project/links/5b7f25404585151fd12e6b59/The-impact-of-switching-to-a-rapid-release-cycle-on-the-integration-delay-of-addressed-issues-an-empirical-study-of-the-mozilla-firefox-project.pdf",
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Daniel Alencar da Costa",
+        "Shane McIntosh",
+        "Uir\u00e1 Kulesza",
+        "Ahmed E Hassan"
+      ],
+      "description": "The release frequency of software projects has increased in recent years. Adopters of so-called rapid release cycles claim that they can deliver addressed issues (ie, bugs, enhancements, and new features) to users more quickly. However, there is little empirical evidence to support these claims. In fact, in our prior work, we found that code integration phases may introduce delays in rapidly releasing software\u201498% of addressed issues in the rapidly releasing Firefox project had their integration delayed by at least one release. To better understand the impact that rapid release cycles have on the integration delay of addressed issues, we perform a comparative study of traditional and rapid release cycles. Through an empirical study of 72,114 issue reports from the Firefox system, we observe that, surprisingly, addressed issues take a median of 50 days longer to be integrated in rapid Firefox releases than the traditional ones. To investigate the factors that are related to integration delay in traditional and rapid release cycles, we train regression models that explain if an addressed issue will have its integration delayed or not. Our explanatory models achieve good discrimination (ROC areas of 0.81-0.83) and calibration scores (Brier scores of 0.05-0.16). Deeper analysis of our explanatory models indicates that traditional releases prioritize the integration of backlog issues, while rapid releases prioritize issues that were addressed during the current release cycle. Our results suggest that rapid release cycles may not be a silver bullet for the rapid delivery of addressed issues to users.",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Posters Program Committee of ICSE 2020",
+      "link": "https://www.computer.org/csdl/proceedings-article/icse-companion/2020/712200z021/1pcSJ9Oqnlu",
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Collin McMillan",
+        "Tingting Yu",
+        "Mithun P Acharya",
+        "John Anvik",
+        "Gabriele Bavota",
+        "Olga Baysal",
+        "Kelly Blincoe",
+        "Hyunsook Do",
+        "Joshua Garcia",
+        "Gregory Gay",
+        "Yepang Liu",
+        "Shane McIntosh",
+        "Kevin Moran",
+        "Laura Moreno",
+        "ThanhVu Nguyen",
+        "Paige Rodeghero",
+        "Corina S Pasareanu",
+        "Romain Robbes",
+        "Linhai Song",
+        "Hironori Washizaki",
+        "Mohamed Wiem Mkaouer",
+        "Lu Xiao",
+        "Annie TT Ying",
+        "Shin Yoo"
+      ],
+      "description": "Posters Program Committee of ICSE 2020 IEEE.org Help Cart Jobs Board Create Account \nToggle navigation IEEE Computer Society Digital Library Jobs Tech News Resource Center \nPress Room Advertising About Us IEEE IEEE Computer Society IEEE Computer Society Digital \nLibrary My Subscriptions Magazines Journals Conference Proceedings Institutional \nSubscriptions IEEE IEEE Computer Society More Jobs Tech News Resource Center Press \nRoom Advertising About Us Cart All Advanced Search Conference Cover Image Download \n1.Home 2.Proceedings 3.icse-companion 2020 Posters Program Committee of ICSE 2020 2020, \npp. 21-21, DOI Bookmark: Keywords Authors Posters Program Committee of ICSE 2020 Collin \nMcMillan, University of Notre Dame Tingting Yu, University of Kentucky Mithun P. Acharya, ABB \nCorporate Research John Anvik, University of Lethbridge Gabriele Bavota, Universit\u00e0 della \u2026",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "SEConfig 2019 Organization",
+      "link": "https://www.computer.org/csdl/proceedings-article/asew/2019/413600z024/1h0I4JhK0co",
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "J\u00fcrgen Cito",
+        "Mark Santolucito",
+        "Arjun Guha",
+        "Bram Adams",
+        "Chris Parnin NCSU",
+        "Christan Macho",
+        "Christopher Meiklejon",
+        "Ennan Zhai Alibaba",
+        "Erik Wittern",
+        "Jay Goldberg TwoSigma",
+        "Markus Raab",
+        "Martin Gehrke TwoSigma",
+        "Ruzica Piskac",
+        "Shane McIntosh",
+        "Tianyin Xu"
+      ],
+      "description": "SEConfig 2019 Organization IEEE.org Help Cart Jobs Board Create Account Toggle navigation \nIEEE Computer Society Digital Library Jobs Tech News Resource Center Press Room \nAdvertising About Us IEEE IEEE Computer Society IEEE Computer Society Digital Library My \nSubscriptions Magazines Journals Conference Proceedings Institutional Subscriptions IEEE \nIEEE Computer Society More Jobs Tech News Resource Center Press Room Advertising About \nUs Cart All Advanced Search Conference Cover Image Download 1.Home 2.Proceedings 3.asew \n2019 SEConfig 2019 Organization 2019, pp. 24-24, DOI Bookmark: 10.1109/ASEW.2019.00014 \nKeywords Authors Abstract Provides a listing of current committee members and society \nofficers. SEConfig 2019 Organization Organizing Committee J\u00fcrgen Cito Massachusetts \nInstitute of Technology, United States Mark Santolucito Yale University, United States \u2026",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Tools Track Program Committee of ICPC 2019",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8813287/",
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Gustavo Ansaldi Oliva",
+        "Venera Arnaoudova",
+        "Eun-jong Choi",
+        "Coen De Roover",
+        "Keheliya Gallaba",
+        "Oleksii Kononenko",
+        "Shane McIntosh",
+        "Hitesh Sajnani",
+        "Norihiro Yoshida"
+      ],
+      "description": "Tools Track Program Committee | IEEE Conference Publication | IEEE Xplore Skip to Main \nContent Tools Track Program Committee Abstract: Provides a listing of current committee \nmembers and society officers. Published in: 2019 IEEE/ACM 27th International Conference \non Program Comprehension (ICPC) Article #: Date of Conference: 25-26 May 2019 Date \nAdded to IEEE Xplore: 29 August 2019 ISBN Information: Electronic ISBN: 978-1-7281-1519-1 \nPrint on Demand(PoD) ISBN: 978-1-7281-1520-7 ISSN Information: Electronic ISSN: 2643-7171 \nPrint on Demand(PoD) ISSN: 2643-7147 INSPEC Accession Number: Persistent Link: https://xplorestaging.ieee.org/servlet/opac?punumber=8797605 \nMore \u00bb Publisher: IEEE IEEE Account Change Username/Password Update Address \nPurchase Details Payment Options Order History View Purchased Documents Profile \nInformation Communications Preferences \u2026",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Research Track Program Committee of ICPC 2019",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8813299/",
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Giuliano Antoniol",
+        "Venera Arnaoudova",
+        "Alberto Bacchelli",
+        "Gabriele Bavota",
+        "Andrew Begel",
+        "John Businge",
+        "Tse-Hsun Pete Chen",
+        "Eun-jong Choi",
+        "Andrea De Lucia",
+        "Anne Etien",
+        "Dror Feitelson",
+        "Thomas Fritz",
+        "Carmine Gravino",
+        "Shinpei Hayashi",
+        "Lingxiao Jiang",
+        "Huzefa Kagdi",
+        "Maria Kechagia",
+        "Raula Gaikovina Kula",
+        "Shinji Kusumoto",
+        "Li Li",
+        "Shane Mcintosh",
+        "Leon Moonen",
+        "Rodrigo Morales",
+        "Maleknaz Nayebi",
+        "Christian Newman",
+        "Matheus Paixao",
+        "Fabio Palomba",
+        "Mike Papadakis",
+        "Chris Parnin",
+        "Fabio Petrillo",
+        "Sebastian Proksch",
+        "Chaiyong Ragkhitwetsagul",
+        "Paige Rodeghero",
+        "Chanchal K Roy",
+        "Hitesh Sajnani",
+        "Giuseppe Scanniello",
+        "Alexander Serebrenik",
+        "Janet Siegmund",
+        "Mark Syer",
+        "Nikolaos Tsantalis",
+        "Burak Turhan",
+        "Yan Wang",
+        "Shaowei Wang",
+        "Xin Xia",
+        "Zhenchang Xing"
+      ],
+      "description": "Research Track Program Committee Page 1 Research Track Program Committee of ICPC 2019 \nGiuliano Antoniol, Polytechnique Montr\u00e9al, Montr\u00e9al, Canada Venera Arnaoudova, Washington \nState University, Pullman, USA Alberto Bacchelli, University of Zurich, Z\u00fcrich, Switzerland \nGabriele Bavota, Universit\u00e0 della Svizzera Italiana, Lugano, Switzerland Andrew Begel, \nMicrosoft, Redmond, USA John Businge, Mbarara University of Science and Technology, \nMbarara, Uganda Tse-Hsun Pete Chen, Concordia University, Montr\u00e9al, Canada Eun-jong \nChoi, Nara Institute of Science and Technology, Ikoma, Japan Andrea De Lucia, University of \nSalerno, Fisciano, Italy Anne Etien, University of Lille, Lille, France Dror Feitelson, Hebrew \nUniversity, Jerusalem, Israel Thomas Fritz, University of Zurich, Z\u00fcrich, Switzerland Carmine \nGravino, University of Salerno, Fisciano, Italy Shinpei Hayashi, Tokyo Institute of Technology, \u2026",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "IWESEP 2018",
+      "link": "https://www.computer.org/csdl/proceedings-article/iwesep/2018/043900z009/18j9xb9azsc",
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Sousuke Amasaki",
+        "Kelly Blincoe",
+        "Daniel German",
+        "Marco Gerosa",
+        "Shinpei Hayashi",
+        "Yoshiki Higo",
+        "Kiyoshi Honda",
+        "Shin Hong",
+        "Akinori Ihara",
+        "Yasutaka Kamei",
+        "Tetsuya Kanda",
+        "Yepang Liu",
+        "David Lo",
+        "Yuki Manabe",
+        "Shane Mcintosh",
+        "Osamu Mizuno",
+        "Passakorn Phannachitta",
+        "Patanamon Thongtanunam",
+        "Xin Xia",
+        "Aiko Yamashita",
+        "Thomas Zimmermann"
+      ],
+      "description": "Program Committee IEEE.org Help Cart Jobs Board Create Account Toggle navigation IEEE \nComputer Society Digital Library Jobs Tech News Resource Center Press Room Browse By \nDate Advertising About Us IEEE IEEE Computer Society IEEE Computer Society Digital Library \nMy Subscriptions Magazines Journals Conference Proceedings Institutional Subscriptions \nIEEE IEEE Computer Society More Jobs Tech News Resource Center Press Room Browse \nBy Date Advertising About Us Cart All Advanced Search Conference Cover Image Download \n1.Home 2.Proceedings 3.iwesep 2018 Program Committee 2018, pp. 9-9, DOI Bookmark: \n10.1109/IWESEP.2018.00007 Keywords Authors Abstract Provides a listing of current \ncommittee members and society officers. Program Committee ,IWESEP 2018 , ,Bram Adams, \n,MCIS, Polytechnique Montr\u00e9al, Canada ,Sousuke Amasaki, ,Okayama Prefectural University, \u2026",
+      "citation_histogram": null,
+      "detail_extracted": true
+    },
+    {
+      "title": "Using HPC Resources to Exploit Big Data for Code Review Analytics",
+      "link": "http://patanamon.com/assets/publications/Thongtanunam_HPCS2017_using-HPC-Resources-to-Exploit-Big-Data-for-Code-Review-Analytics.pdf",
+      "year": null,
+      "cited_by": null,
+      "authors": [
+        "Patanamon Thongtanunam",
+        "Shane McIntosh",
+        "Ahmed E Hassan",
+        "Hajimu Iida"
+      ],
+      "description": "Code review is one of the crucial software activities where developers and stakeholders collaborate with each other in order to assess software changes. Since code review processes act as a final gate for new software changes to be integrated into the software product, an intense collaboration is necessary in order to prevent defects and produce a high quality of software products. Recently, code review analytics has been implemented in projects (for example, StackAnalytics4 of the OpenStack project) to monitor the collaboration activities between developers and stakeholders in the code review processes. Yet, due to the large volume of software data, code review analytics can only report a static summary (eg, counting), while neither insights nor instant suggestions are provided. Hence, to better gain valuable insights from software data and help software projects make a better decision, we conduct an empirical investigation using statistical approaches. In particular, we use the large-scale data of 196,712 reviews spread across the Android, Qt, and OpenStack open source projects to train a prediction models in order to uncover the relationship between the characteristics of software changes and the likelihood of having poor code review collaborations. We extract 20 patch characteristics which are grouped along five dimensions, ie, software changes properties, review participation history, past involvement of a code author, past involvement of reviewers, and review environment dimensions. To validate our findings, we use the bootstrap technique which repeat the experiment 1,000 times. Due to the large volume of studied data, and an\u00a0\u2026",
+      "citation_histogram": null,
+      "detail_extracted": true
+    }
+  ],
+  "all_publications_retrieved": true,
+  "all_publications_extracted": true
+}
