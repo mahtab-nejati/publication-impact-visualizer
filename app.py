@@ -25,7 +25,7 @@ TIMESPAN = 3
 PROPER_YEARS = True
 SAMPLE_AUTHORS = {'Choose one': '',
                   'Jimmy Lin': '0EWw1z8AAAAJ',
-                  #   'Some Other Guy': 'kukA0LcAAAAJ',  # TODO: Fix name
+                  'Yoshua Bengio': 'kukA0LcAAAAJ',
                   'Geoffrey Hinton': 'JicYPdAAAAAJ',
                   'Yann LeCun': 'WLN3QrAAAAAJ',
                   'Charles L. A. Clarke': 'TkVleDIAAAAJ',
